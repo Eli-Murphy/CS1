@@ -7,8 +7,11 @@ def main():
     print("hello")
     
     fruit = 'banana'
-    letter = fruit[5]
-    print(letter)
+    len(fruit)
+    
+    fruit = 'banana'
+    fruit[:]
+
     
 if __name__ == '__main__':
     main()
