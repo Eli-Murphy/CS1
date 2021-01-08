@@ -11,6 +11,8 @@ Bugs: Single player point errors *fixed*
 Bonus: Rigged function, Multiplayer function, Game determines who wins on singleplayer, User has option to play again
 
 @author: EMurphy24
+
+hello
 '''
 
 from random import randint
