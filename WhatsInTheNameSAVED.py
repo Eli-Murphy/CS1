@@ -2,9 +2,10 @@
 Created on Jan 8, 2021
 
 Logs: January 13th: Added 6 functions, 1,2,4,5,6,7 (3 has made me stumped)
-                    Functions include flip(), vowelconst(), UL(), palindrome(), mixup(), split()
+                    Functions include flip(), vowelconst(), UL(), palindrome(), mixup(), split()\
+      January 14th: Added Hyphen checker and global name variable
 
-Bugs: Dosent have global variable, numbers error 
+Bugs: numbers error 
 
 Initiative: Modifies your name in multiple ways, using functions made by me.
 
