@@ -4,16 +4,17 @@ Created on Jan 8, 2021
 @author: EMurphy24
 '''
 
-#word = ""
+
+
 import random
 
 def main():
-    print("Welcome to the Name Modifier! Made by Eli Murphy\n")
     #word = input("Before we begin, what is the name you will be modifying? ")
     while True:
-        print("Main Menu options:")
+        print("\n\nMain Menu options:")
         print("For flipping your name press '1'")
         print("For the counting of vowels and consonants press '2'")
+        print("For testing to see if there is a hyphen, press '3'")
         print("For changing capitalization, press '4'")
         print("For palindrome testing, press '5'")
         whereto = input("Input here:")
@@ -21,26 +22,28 @@ def main():
             flip() #goto flip()
         elif whereto == "2":
             vowelconst() #goto vowelconst()
+        elif whereto == "3":
+            hyphen()
         elif whereto =="4":
             UL() #goto UL()
         elif whereto == "5":
             isPalindrome() #goto isPalindrome
         elif whereto =="6":
             mixup()
+        #elif whereto == "7":
+            #split()
         else:
             break
         
         
         
 def flip():
-    word= input("What is your name (First Middle Last): ")
     name_flip = word[::-1]
     print("Your name backwards is " + name_flip)
     main()
     
     
 def vowelconst():
-    word = input("What is your name (First Middle Last): ")
     
     #VARIABLES
     space_count = 0
@@ -63,10 +66,20 @@ def vowelconst():
         print("invalid input")
         vowelconst()
         
+def hyphenF(word):
+    if "-" in word:
+        return True
+    return False
         
-
+def hyphen():
+    ans = hyphenF(word)
+    
+    if (ans):
+        print("Yes\n\n")
+    else:
+        print("No\n\n")
+    
 def UL():
-    word = input("What is your name (First Middle Last): ")
     u_or_l = input("Would you like it in upper case (1), lower case (2), or flipped (3)? ")
     
     #VARIABLES
@@ -74,17 +87,17 @@ def UL():
     output = ""
     
     if u_or_l == "1":
-        for index in range(len(word)):
-            letter = word[index]
-            letter_num = ord(letter)
-            #print("62", letter_num)
-            #letter = chr(letter_num)
-            if letter_num >= 97 and letter_num <= 122:
-                letter_num = letter_num - 32
-                #print("66", letter_num)
+            for index in range(len(word)):
+                letter = word[index]
+                letter_num = ord(letter)
+                #print("62", letter_num)
+                #letter = chr(letter_num)
+                if letter_num >= 97 and letter_num <= 122:
+                    letter_num = letter_num - 32
+                    #print("66", letter_num)
             letter = chr(letter_num)
             output = output + str(letter)
-        print(output)
+            print(output)
               
     elif u_or_l == "2":
         for index in range(len(word)):
@@ -103,35 +116,36 @@ def UL():
         UL()
 
 
-def isPalindromeF(str):
+def isPalindromeF(word):
  
-     
-    for index in range(0, int(len(str)/2)): #Runs loop for half of the length of the input 
-        if str[index] != str[len(str)-index-1]: # if half of the string's index is not half of the index backwards,
+    for index in range(0, int(len(word)/2)): #Runs loop for half of the length of the input 
+        if word[index] != str[len(word)-index-1]: # if half of the string's index is not half of the index backwards,
             return False
     return True
  
 def isPalindrome():
-    word = input("What is your name (First Middle Last): ")
     ans = isPalindromeF(word) #runs IsPalindromeF() to see if true
  
     if (ans):
-        print("Yes\n\n")
+        print("\n\nThere is a hyphen in your name.")
     else:
-        print("No\n\n")
+        print("\n\nNo Hyphen in your name.")
 def mixup():
-    word = input("What is your name (First Middle Last): ")
-    wordlist = list(word)
+    word = "eli"
     newword = []
+    newword_str = ""
+    wordlist = []
     for index in range(len(word)):
-        letter = random.choice(wordlist)
+        letter = random.choice(newword)
+        print(letter)
         newword.append(letter)
         wordlist.remove(letter)
         newword_str = ''.join(newword)
     print(newword_str + "\n\n")
         
-        
-    
+print("Welcome to the Name Modifier! Made by Eli Murphy\n")
+word = input("What is your name? (First, Middle, Last): ")
+
                 
 if __name__ == '__main__':
     main()
