@@ -174,7 +174,6 @@ def main():
     while True:
         word = input("What is your name? (First, Middle, Last): ")
         unwanted = True
-    #if "1" in word or "2" in word or "3" in word or "4" in word or "5" in word or "6" in word or "7" in word or "8" in word or "9" in word or "0" in word:
         for index in range(len(word)):
             letter = word[index]
             letter_num = ord(letter)
