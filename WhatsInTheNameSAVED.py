@@ -5,7 +5,7 @@ Logs: January 13th: Added 6 functions, 1,2,4,5,6,7 (3 has made me stumped)
                     Functions include flip(), vowelconst(), UL(), palindrome(), mixup(), split()\
       January 14th: Added Hyphen checker and global name variable
 
-Bugs: numbers error 
+Bugs: Symbols error 
 
 Initiative: Modifies your name in multiple ways, using functions made by me.
 
@@ -16,9 +16,9 @@ Bonus: Main Menu (main()), assorted array of characters (mixup())
 
 import random
 
-def main():
+def menu():
     while True:
-        print("Main Menu options:")
+        print("\nMain Menu options:")
         print("For flipping your name press '1'")
         print("For the counting of vowels and consonants press '2'")
         print("For Hyphen checking, press '3'")
@@ -77,12 +77,12 @@ def vowelconst():
         vowelconst()
         
 def hyphenF(word):
-    if "-" in word:
-        return True
+    if "-" in word:                                 #Checks hyphen
+        return True                                 #Sets ans of the function to be either T or F
     return False
         
 def hyphen():
-    ans = hyphenF(word)
+    ans = hyphenF(word)                             
     
     if (ans):
         print("Yes\n\n")
@@ -135,9 +135,9 @@ def palindrome():
     else:
         print("No\n\n")
 def mixup():
-    wordlist = list(word)
-    newword = []
-    for index in range(len(word)):
+    wordlist = list(word)                               #Converts input to list
+    newword = []                                        #Blank list to be filled
+    for index in range(len(word)):                      #
         letter = random.choice(wordlist)
         newword.append(letter)
         wordlist.remove(letter)
@@ -165,10 +165,27 @@ def split():
         print("Please input a three worded phrase or use dashes to signify multi-worded names. ex. Mary-Jane")
         split()
     print("Your isolated word is "+ name)
-        
-print("Welcome to the Name Modifier! Made by Eli Murphy\n")
-word = input("What is your name? (First, Middle, Last): ")        
-        
+    
+    
+
+print("Welcome to the Name Modifier! Made by Eli Murphy\n") #Code starts here
+
+def main():       
+    while True:
+        word = input("What is your name? (First, Middle, Last): ")
+        unwanted = True
+    #if "1" in word or "2" in word or "3" in word or "4" in word or "5" in word or "6" in word or "7" in word or "8" in word or "9" in word or "0" in word:
+        for index in range(len(word)):
+            letter = word[index]
+            letter_num = ord(letter)
+            if letter_num >= 97 and letter_num <= 122 or letter_num >= 65 and letter_num <= 90 or letter_num == 32:
+                unwanted = True
+            else:
+                print("\nPlease input a character through A-Z or a-z.\n")
+                unwanted = False                                         
+                break
+        if unwanted == True:
+            menu()
     
                 
 if __name__ == '__main__':
