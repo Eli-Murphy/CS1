@@ -28,17 +28,17 @@ def menu():
         print("For splitting your name, press '7'\n")
         whereto = input("Input here:")
         if whereto == "1":
-            flip()          #goto flip()
+            flip()                                  #goto flip()
         elif whereto == "2":
-            vowelconst()    #goto vowelconst()
+            vowelconst()                            #goto vowelconst()
         elif whereto =="4":
-            UL()            #goto UL()
+            UL()                                    #goto UL()
         elif whereto == "5":
-            palindrome()  #goto palindrome
+            palindrome()                            #goto palindrome
         elif whereto =="6":
-            mixup()         #goto mixup()
+            mixup()                                 #goto mixup()
         elif whereto == "7":
-            split()         #goto split()
+            split()                                 #goto split()
         else:
             break
         
