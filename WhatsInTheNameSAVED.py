@@ -14,6 +14,8 @@ Bonus: Main Menu (main()), assorted array of characters (mixup())
 @author: EMurphy24
 '''
 
+word = ""
+
 import random
 
 def menu():
@@ -31,6 +33,8 @@ def menu():
             flip()                                  #goto flip()
         elif whereto == "2":
             vowelconst()                            #goto vowelconst()
+        elif whereto == "3":
+            hyphen()                                #goto hyphen()
         elif whereto =="4":
             UL()                                    #goto UL()
         elif whereto == "5":
@@ -85,13 +89,13 @@ def hyphen():
     ans = hyphenF(word)                             
     
     if (ans):
-        print("Yes\n\n")
+        print("\nYes\n")
     else:
-        print("No\n\n")
+        print("\nNo\n")
             
 
 def UL():
-    u_or_l = input("Would you like it in upper case (1) or lower case (2)? ")
+    u_or_l = input("Would you like it in upper case (1) or lower case (2)?: ")
     
     #VARIABLES
     letter_num=0
@@ -131,18 +135,24 @@ def palindrome():
     ans = isPalindromeF(word)                           #runs IsPalindromeF() to see if true
  
     if (ans):
-        print("Yes\n\n")
+        print("\nYes\n")
     else:
-        print("No\n\n")
+        print("\nNo\n")
+        
+        
+        
 def mixup():
     wordlist = list(word)                               #Converts input to list
     newword = []                                        #Blank list to be filled
-    for index in range(len(word)):                      #
-        letter = random.choice(wordlist)
-        newword.append(letter)
-        wordlist.remove(letter)
-        newword_str = ''.join(newword)
-    print(newword_str + "\n\n")
+    for index in range(len(word)):                      #for however many characters are in the name
+        letter = random.choice(wordlist)                #creates a temporary variable to hold the a random character
+        newword.append(letter)                          #Puts that random character into a new list
+        wordlist.remove(letter)                         #removes that character from being chosen again
+        newword_str = ''.join(newword)                  #converts list to string
+    print("\nYour new name is " + newword_str + ".\n")
+    
+    
+
 def split():
     place = input("What name would you like to isolate? First(1), Middle(2), Last(3): ")
     split_word = []
@@ -170,8 +180,10 @@ def split():
 
 print("Welcome to the Name Modifier! Made by Eli Murphy\n") #Code starts here
 
+
 def main():       
     while True:
+        global word
         word = input("What is your name? (First, Middle, Last): ")
         unwanted = True
         for index in range(len(word)):
