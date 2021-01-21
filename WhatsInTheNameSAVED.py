@@ -4,6 +4,7 @@ Created on Jan 8, 2021
 Logs: January 13th: Added 6 functions, 1,2,4,5,6,7 (3 has made me stumped)
                     Functions include flip(), vowelconst(), UL(), palindrome(), mixup(), split()\
       January 14th: Added Hyphen checker and global name variable
+      January 21st: Added name checker to deny future errors
 
 Bugs: Symbols error 
 
@@ -184,8 +185,6 @@ word = input("What is your name? (First, Middle, Last): ")
 
 def main():       
     while True:
-        #global word
-        
         unwanted = True
         for index in range(len(word)):
             letter = word[index]
