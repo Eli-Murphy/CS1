@@ -180,11 +180,12 @@ def split():
 
 print("Welcome to the Name Modifier! Made by Eli Murphy\n") #Code starts here
 
+word = input("What is your name? (First, Middle, Last): ")
 
 def main():       
     while True:
-        global word
-        word = input("What is your name? (First, Middle, Last): ")
+        #global word
+        
         unwanted = True
         for index in range(len(word)):
             letter = word[index]
