@@ -19,9 +19,7 @@ Bonus: Main Menu (main()), assorted array of characters (mixup())
 
 import random
 
-def menu():
-    while True:
-        print(word)
+def menu(word):
         print("\nMain Menu options:")
         print("For flipping your name press '1'")
         print("For the counting of vowels and consonants press '2'")
@@ -35,21 +33,21 @@ def menu():
         if whereto == "1":
             flip(word)                                  #goto flip()
         elif whereto == "2":
-            vowelconst()                            #goto vowelconst()
+            vowelconst(word)                            #goto vowelconst()
         elif whereto == "3":
-            hyphen()                                #goto hyphen()
+            hyphen(word)                                #goto hyphen()
         elif whereto == "4":
-            upperCase()                             #goto UL()
+            upperCase(word)                             #goto UL()
         elif whereto == "5":
-            lowerCase()
+            lowerCase(word)
         elif whereto == "6":
-            palindrome()                            #goto palindrome
+            palindrome(word)                            #goto palindrome
         elif whereto =="7":
-            mixup()                                 #goto mixup()
+            mixup(word)                                 #goto mixup()
         elif whereto == "8":
-            splitF()                                #goto splitF()
+            splitF(word)                                #goto splitF()
         elif whereto == "9":
-            splitM()
+            splitM(word)
         elif whereto == "10":
             splitL(word)
         else:
@@ -63,7 +61,7 @@ def flip(word):
     main()
     
     
-def vowelconst():
+def vowelconst(word):
     
     #VARIABLES
     space_count = 0
@@ -94,7 +92,7 @@ def hyphenF(word):
         return True                                 #Sets ans of the function to be either T or F
     return False
         
-def hyphen():
+def hyphen(word):
     ans = hyphenF(word)                             
     
     if (ans):
@@ -103,7 +101,7 @@ def hyphen():
         print("\nNo\n")
             
 
-def upperCase():
+def upperCase(word):
     #u_or_l = input("Would you like it in upper case (1) or lower case (2)?: ")
     
     #VARIABLES
@@ -119,7 +117,7 @@ def upperCase():
         letter = chr(letter_num)                    #switches letter into the new format
         output = output + str(letter)               #appends the output by adding the letter
     print(output)
-def lowerCase(): 
+def lowerCase(word): 
     #VARIABLES
     letter_num=0
     output = ""
@@ -147,23 +145,23 @@ def lowerCase():
         #UL()
 
 
-def isPalindromeF(str):                                 #formula for palindrome
-    for index in range(0, int(len(str)/2)):             #Runs loop for half of the length of the input 
-        if str[index] != str[len(str)-index-1]:         #if half of the string's index is not half of the index backwards,
+def isPalindromeF(word):                                 #formula for palindrome
+    for index in range(0, int(len(word)/2)):             #Runs loop for half of the length of the input 
+        if word[index] != word[len(word)-index-1]:         #if half of the string's index is not half of the index backwards,
             return False
     return True
  
-def palindrome():
+def palindrome(word):
     ans = isPalindromeF(word)                           #runs IsPalindromeF() to see if true
  
     if (ans):
-        print("\nYes\n")
+        print("\nYes, your name is a palindrome!\n")
     else:
-        print("\nNo\n")
+        print("\nNo, your name is not a palindrome.\n")
         
         
         
-def mixup():
+def mixup(word):
     wordlist = list(word)                               #Converts input to list
     newword = []                                        #Blank list to be filled
     for index in range(len(word)):                      #for however many characters are in the name
@@ -199,7 +197,7 @@ def split():
     print("Your isolated word is "+ name)
 '''
     
-def splitF():
+def splitF(word):
     split_word = []                                     #list that holds the new word
     placeholder  = ''                                   #empty variabe to remove spaces
     for words in word:                                  #Runs the loop for the amount of words there are in the input
@@ -210,7 +208,7 @@ def splitF():
             placeholder += words                        #adds spaceless word into list
     print(split_word[0])                                #grabs first part of the list and prints it
 
-def splitM():
+def splitM(word):
     split_word = []                                     #list that holds the new word
     placeholder  = ''                                   #empty variabe to remove spaces
     for words in word:                                  #Runs the loop for the amount of words there are in the input
@@ -255,7 +253,7 @@ def main():
                 unwanted = False                                         
                 break
         if unwanted == True:
-            menu()
+            menu(word)
     
                 
 if __name__ == '__main__':
