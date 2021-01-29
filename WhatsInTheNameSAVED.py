@@ -90,7 +90,6 @@ def flip(word):
     
     name_flip = word[::-1]                          #reverses order of index
     print("Your name backwards is " + name_flip)
-    main()
     
 def vowel_count(word):
     
@@ -143,12 +142,11 @@ def space_count(word):
     :returns:  print function with str(int)
     :raises: 
     '''
-    
     count = 0
     for index in range(len(word)):
             if word[index] == ' ':                  #checks if the index is a space
-                space_count += 1                    #adds to space count point
-    print("You have " + count + " spaces in your name.")
+                count += 1                    #adds to space count point
+    print("You have " + str(count) + " spaces in your name.")
 
 def hyphen_f(word):
     '''
@@ -406,7 +404,7 @@ def main():
             else:
                 print("\nPlease input a character through A-Z or a-z.\n")
                 unwanted = False                                         
-                break
+                main()
         if unwanted == True:
             menu(word)
     
