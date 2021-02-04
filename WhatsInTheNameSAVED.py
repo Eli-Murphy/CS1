@@ -367,7 +367,7 @@ def main():
     :param name: user input word
     :type name: string
     :type state: void
-    :returns:  void
+    :returns:  void, unless user input errors
     :raises: 
     '''
     
