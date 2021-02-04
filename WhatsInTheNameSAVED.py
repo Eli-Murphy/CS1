@@ -7,9 +7,9 @@ Logs: January 13th: Added 6 functions, 1,2,4,5,6,7 (3 has made me stumped)
       January 21st: Added name checker to deny future errors
       January 22nd: Seperated functions that were merged 
       January 27th: Added function documentation
-                    Added 
+      Febuary 3rd:  Made all functions return to menu()
 
-Bugs: Symbols error, variable 'name' seems to not exist 
+Bugs: Symbols error
 
 Initiative: Modifies your name in multiple ways, using functions made by me.
 
@@ -26,7 +26,7 @@ def menu(word):
     '''
     This function is the main menu directing the user to the chosen functions
  
-    :param name: user input word
+    :param word: user input word
     :type name: string
     :type state: void
     :returns:  void, unless error, in which case str
@@ -46,31 +46,32 @@ def menu(word):
     print("For selecting the first name, press '10'")
     print("For selecting the middle name, press '11'")
     print("For selecting the last name, press '12'\n")
+    
     whereto = input("Input here: ")
     if whereto == "1":
-        flip(word)                                  
+        print("\nYour name backwards is:" + flip(word))                                  
     elif whereto == "2":
-        vowel_count(word)                           
+        print("\nYou have "+ vowel_count(word) + " vowels in your name.")                           
     elif whereto == "3":
-        consonant_count(word)
+        print("\nYou have "+ consonant_count(word) + " consonants in your name.")
     elif whereto == "4":
-        space_count(word)
+        print("\nYou have "+ space_count(word) + " vowels in your name.")
     elif whereto == "5":
-        hyphen(word)                                
+        print("Do you have a hyphen in your name?: " + hyphen(word) + ".")                                
     elif whereto == "6":
-        upper_case(word)                            
+        print("Your name in all upper case is " + upper_case(word))                            
     elif whereto == "7":
-        lower_case(word)                            
+        print("Your name in all lower case is " + lower_case(word))                            
     elif whereto == "8":
-        palindrome(word)                            
+        print("Is your name a palindrome?: " + palindrome(word) + ".")                            
     elif whereto =="9":
-        mixup(word)                                 
+        print("Your name mixed up is " + mixup(word))                                 
     elif whereto == "10":
-        split_f(word)                                
+        print("Your first name is " + split_f(word))                                
     elif whereto == "11":
-        split_m(word)                                
+        print("Your middle name is " + split_m(word))                                
     elif whereto == "12":
-        split_l(word)                                
+        print("Your last name is " + split_l(word))                                
     else:
         print("Please input 1-10")
         menu()
@@ -81,25 +82,26 @@ def flip(word):
     '''
     This function is designed to flip the word inputed
  
-    :param name: user input word
+    :param word: user input word
     :type name: string
     :type state: void
-    :returns:  str
+    :returns: Returns word reversed
     :raises: 
     '''
     
     name_flip = word[::-1]                          #reverses order of index
-    print("Your name backwards is " + name_flip)
+    #print("Your name backwards is " + name_flip)
+    return name_flip
     
 def vowel_count(word):
     
     '''
     This function is designed to count and tell the user the amount of vowels in the name
  
-    :param name: user input word
+    :param word: user input word
     :type name: string
     :type state: bool
-    :returns: bool
+    :returns: Count of vowels 
     :raises: 
     '''
 
@@ -108,7 +110,8 @@ def vowel_count(word):
         if word[index] == 'a' or word[index] =='e' or word[index] =='i' or word[index] =='o' or word[index] =='u' or word[index] == 'A' or word[index] =='E' or word[index] =='I' or word[index] =='O' or word[index] =='U':
                                                 #Line above checks if the index is a vowel
             count = count + 1                   #counts how many vowels
-    print("You have " + str(count) + " vowels in your name.")
+    #print("You have " + str(count) + " vowels in your name.")
+    return str(count)
     
     
 def consonant_count(word):
@@ -128,7 +131,8 @@ def consonant_count(word):
             if word[index] != 'a' and word[index] !='e' and word[index] !='i' and word[index] !='o' and word[index] != 'u' and word[index] != 'A' and word[index] !='E' and word[index] != 'I' and word[index] !='O' and word[index] !='U':
                                                     #Line above checks if the index is not a vowel
                 count += 1                          #adds to constant count point
-    print("You have " + str(count) + " consonants in your name.")
+    #print("You have " + str(count) + " consonants in your name.")
+    return str(count)
 
 
 def space_count(word):
@@ -146,21 +150,9 @@ def space_count(word):
     for index in range(len(word)):
             if word[index] == ' ':                  #checks if the index is a space
                 count += 1                    #adds to space count point
-    print("You have " + str(count) + " spaces in your name.")
+    #print("You have " + str(count) + " spaces in your name.")
+    return str(count)
 
-def hyphen_f(word):
-    '''
-    This function is a formula to see if the input has a hyphen (-).
- 
-    :param name: user input word
-    :type name: string
-    :type state: bool
-    :returns:  print function with str(int)
-    :raises: 
-    '''
-    if "-" in word:                                 #Checks hyphen
-        return True                                 #Sets ans of the function to be either T or F
-    return False
         
 def hyphen(word):
     
@@ -173,13 +165,11 @@ def hyphen(word):
     :returns:  str
     :raises: 
     '''
-    
-    ans = hyphen_f(word)                            #Ans is the boolean result of hyphenF()
-    
-    if (ans):
-        print("\nYes\n")
+    if "-" in word:                                 #Checks hyphen
+        ans = "Yes"                                 #Sets ans of the function to be either T or F
     else:
-        print("\nNo\n")
+        ans = "No"
+    return ans
             
 
 def upper_case(word):
@@ -205,7 +195,8 @@ def upper_case(word):
             letter_num = letter_num - 32            #switches it to upper case
         letter = chr(letter_num)                    #switches letter into the new format
         output = output + str(letter)               #appends the output by adding the letter
-    print(output)
+    #print(output)
+    return output
     
     
 def lower_case(word): 
@@ -231,25 +222,10 @@ def lower_case(word):
             letter_num = letter_num + 32            #switches it to lower case
         letter = chr(letter_num)                    #switches decimal into the letter
         output = output + str(letter)               #appends the output by adding the letter
-    print(output)             
+    #print(output)  
+    return output           
 
 
-def is_palindrome_f(word):                                 
-    
-    '''
-    This function is the formula for is_palandrome()
- 
-    :param name: user input word
-    :type name: bool
-    :type state: void
-    :returns:  bool
-    :raises: 
-    '''
-    
-    for index in range(0, int(len(word)/2)):             #Runs loop for half of the length of the input 
-        if word[index] != word[len(word)-index-1]:         #if half of the string's index is not half of the index backwards,
-            return False
-    return True
  
 def palindrome(word):
     
@@ -263,12 +239,12 @@ def palindrome(word):
     :raises: 
     '''
     
-    ans = is_palindrome_f(word)                           #runs IsPalindromeF() to see if true
- 
-    if (ans):
-        print("\nYes, your name is a palindrome!\n")
-    else:
-        print("\nNo, your name is not a palindrome.\n")
+    for index in range(0, int(len(word)/2)):             #Runs loop for half of the length of the input 
+        if word[index] != word[len(word)-index-1]:         #if half of the string's index is not half of the index backwards,
+            ans = "No"
+        else:
+            ans = "Yes"
+    return ans
         
         
         
@@ -291,7 +267,8 @@ def mixup(word):
         newword.append(letter)                          #Puts that random character into a new list
         wordlist.remove(letter)                         #removes that character from being chosen again
         newword_str = ''.join(newword)                  #converts list to string
-    print("\nYour new name is " + newword_str + ".\n")
+    #print("\nYour new name is " + newword_str + ".\n")
+    return newword_str
     
     
 def split_f(word):
@@ -315,7 +292,8 @@ def split_f(word):
         else:
             placeholder += words                        #adds spaceless word into list
     try:
-        print(split_word[0])                            #grabs first part of the list and prints it
+        #print(split_word[0])                            #grabs first part of the list and prints it
+        return split_word[0]
     except:
         print("Error: input was not 3 words. Restarting code for new input...\n")
         main()
@@ -343,7 +321,8 @@ def split_m(word):
             placeholder += words                        #adds spaceless word into list
     print(split_word)
     try:
-        print(split_word[1])                            #grabs second part of the list and prints it
+        #print(split_word[1])                            #grabs second part of the list and prints it
+        return(split_word[1])
     except:
         print("Error: input was not 3 words. Restarting code for new input...\n")
         main()
@@ -371,7 +350,8 @@ def split_l(word):
         else:
             placeholder += words                        #adds spaceless word into list
     try:
-        print(split_word[2])                                #grabs third part of the list and prints it
+        #print(split_word[2])                                #grabs third part of the list and prints it
+        return(split_word[2])
     except:
         print("Error: input was not 3 words. Restarting code for new input...\n")
         main()
@@ -399,7 +379,7 @@ def main():
         for index in range(len(word)):
             letter = word[index]
             letter_num = ord(letter)
-            if letter_num >= 97 and letter_num <= 122 or letter_num >= 65 and letter_num <= 90 or letter_num == 32:
+            if letter_num >= 97 and letter_num <= 122 or letter_num >= 65 and letter_num <= 90 or letter_num == 32 or letter_num == 45:
                 unwanted = True
             else:
                 print("\nPlease input a character through A-Z or a-z.\n")
