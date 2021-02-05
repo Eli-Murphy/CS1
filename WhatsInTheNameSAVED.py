@@ -9,7 +9,7 @@ Logs: January 13th: Added 6 functions, 1,2,4,5,6,7 (3 has made me stumped)
       January 27th: Added function documentation
       Febuary 3rd:  Made all functions return to menu()
 
-Bugs: Symbols error
+Bugs: void
 
 Initiative: Modifies your name in multiple ways, using functions made by me.
 
@@ -77,7 +77,7 @@ def menu(word):
         menu()
         
         
-def flip(word):
+def flip():
     
     '''
     This function is designed to flip the word inputed
