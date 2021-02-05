@@ -2,7 +2,7 @@
 Created on Jan 8, 2021
 
 Logs: January 13th: Added 6 functions, 1,2,4,5,6,7 (3 has made me stumped)
-                    Functions include flip(), vowelconst(), UL(), palindrome(), mixup(), split()\
+                    Functions include flip(), vowelconst(), UL(), palindrome(), mixup(), split().
       January 14th: Added Hyphen checker
       January 21st: Added name checker to deny future errors
       January 22nd: Seperated functions that were merged 
@@ -55,7 +55,7 @@ def menu(word):
     elif whereto == "3":
         print("\nYou have "+ consonant_count(word) + " consonants in your name.")
     elif whereto == "4":
-        print("\nYou have "+ space_count(word) + " vowels in your name.")
+        print("\nYou have "+ space_count(word) + " spaces in your name.")
     elif whereto == "5":
         print("Do you have a hyphen in your name?: " + hyphen(word) + ".")                                
     elif whereto == "6":
