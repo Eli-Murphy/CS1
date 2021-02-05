@@ -27,9 +27,9 @@ def menu(word):
     This function is the main menu directing the user to the chosen functions
  
     :param word: user input word
-    :type name: string
+    :type word: string
     :type state: void
-    :returns:  void, unless error, in which case str
+    :returns:  void
     :raises: 
     '''
     
@@ -49,6 +49,7 @@ def menu(word):
     
     whereto = input("Input here: ")
     if whereto == "1":
+        
         print("\nYour name backwards is:" + flip(word))                                  
     elif whereto == "2":
         print("\nYou have "+ vowel_count(word) + " vowels in your name.")                           
@@ -74,10 +75,10 @@ def menu(word):
         print("Your last name is " + split_l(word))                                
     else:
         print("Please input 1-10")
-        menu()
+        menu(word)
         
         
-def flip():
+def flip(word):
     
     '''
     This function is designed to flip the word inputed
@@ -85,7 +86,7 @@ def flip():
     :param word: user input word
     :type name: string
     :type state: void
-    :returns: Returns word reversed
+    :returns: Returns word reversed str
     :raises: 
     '''
     
@@ -101,7 +102,7 @@ def vowel_count(word):
     :param word: user input word
     :type name: string
     :type state: bool
-    :returns: Count of vowels 
+    :returns: Count of vowels str
     :raises: 
     '''
 
@@ -143,7 +144,7 @@ def space_count(word):
     :param name: user input word
     :type name: string
     :type state: void
-    :returns:  print function with str(int)
+    :returns:  count of spaces str
     :raises: 
     '''
     count = 0
@@ -162,7 +163,7 @@ def hyphen(word):
     :param name: hyphen_f() bool
     :type name: string
     :type state: void
-    :returns:  str
+    :returns:  Yes or No str
     :raises: 
     '''
     if "-" in word:                                 #Checks hyphen
@@ -180,7 +181,7 @@ def upper_case(word):
     :param name: user input word
     :type name: string
     :type state: void
-    :returns:  str
+    :returns:  upper case input str
     :raises: 
     '''
         
@@ -207,7 +208,7 @@ def lower_case(word):
     :param name: user input word
     :type name: string
     :type state: void
-    :returns:  str
+    :returns:  lower case input str
     :raises: 
     '''
     
@@ -235,7 +236,7 @@ def palindrome(word):
     :param name: bool
     :type name: str
     :type state: void
-    :returns:  str
+    :returns:  Yes or No str
     :raises: 
     '''
     
@@ -256,7 +257,7 @@ def mixup(word):
     :param name: user input word
     :type name: str
     :type state: void
-    :returns:  str
+    :returns:  shuffled name str
     :raises: 
     '''
     
@@ -279,7 +280,7 @@ def split_f(word):
     :param name: user input word
     :type name: string
     :type state: void
-    :returns:  str
+    :returns:  first name str
     :raises: 
     '''
     
@@ -307,7 +308,7 @@ def split_m(word):
     :param name: user input word
     :type name: string
     :type state: void
-    :returns:  str
+    :returns:  middle name str
     :raises: 
     '''
     
@@ -336,7 +337,7 @@ def split_l(word):
     :param name: user input word
     :type name: string
     :type state: void
-    :returns:  str
+    :returns:  last name str
     :raises: 
     '''
     
@@ -367,7 +368,7 @@ def main():
     :param name: user input word
     :type name: string
     :type state: void
-    :returns:  void, unless user input errors
+    :returns: word, passes word to menu
     :raises: 
     '''
     
