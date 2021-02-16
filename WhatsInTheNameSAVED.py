@@ -9,12 +9,17 @@ Logs: January 13th: Added 6 functions, 1,2,4,5,6,7 (3 has made me stumped)
       January 27th: Added function documentation
       Febuary 3rd:  Made all functions return to menu()
 
-Bugs: void
+Bugs: 
 
 Initiative: Modifies your name in multiple ways, using functions made by me.
 
 Bonus: Main Menu (main()), assorted array of characters (mixup())
 
+Sam's comments:
+    1) Only asked for a number 1-10 (there are 12 options)
+    2) Code would still run if user only put a hyphen in name
+    3) If user does not give a middle name, code will print last name as middle name
+    
 @author: EMurphy24
 '''
 
@@ -320,9 +325,7 @@ def split_m(word):
             placeholder = ''
         else:
             placeholder += words                        #adds spaceless word into list
-    print(split_word)
-    try:
-        #print(split_word[1])                            #grabs second part of the list and prints it
+    try:                           #grabs second part of the list and prints it
         return(split_word[1])
     except:
         print("Error: input was not 3 words. Restarting code for new input...\n")
