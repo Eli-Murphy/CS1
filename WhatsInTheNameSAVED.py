@@ -8,6 +8,7 @@ Logs: January 13th: Added 6 functions, 1,2,4,5,6,7 (3 has made me stumped)
       January 22nd: Seperated functions that were merged 
       January 27th: Added function documentation
       Febuary 3rd:  Made all functions return to menu()
+      Febuary 17th: Added a minumim of 2 characters for input.
 
 Bugs: 
 
@@ -16,8 +17,8 @@ Initiative: Modifies your name in multiple ways, using functions made by me.
 Bonus: Main Menu (main()), assorted array of characters (mixup())
 
 Sam's comments:
-    1) Only asked for a number 1-10 (there are 12 options)
-    2) Code would still run if user only put a hyphen in name
+    1) Only asked for a number 1-10 (there are 12 options) *FIXED*
+    2) Code would still run if user only put a single character in input
     3) If user does not give a middle name, code will print last name as middle name
     
 @author: EMurphy24
@@ -79,7 +80,7 @@ def menu(word):
     elif whereto == "12":
         print("Your last name is " + split_l(word))                                
     else:
-        print("Please input 1-10")
+        print("Please input 1-12")
         menu(word)
         
         
@@ -378,19 +379,28 @@ def main():
     print("Welcome to the Name Modifier! Made by Eli Murphy\n") #Code starts here
 
     word = input("What is your name? (First, Middle, Last): ")
-    while True:
-        unwanted = True
-        for index in range(len(word)):
-            letter = word[index]
+    #while True:
+    unwanted = ""
+    if word == "":
+        print("\nPlease input something.\n")
+        main()
+    else:
+        for letter in word:
+            #letter = word[index]
             letter_num = ord(letter)
-            if letter_num >= 97 and letter_num <= 122 or letter_num >= 65 and letter_num <= 90 or letter_num == 32 or letter_num == 45:
+            if (letter_num >= 97 and letter_num <= 122) or (letter_num >= 65 and letter_num <= 90) or letter_num == 32 or letter_num == 45:
                 unwanted = True
-            else:
-                print("\nPlease input a character through A-Z or a-z.\n")
-                unwanted = False                                         
-                main()
+                if len(word) == 1:
+                    print("\nPlease input your name with more than 1 letter.\n")
+                    unwanted = False
+                else:
+                    print("\nPlease input a character through A-Z or a-z.\n")
+                    unwanted = False                                         
         if unwanted == True:
             menu(word)
+        elif unwanted == False:
+            main()
+        
     
                 
 if __name__ == '__main__':
