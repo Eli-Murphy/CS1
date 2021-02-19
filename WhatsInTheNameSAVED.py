@@ -18,8 +18,8 @@ Bonus: Main Menu (main()), assorted array of characters (mixup())
 
 Sam's comments:
     1) Only asked for a number 1-10 (there are 12 options) *FIXED*
-    2) Code would still run if user only put a single character in input
-    3) If user does not give a middle name, code will print last name as middle name
+    2) Code would still run if user only put a single character in input *FIXED*
+    3) If user does not give a middle name, code will print last name as middle name 
     
 @author: EMurphy24
 '''
