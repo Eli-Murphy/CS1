@@ -9,6 +9,7 @@ Logs: January 13th: Added 6 functions, 1,2,4,5,6,7 (3 has made me stumped)
       January 27th: Added function documentation
       Febuary 3rd:  Made all functions return to menu()
       Febuary 17th: Added a minumim of 2 characters for input.
+      February 19th: QA Testing (GC)
 
 Bugs: 
 
@@ -53,35 +54,37 @@ def menu(word):
     print("For selecting the middle name, press '11'")
     print("For selecting the last name, press '12'\n")
     
-    whereto = input("Input here: ")
-    if whereto == "1":
+    while True:
+    
+        whereto = input("Input here: ")
+        if whereto == "1":
         
-        print("\nYour name backwards is:" + flip(word))                                  
-    elif whereto == "2":
-        print("\nYou have "+ vowel_count(word) + " vowels in your name.")                           
-    elif whereto == "3":
-        print("\nYou have "+ consonant_count(word) + " consonants in your name.")
-    elif whereto == "4":
-        print("\nYou have "+ space_count(word) + " spaces in your name.")
-    elif whereto == "5":
-        print("Do you have a hyphen in your name?: " + hyphen(word) + ".")                                
-    elif whereto == "6":
-        print("Your name in all upper case is " + upper_case(word))                            
-    elif whereto == "7":
-        print("Your name in all lower case is " + lower_case(word))                            
-    elif whereto == "8":
-        print("Is your name a palindrome?: " + palindrome(word) + ".")                            
-    elif whereto =="9":
-        print("Your name mixed up is " + mixup(word))                                 
-    elif whereto == "10":
-        print("Your first name is " + split_f(word))                                
-    elif whereto == "11":
-        print("Your middle name is " + split_m(word))                                
-    elif whereto == "12":
-        print("Your last name is " + split_l(word))                                
-    else:
-        print("Please input 1-12")
-        menu(word)
+            print("\nYour name backwards is:" + flip(word))                                  
+        elif whereto == "2":
+                print("\nYou have "+ vowel_count(word) + " vowels in your name.")                           
+        elif whereto == "3":
+            print("\nYou have "+ consonant_count(word) + " consonants in your name.")
+        elif whereto == "4":
+            print("\nYou have "+ space_count(word) + " spaces in your name.")
+        elif whereto == "5":
+            print("Do you have a hyphen in your name?: " + hyphen(word) + ".")                                
+        elif whereto == "6":
+            print("Your name in all upper case is " + upper_case(word))                            
+        elif whereto == "7":
+            print("Your name in all lower case is " + lower_case(word))                            
+        elif whereto == "8":
+            print("Is your name a palindrome?: " + palindrome(word) + ".")                            
+        elif whereto =="9":
+            print("Your name mixed up is " + mixup(word))                                 
+        elif whereto == "10":
+            print("Your first name is " + split_f(word))                                
+        elif whereto == "11":
+            print("Your middle name is " + split_m(word))                                
+        elif whereto == "12":
+            print("Your last name is " + split_l(word))                                
+        else:
+            print("Please input 1-12")
+            menu(word)
         
         
 def flip(word):
@@ -135,7 +138,7 @@ def consonant_count(word):
     
     count = 0
     for index in range(len(word)):
-            if word[index] != 'a' and word[index] !='e' and word[index] !='i' and word[index] !='o' and word[index] != 'u' and word[index] != 'A' and word[index] !='E' and word[index] != 'I' and word[index] !='O' and word[index] !='U':
+            if word[index] != 'a' and word[index] !='e' and word[index] !='i' and word[index] !='o' and word[index] != 'u' and word[index] != 'A' and word[index] !='E' and word[index] != 'I' and word[index] !='O' and word[index] !='U' and word[index] !=' ' and word[index] !='-':
                                                     #Line above checks if the index is not a vowel
                 count += 1                          #adds to constant count point
     #print("You have " + str(count) + " consonants in your name.")
@@ -393,9 +396,9 @@ def main():
                 if len(word) == 1:
                     print("\nPlease input your name with more than 1 letter.\n")
                     unwanted = False
-                else:
-                    print("\nPlease input a character through A-Z or a-z.\n")
-                    unwanted = False                                         
+            else:
+                print("\nPlease input a character through A-Z or a-z.\n")
+                unwanted = False                                         
         if unwanted == True:
             menu(word)
         elif unwanted == False:
