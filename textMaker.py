@@ -8,14 +8,11 @@ def main():
     name = name + ".txt"
     fhand = open(name, "w+")
     while True:
-        mod == "1"
-        modify(int(mod)) = input("What would you like the text document to say?")
-        modify(int(mod)) = modify(int(mod)) + "\n"
+
+        modify = input("What would you like the text document to say?")
+        modify = modify(int(mod)) + "\n"
         fhand = open(name, "w")
-        fhand.write(modify(int(mod)))
-        mod = int(mod)
-        mod = mod + 1
-        mod = str(mod) 
+        fhand.write(modify)
         cont = input("Add another line? (y,n): ")
         if cont ==  "y": continue
         else:
