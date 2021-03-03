@@ -7,41 +7,19 @@ from pip._vendor.html5lib._ihatexml import letter
 
 import os
    
-##################################################################################################################################################
-#Name: Eli Murphy                                                                                                                             #    
-#Date of Updates:                                                                                                                      #
-#Summary: My codes' function is to access certain areas of the GCDS database. It calls in the file and can either add a new person,              #
-#         find a person, remove a person, or even edit a person. It has a menu function as well and it creates one giant list from               #
-#         the data given and uses functions I made in the last functions project.                                                                #
-#Bug(s): Some functions lack the "if NONE" statement and the first and last name when searching must be separated by a space and both            #
-#        require some form of capitalization, the menu function will run infinently long, search requires the first and last                     #
-#        name be capitalized, the name in search must be separated with a space, the name for search cannot contain a middle name,               #
-#        the name for search must contain both the first name as well as the last name, for the additional name the comma must be                #
-#        manually addded for the teacher as if it isn't then it will not be the same as the others, for the additional name if                   #
-#        a section is skipped the file will mark it skipped as two commas will be next to each other, for the deletion function                  #
-#        both parts of the name must be capitalized as well as exist, the deletion function requires the file exist and the name                 #
-#        having a space as a separator, for deletion if two people with the same name first and last exist they will both be deleted,            #
-#        for the update function the name must be there as in exist to work, the update function will allow any value to be changed to anything, #
-#        if the user prompts a number higher than 8 being a number that doesn't have a position and adds a value for it then it will             #
-#        add that value but cause the next string to be joined with that string                                                                  #
-#Log: The deletion function seemingly lacked the ability to delete the full line, the update function would make a copy and implement            #
-#     that copy as an additional name, the update function wouldn't write in the new name and would break, the update function would             #
-#     only write in the new name and remove everything else, the update function would remove the entire data, the update function               #
-#     would seemingly break at line 151 where "pop" was originally "remove"                                                                      #
-##################################################################################################################################################
 def first_name(name):
     #Imported from another code whihc takes the parameters
     #of name and counts each char until it reaches a space
     #and when it reaches the space it will return the first
     #word under retain by placing each letter, or char,
     #in retain up until the space
-    retain = ''
+    hold = ''
     for letter in name:
         if letter == ' ':
             break
         else:
-            retain = retain + letter
-    return retain
+            hold = hold + letter
+    return hold
        
 
 def reverse(name):
@@ -49,10 +27,10 @@ def reverse(name):
     #of the name and simple starts from the last char and
     #moves backwards placing each char in output
     output = ''
-    counter = len(name) - 1
-    while(counter >= 0):
-        output = output + name[counter]
-        counter = counter - 1
+    count = len(name) - 1
+    while(count >= 0):
+        output = output + name[count]
+        count = count - 1
     return output
 
 def last_name(name):
