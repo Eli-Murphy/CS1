@@ -186,36 +186,16 @@ def deletion (name):
     """
     deleter = search(name)
     if deleter is None:                                                               #if the request is a false
-        #This will check to ensure that
-        #the requested name exists and
-        #if it doesn't, then it will
-        #inform the user that no such
-        #name exists
         print("no such :", name)
     else:
         file_input = open("gcds_data.csv")
         file_output = open("gcds_data_temp.csv", "w+")                                #creates a new temporary file which will contain the changes
         counter = 0
         for name in file_input:
-            #For each string in the file, it will
-            #create an individual list from each
-            #string using the comma as a separator
-            #as it runs through each list in the file
             general_split = name.split(",")
             if general_split[0] == deleter[0] and general_split[2] == deleter[2]:
-                #If the 0th position, first char, which is the first name
-                #is the same as the requested person's file at the same
-                #position and if the 2nd position of the current file that
-                #is being ran through which is the last name is equal to the
-                #same last name as the requested person's file, then it will
-                #delete that file as the two are one of the same
                 del name                                                              #deletes the requested name
             else:
-                #If it is not the name, it will put the
-                #file at hand back into a long file of the strings
-                #so that when it comes time to write back
-                #the file, all but the requested one will
-                #be present in it
                 file_output.write(",".join(general_split))                            #creates a long file of the strings
             counter += 1
         file_input.close()
