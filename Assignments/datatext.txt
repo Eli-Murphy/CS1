@@ -905,9 +905,8 @@ Eli,Russell,Rosen,7,M,"McGovern, Michael",Old Greenwich,CT,06870
 Harley,Sophia,Rosenbaum,2,F,"Mena, Betsy",Purchase,NY,10577
 Katherine, ,Rosenbaum,2,F,"Amado, Rebecca",Purchase,NY,10577
 Zachary, ,Rosenbaum,6,M,"Childs, Hilary",Greenwich,CT,06830
-Graydon, ,Ross,6,M,"Thorner, Katie",Greenwich,CT,06831
+Graydon,reed,Ross,6,M,"Thorner, Katie",Darien,CT,06820
 Mackenzie,Nicole,Ross,10,F,"Kast, Julie",Stamford,CT,06902
-Thayer, ,Ross,8,M,"Moore, Laura",Greenwich,CT,06831
 Jaden, ,Royal,3,M,"Sweeney, Ellen",Stamford,CT,06906
 Justin, ,Royal,3,M,"Laubscher, Luke",Stamford,CT,06906
 Anna,Linda,Rubenstein,3,F,"Laubscher, Luke",Riverside,CT,06878
@@ -1195,3 +1194,5 @@ Annabelle,Rose,Zuckerman,1,F,"Hanley, Caroline",Greenwich,CT,06831
 Emma,Grace,Zuckerman,6,F,"Dandola, Matthew",Greenwich,CT,06831
 Lucas,James,Zuckerman,PK,M,"Whittlesey, Sara",Greenwich,CT,06831
 Carmelia, ,Zuniga,9,F,"Ruoss, Andrew",Stamford,CT,06903
+Brady,Curtis,Calhoun,8,M,Lehn, Austin,Rye,NY,10580
+thayer,hux,ross,8,M,Moore, Laura,Darien,CT,06820
