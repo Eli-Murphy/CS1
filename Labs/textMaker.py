@@ -4,20 +4,20 @@ Created on Feb 26, 2021
 @author: EMurphy24
 '''
 def main():
-    name = input("What would you like your text document to be named?: ")
-    name = name + ".txt"
-    fhand = open(name, "w+")
-    while True:
+    fhand = input('What is the file path?')
+    selectedWord = input("What word would you like to isolate?: ")
+    count = 0
+    lcount = 0
+    for line in fhand:
+        lcount = lcount + 1
+        line = line.rstrip()
+        if selectedWord in line: 
+            wordperline = int(line.count(selectedWord))
+            count = count + wordperline
+    print("Your file says ", selectedWord, str(count), " times.")
+    print("Line count: ", str(lcount))
 
-        modify = input("What would you like the text document to say?")
-        modify = modify(int(mod)) + "\n"
-        fhand = open(name, "w")
-        fhand.write(modify)
-        cont = input("Add another line? (y,n): ")
-        if cont ==  "y": continue
-        else:
-            fhand.close()
-            print("Goodbye!")
-            break
+
 if __name__ == '__main__':
+    
     main()
