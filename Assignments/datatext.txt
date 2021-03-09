@@ -1,4 +1,3 @@
-NameFirst,NameMiddle,NameLast,Class,Sex,enr.TEACHERS advisor::NameLastFirst,FAMILIES family 1::P_city,FAMILIES family 1::P_state,FAMILIES family 1::P_zip
 Benjamin,Davie,Acciavatti,9,M,"Lehn, Austin",Rye,NY,10580
 Samuel, ,Acciavatti,6,M,"Dandola, Matthew",Rye,NY,10580
 Bryce,Griffith,Agroskin,PK,M,"Merritt, Merritt",Greenwich,CT,06830
