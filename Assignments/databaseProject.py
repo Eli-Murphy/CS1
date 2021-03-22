@@ -7,8 +7,9 @@ Created on March 3, 2021
               In a constant state of pain trying to program the damn delete function, I am exhausted.
         March 8: Added city frequency counter using a dictionary
         March 11: Added different search functions including last name, city, and advisor.
+        March 22: Added skeleton tightenParameter() function and added search grade function.
 
-Bug: Too many to count at the moment
+Bug: 
 
 Initiative: The purpose of this project is to allow a user to modify, search, and record information about GCDS's school directory.
 
@@ -61,7 +62,9 @@ def main():
             #it to continue to search 
             advisor = advisor.lower()
             print(searchAdvisor(advisor))
-            
+        elif goto == "search grade":
+            grade = input("What grade are you looking for? (N, PK, K, 1-12): ") 
+            print(searchGrade(grade))
         elif goto == "modify":
             addition()
         elif goto == "delete":
@@ -122,7 +125,11 @@ def searchF(first_name):
     if count == 0:                          #if there are no 
         return "No Found Person"
     elif count >= 0:
-        return hold
+        tighten == input("Would you like to tighten the parameters by a second search? (y/n)")
+        if tighten == "y":
+            tightenParameters(hold)
+        else:
+            return hold
     file_in.close()
     
 def searchL(last_name):
@@ -135,7 +142,7 @@ def searchL(last_name):
         line = line.lower()
         
         list_of_words = line.split(",")                                                              #splits the line into a list at every ","
-        if list_of_words[2] == last_name:                                                      #checks to see if words match with input
+        if list_of_words[3] == last_name:                                                      #checks to see if words match with input
             hold = hold + line
             count = count + 1
     
@@ -143,9 +150,38 @@ def searchL(last_name):
     if count == 0:                                                                                          #if there are no found entries...
         return "No Found Person"
     elif count >= 0:
-        return hold
+        tighten == input("Would you like to tighten the parameters by a second search? (y/n)")
+        if tighten == "y":
+            tightenParameters(hold)
+        else:
+            return hold
     file_in.close()
 
+def searchGrade():
+    file_in = open("datatext.txt")
+    count = 0
+    hold = ""
+    names = []
+    
+    for line in file_in:                                                                                    #a loop for every line in the text file
+        
+        line = line.lower()
+        
+        list_of_words = line.split(",")                                                              #splits the line into a list at every ","
+        if list_of_words[2] == grade:                                                      #checks to see if words match with input
+            hold = hold + line
+            count = count + 1
+    
+        
+    if count == 0:                                                                                          #if there are no found entries...
+        return "No Found Person"
+    elif count >= 0:
+        tighten == input("Would you like to tighten the parameters by a second search? (y/n)")
+        if tighten == "y":
+            tightenParameters(hold)
+        else:
+            return hold
+    file_in.close()
 
 def sus():
     sus = input("Sus? (y/n): ")
@@ -157,8 +193,6 @@ def sus():
         mixer.music.play()
         time.sleep(5)
 
-
-
 def searchCity(city):
     file_in = open("datatext.txt")
     count = 0
@@ -169,7 +203,6 @@ def searchCity(city):
         line = line.lower()
         
         list_of_words = line.split(",")                                                              #splits the line into a list at every ","
-        print(list_of_words)
         if list_of_words[7] == city:                                                      #checks to see if words match with input
             hold = hold + line
             count = count + 1
@@ -178,7 +211,11 @@ def searchCity(city):
     if count == 0:                                                                                          #if there are no found entries...
         return "No Found Person"
     elif count >= 0:
-        return hold
+        tighten == input("Would you like to tighten the parameters by a second search? (y/n)")
+        if tighten == "y":
+            tightenParameters(hold)
+        else:
+            return hold
     file_in.close()
 
 def searchAdvisor(advisor):
@@ -200,9 +237,31 @@ def searchAdvisor(advisor):
     if count == 0:                                                                                          #if there are no found entries...
         return "No Found Person"
     elif count >= 0:
-        return hold
+        tighten == input("Would you like to tighten the parameters by a second search? (y/n)")
+        if tighten == "y":
+            tightenParameters(hold)
+        else:
+            return hold
     file_in.close()
-
+    
+def tightenParameters(hold):
+    print("Here are your search functions to tighten parameters.\nSearch First name (SF)\nSearch Last name (SL)\nSearch Grade (SG)\nSearch City (SC)\nSearch Advisor(SA)")
+    tighten = input("Input here:")
+    tighten = tighten.upper()
+    while True:
+        if tighten == "SF":
+            print("Hello")
+        elif tighten == "SL":
+            print("Hello")
+        elif tighten == "SG":
+            print("Hello")
+        elif tighten == "SC":
+            print("Hello")
+        elif tighten == "SA":
+            print("Hello")
+        else:
+            print("Please input the shortened version of a menu item.")
+        
 def addition():
     file = open("datatext.txt" , "a")                                                                     #opens the file for appending      
     first = input("first name: ")
@@ -219,7 +278,6 @@ def addition():
     file.close()
     return "Added!"
     
-
 def removal(first_name, last_name):
     file_in = open("datatext.txt", "r")
     file_con = file_in.read()
@@ -255,7 +313,6 @@ def removal(first_name, last_name):
             print("Hello")
         else:
             print("Fail")
-        
 
 def genderC():
     file_input = open("datatext.txt")
