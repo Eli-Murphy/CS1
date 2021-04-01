@@ -8,8 +8,13 @@ Created on March 3, 2021
         March 8: Added city frequency counter using a dictionary
         March 11: Added different search functions including last name, city, and advisor.
         March 22: Added skeleton tightenParameter() function and added search grade function.
+        March 29: Removed the remove() function because it didnt work at all
+                         Cleaning up and formating
+        March 30: Hold the phone Houston we have a working remove() function praise jesus
+                        Still working on that tighten parameters, need to figure out a way to compare list items...
 
 Bug: 
+    March 30: There is a problem with the remove function where due to python holding the datatext.txt in RAM, it cannot fully run without manually clearing processes in procexp.exe
 
 Initiative: The purpose of this project is to allow a user to modify, search, and record information about GCDS's school directory.
 
@@ -17,7 +22,7 @@ Bonus:
 
 @author: EMurphy24
 '''
-
+#Required Libraries 
 import os
 import pprint
 import matplotlib.pyplot as plt
@@ -37,6 +42,7 @@ def main():
         print("If you would like to add to the directory, enter 'modify'.")
         print("If you would like to delete an entry, enter 'delete'.")
         print("If you would like to count the frequencies of the cities enter 'city'.")
+        print("If you would like to count the frequencies of the states enter 'states'.")
         print("If you would like to count the amount of people assigned to each advisor, enter 'advisors'.")
         print("If you would like to count genders on the list, enter 'gender'.\n")
         goto = input("Enter Here: ")
@@ -44,15 +50,33 @@ def main():
         first_name = first_name.lower()                     #This isolates the first and last name for functions
         last_name = last_name.lower()
         if goto == "search first":
-            print(searchF(first_name))
+            hold = searchF(first_name)
+            print(hold)
+            tighten = input("Would you like to tighten your parameters?")
+            if tighten == "y":
+                tightenParameters(hold, first_name, last_name)
+            else:
+                print("Please input y or n.")
         elif goto == "search last":
-            print(searchL(last_name))
-        elif goto == "sus":
-            sus()
+            hold = searchL(last_name)
+            print(hold)
+            tighten = input("Would you like to tighten your parameters?")
+            if tighten == "y":
+                tightenParameters(hold, first_name, last_name)
+            else:
+                print("Please input y or n.")
+
         elif goto == "search city":
             city = input("What city are you looking for?: ")
             city = city.lower()
-            print(searchCity(city))
+            hold = searchCity(city)
+            print(hold)
+            tighten = input("Would you like to tighten your parameters?")
+            if tighten == "y":
+                tightenParameters(hold, first_name, last_name)
+            else:
+                print("Please input y or n.")
+
         elif goto == "search advisor":
             advisor = input("What is the advisor's last name?: ")
             
@@ -61,20 +85,37 @@ def main():
             #the last name of the desired advisor, this adds it to allow
             #it to continue to search 
             advisor = advisor.lower()
-            print(searchAdvisor(advisor))
+            hold = searchAdvisor(advisor)
+            print(hold)
+            tighten = input("Would you like to tighten your parameters?")
+            if tighten == "y":
+                tightenParameters(hold, first_name, last_name)
+            else:
+                print("Please input y or n.")
+
         elif goto == "search grade":
             grade = input("What grade are you looking for? (N, PK, K, 1-12): ") 
-            print(searchGrade(grade))
+            hold = searchGrade(grade)
+            print(hold)
+            tighten = input("Would you like to tighten your parameters?")
+            if tighten == "y":
+                tightenParameters(hold, first_name, last_name)
+            else:
+                print("Please input y or n.")
+
         elif goto == "modify":
             addition()
         elif goto == "delete":
-            removal(first_name, last_name)
+            delete()
         elif goto == "gender":
             d = genderC()
             pprint.pprint(d)
             graph = input("Would you liked this graphed?")
             if graph == "y":
-                graphing(d)
+                plt = graphing(d)
+                plt.show()
+                #this sends the directory to a function I wrote
+                #that turns a directory to a graph
             else: continue
         elif goto == "city":
             d = cityFreq()
@@ -104,6 +145,16 @@ def main():
                 plt = graphing(d)
                 plt.show()
             else: continue
+        elif goto == "states":
+            d = stateFreq()
+            pprint.pprint(d)
+            #pprint is a imported print function to make a dictionary
+            #look more pleasing to the user
+            graph = input("Would you liked this graphed? (y/n): ")
+            if graph == "y":
+                plt = graphing(d)
+                plt.show()
+            else: continue
         else:
             print("Sorry! Thats not an option. Please try again.")
             main()
@@ -122,14 +173,11 @@ def searchF(first_name):
         if list_of_words[0] == first_name:
             hold = hold + line
             count = count + 1
-    if count == 0:                          #if there are no 
+    if count == 0:                          #if there are no results
         return "No Found Person"
-    elif count >= 0:
-        tighten == input("Would you like to tighten the parameters by a second search? (y/n)")
-        if tighten == "y":
-            tightenParameters(hold)
-        else:
-            return hold
+    else:
+        return hold
+        
     file_in.close()
     
 def searchL(last_name):
@@ -142,22 +190,19 @@ def searchL(last_name):
         line = line.lower()
         
         list_of_words = line.split(",")                                                              #splits the line into a list at every ","
-        if list_of_words[3] == last_name:                                                      #checks to see if words match with input
+        if list_of_words[2] == last_name:                                                      #checks to see if words match with input
             hold = hold + line
             count = count + 1
     
         
-    if count == 0:                                                                                          #if there are no found entries...
+    if count == 0:                          #if there are no results
         return "No Found Person"
-    elif count >= 0:
-        tighten == input("Would you like to tighten the parameters by a second search? (y/n)")
-        if tighten == "y":
-            tightenParameters(hold)
-        else:
-            return hold
+    else:
+        return hold
+        
     file_in.close()
 
-def searchGrade():
+def searchGrade(grade):
     file_in = open("datatext.txt")
     count = 0
     hold = ""
@@ -173,25 +218,13 @@ def searchGrade():
             count = count + 1
     
         
-    if count == 0:                                                                                          #if there are no found entries...
+            
+    if count == 0:                          #if there are no results
         return "No Found Person"
-    elif count >= 0:
-        tighten == input("Would you like to tighten the parameters by a second search? (y/n)")
-        if tighten == "y":
-            tightenParameters(hold)
-        else:
-            return hold
+    else:
+        return hold
+        
     file_in.close()
-
-def sus():
-    sus = input("Sus? (y/n): ")
-    if sus == "y":
-        img = Image.open('b69.png') 
-        img.show() 
-        mixer.init()
-        mixer.music.load('amogus.mp3')
-        mixer.music.play()
-        time.sleep(5)
 
 def searchCity(city):
     file_in = open("datatext.txt")
@@ -208,16 +241,14 @@ def searchCity(city):
             count = count + 1
     
         
-    if count == 0:                                                                                          #if there are no found entries...
+            
+    if count == 0:                          #if there are no results
         return "No Found Person"
-    elif count >= 0:
-        tighten == input("Would you like to tighten the parameters by a second search? (y/n)")
-        if tighten == "y":
-            tightenParameters(hold)
-        else:
-            return hold
+    else:
+        return hold
+        
     file_in.close()
-
+    
 def searchAdvisor(advisor):
     file_in = open("datatext.txt")
     print(advisor)
@@ -234,33 +265,42 @@ def searchAdvisor(advisor):
             count = count + 1
     
         
-    if count == 0:                                                                                          #if there are no found entries...
+           
+    if count == 0:                          #if there are no results
         return "No Found Person"
-    elif count >= 0:
-        tighten == input("Would you like to tighten the parameters by a second search? (y/n)")
-        if tighten == "y":
-            tightenParameters(hold)
-        else:
-            return hold
+    else:
+        return hold
+        
     file_in.close()
-    
-def tightenParameters(hold):
+
+def tightenParameters(hold, first_name, last_name):
     print("Here are your search functions to tighten parameters.\nSearch First name (SF)\nSearch Last name (SL)\nSearch Grade (SG)\nSearch City (SC)\nSearch Advisor(SA)")
     tighten = input("Input here:")
     tighten = tighten.upper()
-    while True:
-        if tighten == "SF":
-            print("Hello")
-        elif tighten == "SL":
-            print("Hello")
-        elif tighten == "SG":
-            print("Hello")
-        elif tighten == "SC":
-            print("Hello")
-        elif tighten == "SA":
-            print("Hello")
-        else:
-            print("Please input the shortened version of a menu item.")
+    hold1 = hold
+    if tighten == "SF":
+        print("Hello")
+        hold2 = searchF(first_name)
+        #MAKE A "if a line in hold1 is also in hold2, return the lines that match
+        hold1list = hold1.split("\n")
+        hold2list = hold2.split("\n")
+        print(hold1list)
+        print("SPLIT")
+        print(hold2list)
+            
+    elif tighten == "SL":
+        print("Hello")
+    elif tighten == "SG":
+        print("Hello")
+        grade = input("What grade are you looking for?: ")
+    elif tighten == "SC":
+        print("Hello")
+        city = input("What city are you looking for?: ")
+    elif tighten == "SA":
+        print("Hello")
+        advisor = input("What advisor are you looking for?: ")
+    else:
+        print("Please input the shortened version of a menu item.")
         
 def addition():
     file = open("datatext.txt" , "a")                                                                     #opens the file for appending      
@@ -277,42 +317,37 @@ def addition():
     #writes in the line to the file as a new one
     file.close()
     return "Added!"
-    
-def removal(first_name, last_name):
-    file_in = open("datatext.txt", "r")
-    file_con = file_in.read()
-    file_out = open("temp.txt", "w+")
-    file_out.close()
-    file_out = open("temp.txt", "w")
-    #lines = file.readlines()
+
+def delete():
+    input_file = open("datatext.txt", "r")
+    output_file = open("temp.txt", "w")
+    first = input("\nWhat is the first name of the person you are trying to delete?: \n")
+    last = input("What is the last name of the person you are trying to delete?: ")
+    first = first.lower()
+    last = last.lower()
+    #This fixes the problem of miscapitalization.
     count = 0
-    response = search(first_name, last_name)
-    print(response)
-    if response == "No Found Person":
-         print("No Found Person")
-         removal()
-    for line in file_con.split('\n'):
-        if response == line:
-            print("113")
-            file_out.write(line)
-        else:
-            print("116")
+    for line in input_file:
+        line = line.lower()
+        data = line.split(",")
+        #this splits the line at the comma, making a list
+        if data[0] == first and data[2] == last:
+        #if the first item in the line matches with the first name and the 3rd item in the line matches with the last name,
             count = count + 1
-    if count != 0:
-        print("119")
-        file_in.close()
-        os.replace("datatext.txt", "temp.txt")
-    else:
-        print("Error")
-    if response == "No Found Person":
-        print("No Found Person")
-        removal()
-    else:
-        #for i in range(len(lines)):
-        if any(item.lower() == response.lower() for item in lines):
-            print("Hello")
+            continue
         else:
-            print("Fail")
+            output_file.write(line)
+            #writes the lines not containing the deleted party
+    if count > 0:
+               
+        input_file.close()
+        output_file.close()
+        os.remove("datatext.txt")
+        os.rename("temp.txt", "datatext.txt")
+        output_file.close()
+        print("Done!")
+    else:
+        print("Sorry, no results found.")
 
 def genderC():
     file_input = open("datatext.txt")
@@ -323,12 +358,15 @@ def genderC():
     for line in file_input:
         line.lower()
         linelist = line.split(',')
+        #This converts the line to a list and makes a new item 
+        #at every ','
         if linelist[4] not in d:
-             d[linelist[4]] = 1
+        #if the fifth (items in lists start at a 0) item in the menu
+         #isnt in the directory
+             d[linelist[4]] = 0
         else:
              d[linelist[4]] = d[linelist[4]] + 1       
     return d
-
 
 def cityFreq():
     file_input = open("datatext.txt")
@@ -337,11 +375,13 @@ def cityFreq():
     #this makes organizing the freqency significantly easier.
     linelist =[]
     for line in file_input:
-        #print(line)
         line.lower()
         linelist = line.split(",")
-        #print(linelist[7])
+        #This converts the line to a list and makes a new item 
+        #at every ','
         if linelist[7] not in d:
+        #if the eight  (items in lists start at a 0) item in the menu
+         #isnt in the directory    
              d[linelist[7]] = 1
         else:
              d[linelist[7]] = d[linelist[7]] + 1       
@@ -357,6 +397,8 @@ def advisorFreq():
         line.lower()
         linelist = line.split(',')
         if linelist[5] not in d:
+        #if the sixth (items in lists start at a 0) item in the menu
+        #isnt in the directory
              d[linelist[5]] = 1
         else:
              d[linelist[5]] = d[linelist[5]] + 1       
@@ -372,15 +414,36 @@ def gradeFreq():
         line.lower()
         linelist = line.split(',')
         if linelist[3] not in d:
+         #if the fourth (items in lists start at a 0) item in the menu
+         #isnt in the directory   
              d[linelist[3]] = 1
         else:
              d[linelist[3]] = d[linelist[3]] + 1       
     return d
 
+def stateFreq():
+    file_input = open("datatext.txt")
+    d = dict() 
+    #this creates a dictonary under variable name 'd'
+    #this makes organizing the freqency significantly easier.
+    linelist =[]
+    for line in file_input:
+        line.lower()
+        linelist = line.split(',')
+        if linelist[8] not in d:
+         #if the fourth (items in lists start at a 0) item in the menu
+         #isnt in the directory   
+             d[linelist[8]] = 1
+        else:
+             d[linelist[8]] = d[linelist[8]] + 1       
+    return d
+
 def graphing(d):
     try:
-        keys = d.keys()
+        keys = d.keys()     
         values = d.values()
+        #this separates the matching keys and values to its own 
+        #variables, making it easier to work with
         
         
         x = input("What is your X-Axis?: ")
@@ -399,14 +462,16 @@ def graphing(d):
             return plt
         elif chart == "pie":
             plt.pie(values, labels = keys, shadow=True, autopct='%1.1f%%',radius=1.3)  
+            #To be honest, im not sure what all these mean, but I do know that this 
+            #customizes the pie chart.
             return plt
         else:
             print("Sorry! Thats not an option.")
     except:
         print("Error, missing data.")
-    
-
-# 
+ 
+ 
+ 
 # def first_name(line):
 #     if line == "" or line == " ":
 #         return "VOID"
