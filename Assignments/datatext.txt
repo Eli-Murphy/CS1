@@ -1,1197 +1,1197 @@
-Benjamin,Davie,Acciavatti,9,M,"Lehn, Austin",Rye,NY,10580
-Samuel, ,Acciavatti,6,M,"Dandola, Matthew",Rye,NY,10580
-Bryce,Griffith,Agroskin,PK,M,"Merritt, Merritt",Greenwich,CT,06830
-Chaz,Bennett,Agroskin,3,M,"Paiva, Glaura",Greenwich,CT,06830
-William,Edmund Kenji,Aishman,5,M,"Paine, Tucker",Stamford,CT,06903
-Charlotte,Marie,Albright,1,F,"Morton, Monica",Greenwich,CT,06830
-Thomas, ,Alexopoulos,PK,M,"Whittlesey, Sara",Riverside,CT,06878
-Gabriela, ,Almeida,7,F,"Donnalley, Jennifer",Cos Cob,CT,06807
-Daniela,Maria,Alvarez,K,F,"Suter, Elizabeth",Stamford,CT,06906
-Bianca,Jenny,Amen,6,F,"Castrigano, Daniel",Darien,CT,06820
-Hunter,Richard,Amen,7,M,"Gussis, James",Darien,CT,06820
-Katarina,Jenny,Amen,2,F,"DiMinno, Katherine",Darien,CT,06820
-Gabriel,A,Amortegui,6,M,"Hasapis, Anthony",Stamford,CT,06905
-Devon,Byers,Anderson,6,F,"Thorner, Katie",Rye,NY,10580
-Jackson,Wilson,Anderson,7,M,"Wohl, Lindsey",Rye,NY,10580
-Whitaker, ,Anderson,5,M,"Abraham, Jennifer",Greenwich,CT,06830
-Matteo, ,Andrade,9,M,"Hubertus, Shannon",Stamford,CT,06902
-Brooke, ,Andrews-Peden,9,F,"Scanlon, Patrick",Old Greenwich,CT,06870
-Emilia,Marie,Angelov,6,F,"Cornell, Eric",Stamford,CT,06906
-Henry,Levy,Anikstein,1,M,"Brown, Devon",Greenwich,CT,06831
-Olivia, ,Anikstein,4,F,"Garcia, Madeline",Greenwich,CT,06831
-Leandro,Benjamin,Aponte,K,M,"Suter, Elizabeth",Stamford,CT,06902
-Jonathan, ,Aquino,12,M,"Helstein, Timothy",Stamford,CT,06902
-Cyrus,Foroughi,Arjomand,9,M,"Ramirez, Alnardo",West Harrison,NY,10604
-Rory,Willow,Ashmeade,10,F,"Mezzo, Michael",Stamford,CT,06907
-Philippa,Kate,Ashworth Cochrane,9,F,"Carr, Douglas",Greenwich,CT,06830
-George,Alexandros,Athanasopoulos,5,M,"Morelli, Adam",Greenwich,CT,06830
-Alexandra,Rose,Atkinson,3,F,"Paiva, Glaura",Old Greenwich,CT,06870
-Benjamin,Chase,Atkinson,7,M,"Doyle, Shannon",Old Greenwich,CT,06870
-Cate,Margaret,Auerswald,6,F,"Milostan, Mark",Cos Cob,CT,06807
-Cooper,James,Auerswald,4,M,"Cauldwell, Sarah",Cos Cob,CT,06807
-Hunter, ,Austrie,11,M,"Reynolds, Jason",Stamford,CT,06902
-Luke,James,Bagshaw,PK,M,"Belden, Sheila",Riverside,CT,06878
-Olivia,Rose,Bagshaw,PK,F,"Walker, Leslea",Riverside,CT,06878
-William,Freeman,Bagshaw,PK,M,"Merritt, Merritt",Riverside,CT,06878
-Noah,Boyd,Bailey,3,M,"Puntereri, Maria",Greenwich,CT,06830
-Silas, ,Bailey,2,M,"DiMinno, Katherine",Greenwich,CT,06830
-James,Gordon,Baird,N,M,"Sugrue, Martha",Darien,CT,06820
-Kelly,McNulty,Baird,K,F,"Foster, Claudia",Greenwich,CT,06830
-Murphy,MacDonald,Baird,K,F,"Weintraub, Jennifer",Greenwich,CT,06830
-Sophie,Elizabeth,Baker,4,F,"Lehn, Stephanie",Greenwich,CT,06329
-Maximillian,Bastiaan,Bakker,2,M,"Mena, Betsy",Greenwich,CT,06831
-Sebastian,Xander,Bakker,1,M,"Schofield, Jocelyn",Greenwich,CT,06831
-Luke,Charles,Balducci,4,M,"Garcia, Madeline",Greenwich,CT,06831
-Siena,Angelina,Balducci,K,F,"Suter, Elizabeth",Greenwich,CT,06831
-Sofia,Marisa,Balducci,5,F,"Abraham, Jennifer",Greenwich,CT,06831
-Breanna,Alexis Rose,Baldwin,7,F,"Waller, Robert",Stamford,CT,06905
-Christian,Jeremiah Ethan,Baldwin,9,M,"Colon Bradt, Christina",Stamford,CT,06905
-Payton,Isabella Rose,Baldwin,4,F,"Garcia, Madeline",Stamford,CT,06905
-Steele,Robert Williamson,Barhydt,6,M,"Long, William",Greenwich,CT,06836
-Evan,Ting,Barry,9,M,"Ruoss, Andrew",Rye Brook,NY,10573
-Henry,Vasey,Barth,PK,M,"Walker, Leslea",Greenwich,CT,06830
-Nina,Jocelyn,Barth,2,F,"Miller, Brian",Greenwich,CT,06830
-Zoe,Annelies,Barth,4,F,"Molyneux, Eleanor",Greenwich,CT,06830
-Leah, ,Bartley,2,F,"Nadler, Carolyn",Stamford,CT,06906
-Anna,Rose,Basinet,8,F,"Bixler, Claire",Greenwich,CT,06830
-Lilly,Malaya,Bauza,1,F,"Hanley, Caroline",Cos Cob,CT,06807
-Serena,Rose,Bauza,PK,F,"Merritt, Merritt",Cos Cob,CT,06807
-Mason,Breen,Bechtel,8,F,"McGlynn, Robert",Greenwich,CT,06831
-Ian, ,Beckman,9,M,"Wood, Jaclyn",Greenwich,CT,06830
-Adele, ,Bego,PK,F,"Merritt, Merritt",Greenwich,CT,06830
-Ainsley, ,Bego,2,F,"Miller, Brian",Greenwich,CT,06830
-Tyler, ,Bego,K,M,"Lee, Kelsey",Greenwich,CT,06830
-James,Cosgrove,Behrend,5,M,"Abraham, Jennifer",New Rochelle,NY,10804
-Molly,Claire,Behrend,3,F,"Puntereri, Maria",New Rochelle,NY,10804
-Hadley,Noble,Bekkerus,K,F,"Foster, Claudia",Darien,CT,06820
-Hudson, ,Bekkerus,1,M,"Brown, Devon",Darien,CT,06820
-George, ,Belshaw,5,M,"Morelli, Adam",Greenwich,CT,06830
-Charles, ,Benincasa,9,M,"Columbo, Richard",Greenwich,CT,06830
-Christopher,James,Benincasa,11,M,"McDonald, Stephanie",Greenwich,CT,06830
-Kathryn,Grace,Benincasa,6,F,"Hasapis, Anthony",Greenwich,CT,06830
-William,R,Bennett,8,M,"Basinet, Matthew",Greenwich,CT,06830
-Brooke, ,Bertrand,8,F,"Spooner, Marshall",Riverside,CT,06878
-Luke,John-Michael,Bible,1,M,"Schofield, Jocelyn",Greenwich,CT,06831
-Tatum,Elena,Bieger,3,F,"Puntereri, Maria",Greenwich,CT,06830
-Emerson,Barlow,Blob,K,F,"Bayless, Laurel",Greenwich,CT,06830
-Reva,Vinit,Bodas,7,F,"Wohl, Lindsey",Greenwich,CT,06831
-Andrew,Jeffrey,Bolduc,N,M,"Sugrue, Martha",Greenwich,CT,06830
-Rebecca,Prentiss,Boolbol,10,F,"Kast, Julie",Greenwich,CT,06830
-Lucas,Marinus Alfonso,Boom,4,M,"Lehn, Stephanie",Riverside,CT,06878
-Nicol‹¨«s,Victor Pieter,Boom,3,M,"Puntereri, Maria",Riverside,CT,06878
-Zoelle,Whitley,Boor,2,F,"Mena, Betsy",Stamford,CT,06902
-Olivia,Taylor,Borsey,8,F,"Preston, Peter",Stamford,CT,06902
-Zachry,Franklin,Bostock,6,M,"Gadsden, Samantha",Greenwich,CT,06831
-Alexander,Orestis,Bouboulis,5,M,"Lowe, Elizabeth",Greenwich,CT,06831
-Anthony,Denis,Bouboulis,7,M,"Donnalley, Jennifer",Greenwich,CT,06831
-Anden,Ryan,Boulan,7,M,"Jones, Taylor",Greenwich,CT,06830
-Asher,Leo,Boulan,3,M,"Sweeney, Ellen",Greenwich,CT,06830
-Austyn, ,Boulan,K,M,"Foster, Claudia",Greenwich,CT,06830
-Scott, ,Boutry,8,M,"Corson, Flynn",Greenwich,CT,06830
-Lila,Jane,Braddock,6,F,"Childs, Hilary",Old Greenwich,CT,06870
-Nate,Robert,Braddock,3,M,"Puntereri, Maria",Old Greenwich,CT,06870
-Sophie,Margo,Braddock,8,F,"Moore, Laura",Old Greenwich,CT,06870
-Chase,Edward,Bragg,K,M,"Lee, Kelsey",Greenwich,CT,06831
-Lily,Elisabeth,Bragg,4,F,"Lehn, Stephanie",Greenwich,CT,06831
-Isabella,Mariette,Brahmst,10,F,"Lehn, Austin",South Salem,NY,10590
-Quinn,Robin,Brahmst,10,M,"Feder, Stephen",South Salem,NY,10590
-Charles,Thurman,Branch,6,M,"Paul, Adrienne",Greenwich,CT,06830
-Kylie, ,Branch,2,F,"Amado, Rebecca",Greenwich,CT,06830
-Christina,Gabriela,Brant,PK,F,"Whittlesey, Sara",Greenwich,CT,06831
-Elena,Matilda,Brant,PK,F,"Merritt, Merritt",Greenwich,CT,06831
-Felix,Peter Heinrich,Brant,3,M,"Puntereri, Maria",Greenwich,CT,06831
-Henry,Thomas,Brant,1,M,"Brown, Devon",Greenwich,CT,06831
-Joseph,Evan,Breheney,2,M,"Amado, Rebecca",Greenwich,CT,06830
-Michael,Leonardo,Breheney,8,M,"Corson, Flynn",Greenwich,CT,06830
-John,Matthew,Breitfelder,10,M,"Helpern, Joseph",Greenwich,CT,06830
-Lily,Elle,Breitfelder,6,F,"Gadsden, Samantha",Greenwich,CT,06830
-Owen,Leonard,Briggs,7,M,"Withrow, Morgan",New Canaan,CT,0'06840
-Zachary,Keith,Britt,5,M,"Morelli, Adam",Stamford,CT,06902
-Zaira,Karla,Britt,K,F,"Weintraub, Jennifer",Stamford,CT,06902
-Zara, ,Britt,1,F,"Brown, Devon",Stamford,CT,06902
-John,William,Brodie,PK,M,"Whittlesey, Sara",Greenwich,CT,06830
-Jack,G,Brogan,8,M,"Spencer, Eliot",Riverside,CT,06878
-Beck,Matthew,Brown,1,M,"Hanley, Caroline",Greenwich,CT,06830
-Gioia,Noel,Brown,5,F,"Morelli, Adam",Greenwich,CT,06830
-Harrison,Clifford,Brown,PK,M,"Belden, Sheila",Greenwich,CT,06830
-Jelani, ,Brown,5,M,"Paine, Tucker",Stamford,CT,06906
-Luke,Haegler,Brown,8,M,"Bixler, Claire",Greenwich,CT,06830
-Tyler,Cole,Brown,12,M,"Grasso, Nick",Stamford,CT,06902
-Emma, ,Bruzzone,5,F,"Gilch, Jennifer",Riverside,CT,06878
-Juan, ,Bruzzone,7,M,"Waller, Robert",Riverside,CT,06878
-Lucas, ,Bruzzone,2,M,"Miller, Brian",Riverside,CT,06878
-Cole, ,Buchalter,3,F,"Puntereri, Maria",Greenwich,CT,06830
-Madeline, ,Buchsbaum,9,F,"Kucher, David",Greenwich,CT,06830
-Aria,Elyse,Burke,1,F,"Morton, Monica",Greenwich,CT,06830
-Calista,Dagmar,Burke,5,F,"Abraham, Jennifer",Greenwich,CT,06830
-Amelie,Mia,Burt,1,F,"Hanley, Caroline",Greenwich,CT,06831
-Ewan,Peter,Burt,PK,M,"Belden, Sheila",Greenwich,CT,06831
-Lucas,Vladimir,Burt,4,M,"Thompson, Kevin",Greenwich,CT,06831
-Abigail, ,Burton,4,F,"Thompson, Kevin",Greenwich,CT,06830
-Avery, ,Burton,2,F,"Nadler, Carolyn",Greenwich,CT,06830
-Robert, ,Burton,8,M,"Tennyson, Jesse",Greenwich,CT,06830
-Tatiana,Lushear,Busch,N,F,"Sugrue, Martha",Greenwich,CT,06831
-Arthur,Edward,Butcher,2,M,"Mena, Betsy",Bedford,NY,10506
-Caroline,Lindy,Butz,K,F,"Weintraub, Jennifer",Old Greenwich,CT,06870
-Trevor,Preston,Butz,N,M,"Baird, Christine",Old Greenwich,CT,06870
-Elizabeth,Jane,Byxbee,4,F,"Garcia, Madeline",Riverside,CT,06878
-Kathryn,Patricia,Byxbee,7,F,"Aronowsky, Ellen",Riverside,CT,06878
-Caroline,Nicole,Cabrera,6,F,"Hasapis, Anthony",Old Greenwich,CT,06870
-Gabriel,Enrique,Cabrera,1,M,"Hanley, Caroline",Greenwich,CT,06831
-Camilla,Marie,Caffray,3,F,"Laubscher, Luke",Riverside,CT,06878
-Charlotte,Patricia,Caffray,5,F,"Gilch, Jennifer",Riverside,CT,06878
-Lawson,Spencer,Caffray,1,M,"Hanley, Caroline",Riverside,CT,06878
-James,Whitney,Calhoun,1,M,"Arcati, Abigail",Riverside,CT,06878
-Kathryn, ,Calhoun,2,F,"Amado, Rebecca",Riverside,CT,06878
-Chloe,Lasala,Caliboso,8,F,"Tennyson, Jesse",Stamford,CT,06905
-Christian,Philip,Carcache,1,M,"Arcati, Abigail",Greenwich,CT,06830
-Daniel,Tavares,Cardoso,K,M,"Suter, Elizabeth",Greenwich,CT,06831
-Vivian,Tavares,Cardoso,N,F,"Baird, Christine",Greenwich,CT,06831
-Ainsley,Tait,Carella,8,F,"Moore, Laura",Greenwich,CT,06830
-Devon,Elizabeth,Carella,5,F,"Abraham, Jennifer",Greenwich,CT,06830
-Graceyn,Alexandra,Carella,2,F,"Mena, Betsy",Greenwich,CT,06830
-Niccolo, ,Carrasquero,7,M,"Koke, Kathleen",Stamford,CT,06902
-Caleb,Spencer,Carter,N,M,"Sugrue, Martha",Stamford,CT,06906
-J., ,Cassin,2,M,"Mena, Betsy",Greenwich,CT,06830
-Rory,Victoria,Cassin,5,F,"Johnson, Elizabeth",Greenwich,CT,06830
-Ryan,Julia,Cassin,7,F,"Harrington, Edward",Greenwich,CT,06830
-Maximiliano, ,Castano,2,M,"DiMinno, Katherine",Port Chester,NY,10573
-Timothy,Jackson,Castelli,10,M,"Graham, Jane",Riverside,CT,06878
-Ethan,Kennedy,Cecil,4,M,"Molyneux, Eleanor",Greenwich,CT,06831
-Stephen,Harper,Cecil,7,M,"Rosenberg, Lauren",Greenwich,CT,06831
-Annika,Ela,Cezzar,9,F,"Latimore, Anais",Stamford,CT,06903
-Edward,Lennart,Chandra,4,M,"Garcia, Madeline",Larchmont,NY,10538
-Katherine,Lundstrom,Chandra,6,F,"Thorner, Katie",Larchmont,NY,10538
-Luke,Miles,Chandra,7,M,"Gussis, James",Larchmont,NY,10538
-Nolan,Caius,Charlton,9,M,"Latimore, Anais",New Canaan,CT,06840
-Mary,Loren,Chickering,5,F,"Johnson, Elizabeth",Cos Cob,CT,06807
-Owen,Dalton,Chickering,7,M,"Waller, Robert",Cos Cob,CT,06807
-Ludmila, ,Chigirinskaya,6,F,"Paul, Adrienne",Greenwich,CT,06830
-Sophia,Catrina,Chigirinskaya,7,F,"Donnalley, Jennifer",Greenwich,CT,06831
-Shalva, ,Chigirinskiy,5,M,"Paine, Tucker",Greenwich,CT,06830
-Nadira, ,China,5,F,"Lowe, Elizabeth",Norwalk,CT,06851
-Harold,Dalzell,Church,8,M,"Spencer, Eliot",Bedford,NY,10506
-Lila,Briggs,Church,7,F,"Aronowsky, Ellen",Bedford,NY,10506
-James, ,Cipolla,2,M,"Nadler, Carolyn",Riverside,CT,06878
-Lily, ,Cipolla,4,F,"Molyneux, Eleanor",Riverside,CT,06878
-Scarlett, ,Cipolla,N,F,"Sepot, Sarah",Riverside,CT,06878
-Claudia, ,Citrin,9,F,"Wood, Jaclyn",Bedford Corners,NY,10549
-Charles,Augustus,Clark,7,M,"McGovern, Michael",Greenwich,CT,06830
-Jack, ,Cloutier,9,M,"Wood, Jaclyn",Riverside,CT,06878
-Hadley,Grace,Cmiel,K,F,"Suter, Elizabeth",Greenwich,CT,06830
-Maxwell,Reed,Coblenz,8,M,"Kelly, Shaun",Rye,NY,10580
-Samuel, ,Coblenz,7,M,"Rosenberg, Lauren",Rye,NY,10580
-Alexander,Humberto,Coca-Rodriguez,N,M,"Baird, Christine",Norwalk,CT,06850
-Carlotta,Victoria,Coca-Rodriguez,2,F,"DiMinno, Katherine",Norwalk,CT,06850
-Isabella, ,Coffin,1,F,"Brown, Devon",Greenwich,CT,06830
-Mia, ,Cohen,PK,F,"Walker, Leslea",Greenwich,CT,06830
-Emily, ,Cole,9,F,"Ruoss, Andrew",Armonk,NY,10504
-Harrison, ,Cole,10,M,"Alper, Jordan",Armonk,NY,10504
-Corbin,M. M.,Coles,9,M,"Kucher, David",Harrison,NY,10528
-Kendall,Jane,Collier,9,F,"Graham, Jane",Old Greenwich,CT,06870
-August, ,Collin,PK,M,"Walker, Leslea",Riverside,CT,06878
-Ashley,Grace,Collins,7,F,"Waller, Robert",Stamford,CT,06905
-Nathan,Lawrence,Collins,4,M,"Thompson, Kevin",Stamford,CT,06905
-Owen,Robert,Collins,9,M,"Campbell, Gordon",Greenwich,CT,06830
-Pierce,William,Collins,7,M,"Withrow, Morgan",Greenwich,CT,06830
-Sean,Kennan,Collins,7,M,"Jones, Taylor",Greenwich,CT,06830
-Mac‹¨«o,Strider,Col‹¨«n Bradt,PK,M,"Walker, Leslea",Greenwich,CT,06830
-Chloe,Eleanor,Cook,7,F,"McGovern, Michael",Greenwich,CT,06830
-Campbell,Magee,Corbin,3,F,"Sweeney, Ellen",Greenwich,CT,06830
-Lavely,Pyne,Corbin,4,F,"Hall, Jane",Greenwich,CT,06830
-Christopher,Charles,Corrinet,PK,M,"Merritt, Merritt",Greenwich,CT,06830
-Leonardo, ,Corsano-Leopizzi,9,M,"Kucher, David",Old Greenwich,CT,06870
-Liam,Emanuele,Corsano-Leopizzi,1,M,"Arcati, Abigail",Old Greenwich,CT,06870
-Lorenzo, ,Corsano-Leopizzi,3,M,"Sweeney, Ellen",Old Greenwich,CT,06870
-Luca,David,Corsano-Leopizzi,7,M,"Jones, Taylor",Old Greenwich,CT,06870
-Imogen, ,Corson,K,F,"Suter, Elizabeth",Greenwich,CT,06830
-Kelly,Flynn,Corson,3,M,"DeTeso, Tracy",Greenwich,CT,06830
-Maeve, ,Corson,2,F,"Miller, Brian",Greenwich,CT,06830
-Finnian,Jack,Cosgrove,5,M,"Paine, Tucker",Greenwich,CT,06831
-Ruby,Willow,Cosgrove,8,F,"Spooner, Marshall",Greenwich,CT,06831
-Henri,Weston,Costanzo,2,M,"Mena, Betsy",Greenwich,CT,06830
-Leonardo,Stanley,Costanzo,K,M,"Lee, Kelsey",Greenwich,CT,06830
-Carolina,Bradshaw,Crain,7,F,"Gagnon, Eleanor",Greenwich,CT,06830
-Chace,Christopher,Crain,3,M,"DeTeso, Tracy",Greenwich,CT,06830
-Connor,Sutton,Crain,7,M,"Abreu, Diana",Greenwich,CT,06830
-Chloe,Hayfield,Cranston,3,F,"DeTeso, Tracy",Greenwich,CT,06830
-Hadley,Parkhurst,Cranston,7,F,"Jones, Taylor",Greenwich,CT,06830
-William,Beckett,Cranston,5,M,"Sinay, Aaron",Greenwich,CT,06830
-Ainsley,Madren,Craver,9,F,"Helstein, Timothy",Riverside,CT,06878
-Eliza,Lauren,Craver,6,F,"Righter, Holly",Riverside,CT,06878
-Corbin,Louis,Creech,1,M,"Morton, Monica",Darien,CT,06820
-Sloane,Louisa,Creech,6,F,"Long, William",Darien,CT,06820
-Ryan,Walker Kelce,Crowley,9,M,"Allen, Tara",Greenwich,CT,06830
-Kathleen,Graneto,Culvahouse,5,F,"Gilch, Jennifer",Greenwich,CT,06830
-Michael,Callahan,Cunnion,9,M,"Latimore, Anais",Old Greenwich,CT,06870
-Amelie,Beth,Curry,2,F,"Mena, Betsy",Old Greenwich,CT,06870
-Dominic,Edwin Ethan,Curry,5,M,"Gilch, Jennifer",Old Greenwich,CT,06870
-Cole,William,Custar,3,M,"Laubscher, Luke",Riverside,CT,06878
-Hailey,Ashton,Custar,5,F,"Sinay, Aaron",Riverside,CT,06878
-Mason,James,Custar,PK,M,"Belden, Sheila",Riverside,CT,06878
-Catherine,Grace,Cutting,6,F,"Gadsden, Samantha",Greenwich,CT,06830
-Reminy,Gail,D'Albert,7,F,"Rosenberg, Lauren",Stamford,CT,06903
-Thea,Towne,D'Albert,5,F,"Paine, Tucker",Stamford,CT,06903
-Dylan,Rose,D'Antonio,4,F,"Molyneux, Eleanor",Greenwich,CT,06831
-Justin ,James,D'Ercole,9,M,"Kast, Julie",Mamaroneck,NY,10543
-Allegra, ,DaPuzzo,8,F,"Spooner, Marshall",Greenwich,CT,06830
-Alexander,Wynn,Dartnell,7,M,"McGovern, Michael",Greenwich,CT,06830
-Philip,Miles,Dartnell,7,M,"Withrow, Morgan",Greenwich,CT,06830
-Avery,Jade,Davis,3,F,"DeTeso, Tracy",Greenwich,CT,06830
-Ella,Catherine,Davis,8,F,"McGlynn, Robert",Greenwich,CT,06830
-Hailey,Quinn,Davis,PK,F,"Belden, Sheila",Cos Cob,CT,06807
-James, ,Davis,N,M,"Sugrue, Martha",Riverside,CT,06878
-Mason, ,Davis,7,M,"Gagnon, Eleanor",Greenwich,CT,06830
-Oliver,Bancroft,Davis,5,M,"Gilch, Jennifer",Greenwich,CT,06830
-William,Lawrence,Davis,2,M,"Miller, Brian",Greenwich,CT,06830
-Madelyn, ,Dawson,PK,F,"Belden, Sheila",Norwalk,CT,06855
-Maximus, ,Dawson,1,M,"Hanley, Caroline",Norwalk,CT,06855
-Bridget, ,Day,7,F,"Donnalley, Jennifer",Old Greenwich,CT,06870
-Landau, ,Day,K,M,"Bayless, Laurel",Stamford,CT,06903
-Mia,Isabella,De la Cruz,5,F,"Gilch, Jennifer",Norwalk,CT,06854
-Jacqueline, ,De Weaver,4,F,"Thompson, Kevin",Greenwich,CT,06831
-Wilhelmina, ,De Weaver,PK,F,"Walker, Leslea",Greenwich,CT,06831
-Sophia,Kathleen,Debs,8,F,"Preston, Peter",West Harrison,NY,10604
-Jamaal,Levon,DeGraffenried,10,M,"Roth, Lauren",Stamford,CT,06902
-Breit,Frith,Delany,2,M,"DiMinno, Katherine",Greenwich,CT,06830
-Kirby,Haynes,Delany,1,F,"Arcati, Abigail",Greenwich,CT,06830
-Seth,Uberall,Delany,6,M,"Cornell, Eric",Cos Cob,CT,06807
-Wylie, ,Dell'Olio,9,F,"Hubertus, Shannon",Stamford,CT,06903
-Matteo,A.,Della Pietra,4,M,"Molyneux, Eleanor",Greenwich,CT,06830
-Nico,P.,Della Pietra,6,M,"Childs, Hilary",Greenwich,CT,06830
-Dashiel,Lev,Dermont,5,M,"Morelli, Adam",Greenwich,CT,06830
-Sarah, ,DesChamps,8,F,"Kelly, Shaun",Old Greenwich,CT,06870
-Carolina, ,Deus,9,F,"Lehn, Austin",Port Chester,NY,10573
-Kathryn,Carroll,deVeer,4,F,"Thompson, Kevin",Greenwich,CT,06831
-Wallace,Pehrson,deVeer,7,M,"Waller, Robert",Greenwich,CT,06831
-Katherine,Grace,Diamond,7,F,"Withrow, Morgan",Katonah,NY,10536
-Sianna,Rose,DiClemente,2,F,"Nadler, Carolyn",Greenwich,CT,06830
-Raye,M,Dinovo,8,F,"McGlynn, Robert",Greenwich,CT,06830
-Sabine,H,Dinovo,8,F,"Karrat, Richard",Greenwich,CT,06830
-Erin,Jayne,Dixon,9,F,"Wood, Jaclyn",Stamford,CT,06903
-Luke,Paul,Dixon,6,M,"Castrigano, Daniel",Stamford,CT,06903
-Chloe,Anabel,Doneger,N,F,"Sugrue, Martha",Greenwich,CT,06830
-Aidan,Parker,Dougherty,6,M,"Morton, Adele",Greenwich,CT,06830
-Connor,Patrick,Dougherty,8,M,"Carnegie, Britt",Greenwich,CT,06830
-Savannah, ,Dreas,8,F,"Basinet, Matthew",Rowayton,CT,06853
-Skylar, ,Dreas,6,F,"Howe, Jeffrey",Rowayton,CT,06853
-Hamish, ,Dubitsky,12,M,"Winters, Christopher",Larchmont,NY,10538
-Leo,Charles,Dubner,7,M,"Wohl, Lindsey",Greenwich,CT,06830
-Max,Henry,Dubner,8,M,"Bixler, Claire",Greenwich,CT,06830
-Tobin,Mills,Dubner,3,M,"Laubscher, Luke",Greenwich,CT,06830
-Mackenzie, ,Duckett,N,F,"Sepot, Sarah",Greenwich,CT,06831
-Madison, ,Duckett,8,F,"Salazar, Jos‹¨«",Greenwich,CT,06831
-Quinn,Marie,Duffy,K,F,"Weintraub, Jennifer",Cos Cob,CT,06807
-Robert,Park,Duncan,9,M,"Allen, Tara",Greenwich,CT,06830
-William,Hopkins,Duncan,9,M,"Katona, Peter",Greenwich,CT,06830
-Nicolas,Arthur,duPont,5,M,"Abraham, Jennifer",Greenwich,Ct,06830
-MiKayla,Azrille,DuPree,8,F,"Corson, Flynn",Stamford,CT,06902
-Tabitha,Helen,Dyal,N,F,"Sepot, Sarah",Greenwich,CT,06831
-Athena,Elyse,Dyer,5,F,"Lowe, Elizabeth",Cos Cob,CT,06807
-Samuel,Pillsbury,Eichmann,11,M,"Carr, Douglas",Greenwich,CT,06830
-Joanna, ,Eken,4,F,"Cauldwell, Sarah",Greenwich,CT,06830
-Penelope, ,Eken,2,F,"Miller, Brian",Greenwich,CT,06830
-Peter, ,Eken,PK,M,"Walker, Leslea",Greenwich,CT,06830
-Annabelle, ,Elkin,8,F,"Moore, Laura",Old Greenwich,CT,06870
-Harrison,Revere,Emery,7,M,"Jones, Taylor",Greenwich,CT,06831
-Hiram,Weber,Emery,9,M,"Fernandez, J. Andy",Greenwich,CT,06831
-Helen,Elizabeth,Erensen,N,F,"Sugrue, Martha",Old Greenwich,CT,06870
-Henry,Fischer,Erensen,1,M,"Arcati, Abigail",Old Greenwich,CT,06870
-Jackson, ,Ertel,4,M,"Garcia, Madeline",Greenwich,CT,06830
-Morgan, ,Ertel,6,F,"Dandola, Matthew",Greenwich,CT,06830
-Dean,Rex,Esquenazi,1,M,"Hanley, Caroline",Greenwich,CT,06831
-Stella,Madeline,Esquenazi,1,F,"Arcati, Abigail",Greenwich,CT,06831
-Vivienne,Aviva,Esquenazi,K,F,"Foster, Claudia",Greenwich,CT,06831
-Nicholas,Adair,Essaid,9,M,"Helstein, Timothy",Old Greenwich,CT,06870
-Cristian,Mark,Estock,10,M,"Roth, Lauren",Greenwich,CT,06830
-Kristina,Luisa,Estock,5,F,"Sinay, Aaron",Greenwich,CT,06830
-Edward,Coles,Evans,2,M,"Nadler, Carolyn",Greenwich,CT,06830
-Eleanor,Parker,Evans,4,F,"Hall, Jane",Greenwich,CT,06830
-Frances,Reid,Evans,K,F,"Suter, Elizabeth",Greenwich,CT,06830
-Cayden,Luca,Ever,4,M,"Hall, Jane",Greenwich,CT,06830
-Dylan,Blake,Ever,6,M,"Gadsden, Samantha",Greenwich,CT,06830
-Andrew,George,Fargis,K,M,"Bayless, Laurel",Greenwich,CT,06830
-MaryGrace,McKenna,Fargis,N,F,"Sepot, Sarah",Greenwich,CT,06830
-Demitrius,Alexander,Farias,8,M,"Corson, Flynn",Stamford,CT,06907
-Ethan,Alexander,Farias,6,M,"Thorner, Katie",Stamford,CT,06907
-Maya,Teresa Salima,Farnos,7,F,"Abreu, Diana",Greenwich,CT,06830
-Jaquelyn,Rose,Farson,1,F,"Arcati, Abigail",Stamford,CT,06902
-Melanie,Annette,Farson,PK,F,"Whittlesey, Sara",Stamford,CT,06902
-Marco, ,Favuzza,6,M,"Long, William",Eastchester,NY,10709
-Eleanor,Jane,Fazzinga,PK,F,"Merritt, Merritt",Greenwich,CT,06830
-Frances,Anne,Fazzinga,3,F,"Puntereri, Maria",Greenwich,CT,06830
-Grace,Emily,Fazzinga,7,F,"McGovern, Michael",Greenwich,CT,06830
-Jordan,Tiffany,Feighery,4,F,"Hall, Jane",Greenwich,CT,06830
-Rima,Monsita,Ferrer,8,F,"Carnegie, Britt",Westport,CT,06880
-Michael,Roman,Feurtado,5,M,"Johnson, Elizabeth",Greenwich,CT,06831
-William,Roman,Feurtado,8,M,"Tennyson, Jesse",Greenwich,CT,06831
-James,Michael,Fiore,10,M,"Mezzo, Michael",Greenwich,CT,06830
-Brooks,Thayer,Fisher,7,M,"Harrington, Edward",Greenwich,CT,06831
-Charlotte,Fitzpatrick,Fisher,10,F,"Foster, Idara",Greenwich,CT,06831
-Alice, ,Fitts,5,F,"Lowe, Elizabeth",Greenwich,CT,06830
-Evelyn,Kay,Fitts,8,F,"Basinet, Matthew",Greenwich,CT,06830
-Elle,Reilly,Fitzmaurice,K,F,"Bayless, Laurel",Stamford,CT,06902
-John,Winston,Flavell,4,M,"Molyneux, Eleanor",Greenwich,CT,06831
-Griffyn,James,Flood,7,M,"Gagnon, Eleanor",Bedford Corners,NY,10507
-Kieran,Christopher,Flynn,N,M,"Sepot, Sarah",Greenwich,CT,06831
-Parker,Kieran,Flynn,5,M,"Johnson, Elizabeth",Greenwich,CT,06831
-Grace,Quinlan,Foley,2,F,"DiMinno, Katherine",Greenwich,CT,06831
-William,Reed,Foley,2,M,"Nadler, Carolyn",Greenwich,CT,06831
-Brynn,Olivia,Forlizzi,5,F,"Johnson, Elizabeth",Darien,CT,06820
-Katarina,Elizabeth,Forstmann,8,F,"Karrat, Richard",Greenwich,CT,06831
-Francis,Axsel,Forti,2,M,"Amado, Rebecca",Greenwich,CT,06830
-Steven,Sigurd,Forti,1,M,"Schofield, Jocelyn",Greenwich,CT,06830
-Viveca,Elaine,Forti,PK,F,"Belden, Sheila",Greenwich,CT,06830
-Reed,Elizabeth,Foster,3,F,"DeTeso, Tracy",Greenwich,CT,06831
-Charles,Browne,Fox,3,M,"Sweeney, Ellen",Greenwich,CT,06830
-Elizabeth,Stewart,Fox,3,F,"Laubscher, Luke",Greenwich,CT,06830
-Imogen, ,Fox,2,F,"DiMinno, Katherine",Greenwich,CT,06830
-Richard,Crawford,Frame,2,M,"DiMinno, Katherine",Greenwich,CT,06831
-Annabel,Mallory,Frank,2,F,"Nadler, Carolyn",Greenwich,CT,06831
-Hunter, ,Frank,K,M,"Bayless, Laurel",Greenwich,CT,06831
-Kylie,Elizabeth,Frank,9,F,"Carr, Douglas",Stamford,CT,06902
-Ava,Rose,Frankel,8,F,"Karrat, Richard",Greenwich,CT,06830
-Remi,Blaire,Frankel,4,F,"Cauldwell, Sarah",Greenwich,CT,06830
-Ann,Brady,Frantz,8,F,"Carnegie, Britt",Riverside,CT,06878
-Charles,Henry,Frascella,9,M,"Ramirez, Alnardo",Greenwich,CT,06830
-Keira,Leigh,Frascella,7,F,"Gussis, James",Greenwich,CT,06830
-Kasen,Kai Sheng,Fu,K,M,"Suter, Elizabeth",Riverside,CT,06878
-Kendrick,Kai Cheng,Fu,4,M,"Lehn, Stephanie",Riverside,CT,06878
-Annabelle, ,Futch,9,F,"Hubertus, Shannon",Greenwich,CT,06831
-Ellery, ,Futch,9,F,"Colon Bradt, Christina",Greenwich,CT,06831
-Cristiano,Mario,Gabelli,2,M,"Miller, Brian",Cos Cob,CT,06807
-Giulia, ,Gabelli,K,F,"Foster, Claudia",Greenwich,CT,06836
-Marco,Joseph,Gabelli,4,M,"Garcia, Madeline",Greenwich,CT,06836
-Vianna,Joelle,Gabelli,4,F,"Hall, Jane",Cos Cob,CT,06807
-Jack,Cohen,Gadsden,1,M,"Hanley, Caroline",Greenwich,CT,06830
-Anna,Ritch,Galatioto,PK,F,"Walker, Leslea",Greenwich,CT,08631
-Grace,Ritch,Galatioto,1,F,"Schofield, Jocelyn",Greenwich,CT,08631
-Daniel, ,Ganeles,9,M,"Carr, Douglas",Armonk,NY,10504
-Elizabeth,Quay,Gardiner,PK,F,"Whittlesey, Sara",Greenwich,CT,06830
-Jane,Courtney,Gardiner,K,F,"Lee, Kelsey",Greenwich,CT,06830
-Jacob,Warner,Gearhart,8,M,"Spencer, Eliot",Riverside,CT,06878
-Alexander,Orcutt,Georges,9,M,"Wood, Jaclyn",Greenwich,CT,06831
-Nicholas,Spiro Athan,Georges,5,M,"Sinay, Aaron",Greenwich,CT,06831
-Virginia,Hamilton,Georges,5,F,"Abraham, Jennifer",Greenwich,CT,06831
-Jackson, ,Gerardi,7,M,"Wohl, Lindsey",Greenwich,CT,06830
-Leela,Jeanne,Getz,1,F,"Hanley, Caroline",Greenwich,CT,06830
-Samson,Christopher,Getz,PK,M,"Walker, Leslea",Greenwich,CT,06830
-Josefina, ,Gil Zalis,9,F,"Columbo, Richard",Cos Cob,CT,06807
-Alekzander,Duque-Steindorsson,Gislason,9,M,"Fernandez, J. Andy",Greenwich,CT,06830
-David,Pellino,Gittes,5,M,"Lowe, Elizabeth",Riverside,CT,06878
-Henry,Michael,Gittes,3,M,"Paiva, Glaura",Riverside,CT,06878
-Hunter,James,Glasebrook,N,M,"Sugrue, Martha",Greenwich,CT,06830
-Madeline,Rose,Godin,12,F,"Dutcher, Andrew",Larchmont,NY,10538
-Henry,Davitt,Goldberg,1,M,"Arcati, Abigail",Old Greenwich,CT,06870
-Henry, ,Goldberg,9,M,"Hubertus, Shannon",Greenwich,CT,06831
-Caleb, ,Goldman,5,M,"Paine, Tucker",Armonk,NY,10504
-Asher,Dean,Goldstein,8,M,"Preston, Peter",Greenwich,CT,06830
-Sarah,Diane,Goldstein,6,F,"Hasapis, Anthony",Greenwich,CT,06830
-Bliss,Violette,Gooding,9,F,"Dutcher, Andrew",New Canaan,CT,06840
-Daisy,Victoria,Gooding,7,F,"Waller, Robert",New Canaan,CT,06840
-Ryan,Howard,Gordon,9,M,"Curry, Patrick",Greenwich,CT,06807
-Ella,Covington,Gray,5,F,"Lowe, Elizabeth",Riverside,CT,06878
-Evelyn,Corbin,Gray,3,F,"DeTeso, Tracy",Greenwich,CT,06830
-Isabel,Quinn,Gray,3,F,"Sweeney, Ellen",Riverside,CT,06878
-Jack,Cooper,Gray,K,M,"Bayless, Laurel",Riverside,CT,06878
-Robert,Charles,Gray,3,M,"DeTeso, Tracy",Cos Cob,CT,06807
-Virginia,McGuire,Gray,1,F,"Hanley, Caroline",Greenwich,CT,06830
-Christian,Morris,Graziano,8,M,"Preston, Peter",Greenwich,CT,06830
-Eleanor,Nicole,Graziano,5,F,"Johnson, Elizabeth",Greenwich,CT,06830
-Gunnar,Garland,Gregory,8,M,"Kelly, Shaun",Greenwich,CT,06831
-Georgia,Wynn,Grogan,6,F,"Dandola, Matthew",Riverside,CT,06878
-Gwynneth, ,Grogan,2,F,"Mena, Betsy",Riverside,CT,06878
-Simon,Robert,Grogan,9,M,"De Vries, Jonathan",Riverside,CT,06878
-Jean-Christophe, ,Guit‹¨«,3,M,"Laubscher, Luke",Greenwich,CT,06831
-Jonah,Price,Gutman,4,M,"Garcia, Madeline",Riverside,CT,06878
-Myer,Elliot,Gutman,2,M,"DiMinno, Katherine",Riverside,CT,06878
-Nora,Colleen,Gutman,K,F,"Suter, Elizabeth",Riverside,CT,06878
-Julian,Charles,Habul,N,M,"Baird, Christine",Greenwich,CT,06830
-Keira, ,Habul,1,F,"Morton, Monica",Greenwich,CT,06830
-Lola,Jeanne,Habul,6,F,"Cornell, Eric",Greenwich,CT,06830
-Brandon,Kyle,Hackett,9,M,"Iversen, Annette",Harrison,NY,10528
-Taylor,Brooke,Hackett,7,F,"Gagnon, Eleanor",Harrison,NY,10528
-Ignacio,William,Hahn,9,M,"Ruoss, Andrew",White Plains,NY,10605
-Emily,Ann,Hamilton,7,F,"Doyle, Shannon",Stamford,CT,06905
-Blake,Elizabeth,Hammack,N,F,"Baird, Christine",Riverside,CT,06878
-Chase,Thomas,Hammack,2,M,"Nadler, Carolyn",Riverside,CT,06878
-Sarah,Nessrine,Hamran,PK,F,"Belden, Sheila",Stamford,CT,06902
-Elizabeth,Lane,Handler,8,F,"Kelly, Shaun",Greenwich,CT,06831
-Evelyn,Blythe,Handler,4,F,"Cauldwell, Sarah",Greenwich,CT,06831
-Reid,Theodore,Handler,6,M,"Thorner, Katie",Greenwich,CT,06831
-Annelie,Sofia,Hang,7,F,"Koke, Kathleen",Greenwich,CT,06830
-Magnus,Randall,Hang,5,M,"Sinay, Aaron",Greenwich,CT,06830
-Dylan, ,Hanlon,K,M,"Foster, Claudia",Greenwich,CT,06830
-Faith,Campbell,Hanson,9,F,"Columbo, Richard",Greenwich,CT,06830
-Perry,Allen,Harmon,PK,M,"Walker, Leslea",Greenwich,CT,06831
-Piper,June,Harmon,1,F,"Brown, Devon",Greenwich,CT,06831
-Aerin,Rees,Harris,9,F,"Iversen, Annette",Greenwich,CT,06831
-Caroline,Michaela,Hart,10,F,"Feder, Stephen",White Plains,NY,10604
-Evangeline, ,Hart,4,F,"Lehn, Stephanie",Greenwich,CT,06831
-Riley, ,Hart,6,M,"Milostan, Mark",Greenwich,CT,06831
-Emma,Frances,Hartman,4,F,"Cauldwell, Sarah",Greenwich,CT,06830
-Barbara,Claire,Harty,6,F,"Dandola, Matthew",Greenwich,CT,06830
-Beatrice,Clay,Harty,1,F,"Brown, Devon",Greenwich,CT,06830
-James,Cox,Harty,3,M,"Paiva, Glaura",Greenwich,CT,06830
-Owen,David,Harvey,1,M,"Schofield, Jocelyn",Stamford,CT,06902
-William,Carney,Hawks,5,M,"Sinay, Aaron",Greenwich,CT,06830
-Charles,Benjamin,Heffer,3,M,"Paiva, Glaura",Old Greenwich,CT,06870
-Emma,Jonas,Heffer,6,F,"Righter, Holly",Old Greenwich,CT,06870
-Jordy,Cole,Hellinger,1,M,"Morton, Monica",Greenwich,CT,06830
-Ryan,Austin,Hellinger,K,M,"Weintraub, Jennifer",Greenwich,CT,06830
-Maddox,Richard,Helstein,1,M,"Morton, Monica",Greenwich,CT,06830
-Meadow,Annilee,Helstein,PK,F,"Belden, Sheila",Greenwich,CT,06830
-Cameron,Nicole,Hendrickson,6,F,"Paul, Adrienne",Hartsdale,NY,10530
-Jurnee, ,Hendrickson,1,F,"Arcati, Abigail",Port Chester,NY,10573
-Taylor,Alexis,Hendrickson,9,F,"Alper, Jordan",Hartsdale,NY,10530
-James,Cooper,Henry,1,M,"Morton, Monica",Greenwich,CT,06830
-Thomas,Parker,Henry,N,M,"Sugrue, Martha",Greenwich,CT,06830
-Gael, ,Hernandez,7,M,"Aronowsky, Ellen",Stamford,CT,06902
-William,Elliott,Herr,K,M,"Weintraub, Jennifer",Old Greenwich,CT,06870
-Jeremy,Michael,Hewett,2,M,"Mena, Betsy",Greenwich,CT,06831
-Georgina,Eden,Heyer,N,F,"Sugrue, Martha",Greenwich,CT,06830
-Spencer,Jaeger,Hickok,9,M,"Winters, Christopher",Pleasantville,NY,10570
-Blake,Victoria,Higdon,2,F,"Amado, Rebecca",Greenwich,CT,06830
-Henry,Grover,Higdon,PK,M,"Belden, Sheila",Greenwich,CT,06830
-Paige,Alexandra,Higdon,PK,F,"Whittlesey, Sara",Greenwich,CT,06830
-Elena,Marie,Higgins,8,F,"Karrat, Richard",Greenwich,CT,06830
-Elizabeth,Olin,Higgins,5,F,"Paine, Tucker",Greenwich,CT,6830
-James,Walter,Higgins,6,M,"Howe, Jeffrey",Greenwich,CT,6830
-Mia, ,Hilderbrand,2,F,"Nadler, Carolyn",Greenwich,CT,06830
-Bryce, ,Hill,6,M,"Thorner, Katie",Mamaroneck,NY,10543
-Lachlan, ,Hill,5,M,"Morelli, Adam",Mamaroneck,NY,10543
-Ellie,Regan,Hillenbrand,5,F,"Gilch, Jennifer",Greenwich,CT,06831
-Lily,Grace,Hillenbrand,3,F,"Laubscher, Luke",Greenwich,CT,06831
-Gillian,Gillian,Hines,7,F,"Waller, Robert",Cos Cob,CT,06807
-Justin,Parkinson,Hires,6,M,"Righter, Holly",Greenwich,CT,06830
-Michael, ,Hisler,9,M,"Katona, Peter",Cos Cob,CT,06807
-Campbell,Jane,Hochman,1,F,"Morton, Monica",Stamford,CT,06903
-Hannah, ,Hochman,7,F,"Jones, Taylor",Riverside,CT,06878
-Judah,Herman,Hochman,4,M,"Hall, Jane",Riverside,CT,06878
-Solomon,Ascher,Hochman,8,M,"Karrat, Richard",Riverside,CT,06878
-Owen, ,Hoffman,8,M,"Moore, Laura",Greenwich,CT,06830
-Fischer,Craig,Hogan,2,M,"Nadler, Carolyn",Cos Cob,CT,06807
-Madelyn,Ashley,Hogan,K,F,"Lee, Kelsey",Cos Cob,CT,06807
-Eaton,Henry,Holden,4,M,"Cauldwell, Sarah",Greenwich,CT,06831
-Weston,Charles,Holden,PK,M,"Belden, Sheila",Greenwich,CT,06831
-William,Bo,Hollander,10,M,"Foster, Idara",Cos Cob,CT,06807
-Kelly, ,Holmgren,9,F,"Roth, Lauren",Wilton,CT,06897
-Alexander,Nicholas,Hood,8,M,"Spooner, Marshall",Greenwich,CT,06831
-Chantal,Sophie,Hood,1,F,"Brown, Devon",Greenwich,CT,06831
-Ferdinand,Frederick,Hood,4,M,"Thompson, Kevin",Greenwich,CT,06831
-Matias,Santiago,Hood,7,M,"Harrington, Edward",Greenwich,CT,06831
-Alexandra,Elkington,Hopley,7,F,"Harrington, Edward",Greenwich,CT,06830
-Caroline,Bradford,Hopley,6,F,"Milostan, Mark",Greenwich,CT,06830
-Georgia,Schaller,Hopley,4,F,"Molyneux, Eleanor",Greenwich,CT,06830
-Jo,Lasse,Hopmann,8,M,"Spooner, Marshall",Riverside,CT,06878
-Liv,Marla,Hopmann,3,F,"Puntereri, Maria",Riverside,CT,06878
-Piet,Viggo,Hopmann,5,M,"Gilch, Jennifer",Riverside,CT,06878
-Madison,Elizabeth,Hostetler,PK,F,"Walker, Leslea",Greenwich,CT,06830
-Samuel,Douglas,Hostetler,K,M,"Lee, Kelsey",Greenwich,CT,06830
-Hengyu, ,Hu,11,F,"Kast, Julie",Greenwich,CT,06831
-Edith,Eyre,Huffard,7,F,"McGovern, Michael",Old Greenwich,CT,06870
-Lee,Choate,Huffard,8,M,"Moore, Laura",Old Greenwich,CT,06870
-Claire,Alexander,Hulce,K,F,"Lee, Kelsey",Greenwich,CT,06830
-Nargis, ,Hussaini,9,F,"Colon Bradt, Christina",Stamford,CT,06902
-Alley,Elizabeth,Hutchins,9,F,"McDonald, Stephanie",Greenwich,CT,06830
-Davis, ,Hutchins,2,M,"DiMinno, Katherine",Greenwich,CT,06830
-Ihsan, ,Iftikar,2,M,"Mena, Betsy",Greenwich,CT,06830
-Imran, ,Iftikar,7,M,"McGovern, Michael",Greenwich,CT,06830
-Irhan, ,Iftikar,6,M,"Dandola, Matthew",Greenwich,CT,06830
-Emily,Kathryn,Iorio,9,F,"Winters, Christopher",Greenwich,CT,06830
-Felipa, ,Iraola,K,F,"Foster, Claudia",Greenwich,CT,06830
-Abigail,Elissa,Israel,4,F,"Thompson, Kevin",Purchase,NY,10577
-Ariel,David,Israel,7,M,"Gussis, James",Purchase,NY,10577
-Emma,Nicole,Jackson,11,F,"Alper, Jordan",Darien,CT,06820
-Oliver,Adam,Jackson,5,M,"Lowe, Elizabeth",Greenwich,CT,06830
-Brody,Lacoff,Jampole,1,M,"Hanley, Caroline",Greenwich,CT,06831
-Shayna,Lacoff,Jampole,8,F,"Salazar, Jos‹¨«",Greenwich,CT,06831
-Charles,David,Jenkins,8,M,"Tennyson, Jesse",Greenwich,CT,06830
-Ella,Smiler,Jepsen,2,F,"Miller, Brian",Greenwich,CT,06830
-Skylar,Esther,Jepsen,4,F,"Cauldwell, Sarah",Greenwich,CT,06830
-Heath,Charleton,Jervis,7,M,"Doyle, Shannon",Cos Cob,CT,06807
-Philippa,Newbold,Jervis,4,F,"Hall, Jane",Cos Cob,CT,06807
-Piper, ,Jewett,K,F,"Weintraub, Jennifer",Norwalk,CT,06853
-Arman,Singh,Johar,3,M,"DeTeso, Tracy",Greenwich,CT,06830
-Maya Sevana, ,Johar,1,F,"Schofield, Jocelyn",Greenwich,CT,06830
-Cooper, ,Johnson,10,M,"Lehn, Austin",Greenwich,CT,06830
-Maison, ,Johnson,6,F,"Cornell, Eric",Greenwich,CT,06830
-Sawyer,Moran,Johnson,7,M,"Doyle, Shannon",Greenwich,CT,06830
-Theodore,Augustus,Johnson,6,M,"Howe, Jeffrey",Greenwich,CT,06830
-Creighton,William,Jones,4,M,"Lehn, Stephanie",Greenwich,CT,06830
-Rhys, ,Jones,9,M,"Reynolds, Jason",Bedford Corners,NY,10549
-Teague,Jameson,Jones,2,M,"Miller, Brian",Greenwich,CT,06830
-Camille, ,Jordan,10,F,"McDonald, Stephanie",Stamford,CT,06902
-Dylan,Mia,Joseph,8,F,"Bixler, Claire",Larchmont,NY,10538
-Danna, ,Justiniano,8,F,"Tennyson, Jesse",Stamford,CT,06902
-Foster,Dardis,Kaali-Nagy,3,M,"Laubscher, Luke",Greenwich,CT,06830
-Keira,Dardis,Kaali-Nagy,7,F,"Withrow, Morgan",Greenwich,CT,06830
-Olivia, ,Karanikolaidis,7,F,"Gussis, James",Riverside,CT,06878
-Jolie,Taylor,Karen,9,F,"Waller, Lauren",Bedford,NY,10506
-Matthew, ,Karish,2,M,"Miller, Brian",Riverside,CT,06878
-Mia,Elizabeth,Karish,3,F,"Sweeney, Ellen",Riverside,CT,06878
-Adeline,Linette,Karnal,N,F,"Baird, Christine",Greenwich,CT,06830
-Sophie, ,Katona,2,F,"Mena, Betsy",Norwalk,CT,06851
-Zoey, ,Katona,K,F,"Weintraub, Jennifer",Norwalk,CT,06851
-James,Joseph,Kearns,N,M,"Baird, Christine",Greenwich,CT,06831
-Lindsey,Hailie,Keating,8,F,"Carnegie, Britt",Greenwich,CT,06831
-Lola,Rose,Keech,4,F,"Lehn, Stephanie",Old Greenwich,CT,06870
-Maximilian,Xavier,Keech,2,M,"Miller, Brian",Old Greenwich,CT,06870
-Dylan,Robert,Kellan,7,M,"Rosenberg, Lauren",Greenwich,CT,06830
-Connor,Jackson,Kelly,8,M,"Tennyson, Jesse",Greenwich,CT,06830
-Kyle,Michael,Kelly,5,M,"Lowe, Elizabeth",Greenwich,CT,06830
-Charles,McAtee,Kenny,8,M,"Basinet, Matthew",Greenwich,CT,06830
-Asher,Fremont,Kepler,3,M,"Laubscher, Luke",Riverside,CT,06878
-Grace,Elizabeth,Kepler,5,F,"Johnson, Elizabeth",Riverside,CT,06878
-Miles,Henry,Kestnbaum,PK,M,"Belden, Sheila",Greenwich,CT,06830
-Alexander, ,Khanna,10,M,"De Vries, Jonathan",Cos Cob,CT,06807
-Daphne,Alexandra,Khayatt,7,F,"Koke, Kathleen",Greenwich,CT,06830
-Theodora,Samiha,Khayatt,4,F,"Garcia, Madeline",Greenwich,CT,06830
-Anika,Ronak,Khichadia,5,F,"Sinay, Aaron",Greenwich,CT,06830
-Anjali,Padmavati,Khichadia,2,F,"Amado, Rebecca",Greenwich,CT,06830
-Arian,Dhiraj,Khichadia,7,M,"Gagnon, Eleanor",Greenwich,CT,06830
-Ava,Lynne,Kilmurray,8,F,"McGlynn, Robert",Cos Cob,CT,06807
-Chloe,Suzanne,Kilts,4,F,"Garcia, Madeline",Greenwich,CT,06830
-Daphne,Charlotte,Kilts,PK,F,"Walker, Leslea",Greenwich,CT,06830
-James,Marshall,Kilts,6,M,"Morton, Adele",Greenwich,CT,06830
-Walter,Nathan,Kilts,1,M,"Schofield, Jocelyn",Greenwich,CT,06830
-Annabelle,Soohee,Kim,4,F,"Lehn, Stephanie",Old Greenwich,CT,06870
-Elsa, ,Kim,2,F,"DiMinno, Katherine",Old Greenwich,CT,06870
-Lucas,Joonhee,Kim,K,M,"Suter, Elizabeth",Old Greenwich,CT,06870
-Gudmundur,Thor,Kjaernested,8,M,"Preston, Peter",Greenwich,CT,06830
-Niels,Spencer,Kjaernested,6,M,"Cornell, Eric",Greenwich,CT,06830
-Catherine,Effie,Knapp,6,F,"Long, William",Darien,CT,06820
-Charles,Finnegan,Knapp,2,M,"Amado, Rebecca",Darien,CT,06820
-Sydney,Rees,Knechtel,1,F,"Arcati, Abigail",Greenwich,CT,06830
-Wynn,Thomas,Knechtel,1,M,"Brown, Devon",Greenwich,CT,06830
-John,Philip,Knowles,1,M,"Arcati, Abigail",Old Greenwich,CT,06870
-Gianna,Rose,Kocot,5,F,"Abraham, Jennifer",Shelton,CT,06484
-John,Peter,Kocot,7,M,"Wohl, Lindsey",Shelton,CT,06484
-Sean,George Shang Rae,Kondracki,12,M,"De Vries, Jonathan",Stamford,CT,06903
-Max,Aaron,Konigsberg,10,M,"McDonald, Stephanie",Greenwich,CT,06831
-Cayden,James,Kreiter,PK,M,"Belden, Sheila",Norwalk,CT,06854
-McKinley,Reed,Kreiter,N,F,"Sugrue, Martha",Norwalk,CT,06854
-Michael,Grayson,Kruse,5,M,"Sinay, Aaron",Greenwich,CT,06830
-Devin,Ayekha,Kwarula,10,M,"Wood, Jaclyn",Danbury,CT,06810
-Brooks, ,Lacoff,5,M,"Johnson, Elizabeth",Greenwich,CT,06830
-Skylar,Anne,Lacoff,K,F,"Lee, Kelsey",Greenwich,CT,06830
-Edward,Beckett,Laitala,5,M,"Paine, Tucker",Riverside,CT,06878
-Lochlan,Reed,Laitala,9,M,"Lehn, Austin",Riverside,CT,06878
-Mary Ellis,Love,Laitala,PK,F,"Belden, Sheila",Riverside,CT,06878
-Walker,Russell,Laitala,7,M,"Jones, Taylor",Riverside,CT,06878
-Lilly,Elizabeth,Lake,3,F,"Puntereri, Maria",Greenwich,CT,06830
-Thomas,James,Lametta,PK,M,"Whittlesey, Sara",Norwalk,CT,06855
-John, ,Landers,5,M,"Abraham, Jennifer",Greenwich,CT,06830
-Catlin, ,Lang,2,M,"Amado, Rebecca",Old Greenwich,CT,06870
-Robert, ,Lang,4,M,"Thompson, Kevin",Old Greenwich,CT,06870
-Edward,B,Lansing,8,M,"McGlynn, Robert",Greenwich,CT,06830
-Peter, ,Lansing,7,M,"Koke, Kathleen",Greenwich,CT,06830
-Ella,Stephanie Anastazia,Larken,7,F,"Abreu, Diana",Greenwich,CT,06831
-Jasper,James Stuart,Larken,3,M,"Sweeney, Ellen",Greenwich,CT,06831
-Piper,Stewart,Larkin,K,F,"Suter, Elizabeth",Bedford Corners,NY,10549
-Gemma, ,Larsen,9,F,"Allen, Tara",Riverside,CT,06878
-Eamon,Shane,Lavin,3,M,"Laubscher, Luke",Old Greenwich,CT,06870
-James,Patrick,Lavin,8,M,"Karrat, Richard",Old Greenwich,CT,06870
-Owen,Charles,Lavin,6,M,"Cornell, Eric",Old Greenwich,CT,06870
-Kathryn,Landry,Le,5,F,"Morelli, Adam",Greenwich,CT,06830
-Zoe,Landry,Le,5,F,"Paine, Tucker",Greenwich,CT,06830
-Colin,James,Lee,8,M,"Preston, Peter",Old Greenwich,CT,06870
-Walker,Brooks,Lee,PK,M,"Merritt, Merritt",Greenwich,CT,06830
-Trexin,Conboy,Lehn,PK,M,"Whittlesey, Sara",Greenwich,CT,06830
-Caroline,Kelly,Leicht,9,F,"Bachleitner, Sarina",Mamaroneck,NY,10543
-Maxwell,Robert,Leininger,10,M,"Waller, Lauren",Greenwich,CT,06831
-Kathleen, ,Lentini,8,F,"Preston, Peter",Greenwich,CT,06831
-Beatrice,Wren,Lescoe,N,F,"Sepot, Sarah",Greenwich,CT,06830
-Robert,Aaron,Levien,5,M,"Abraham, Jennifer",Greenwich,CT,06830
-Andrew,Wentworth,Lewis,8,M,"Karrat, Richard",Bedford,NY,10506
-Scarlett,Jiayi,Li,4,F,"Molyneux, Eleanor",Riverside,CT,06878
-Carter,James,Linardos,9,M,"Helstein, Timothy",Greenwich,CT,06830
-Jack,Henry,Linardos,11,M,"Fernandez, J. Andy",Greenwich,CT,06830
-William,Davis,Linardos,6,M,"Hasapis, Anthony",Greenwich,CT,06830
-James,Hunter,Lindstrom,1,M,"Arcati, Abigail",Greenwich,CT,06831
-Logan,Harold,Lindstrom,9,M,"Roth, Lauren",Cos Cob,CT,06807
-Lucas,James MacLeod,Lippey,7,M,"Withrow, Morgan",Greenwich,CT,06830
-Tal,Aryeh,Lipschitz,7,M,"Abreu, Diana",Old Greenwich,CT,06870
-Claire,Frances,Lisowski,1,F,"Brown, Devon",Greenwich,CT,06830
-Maren,Catherine,Lisowski,PK,F,"Merritt, Merritt",Greenwich,CT,06830
-Chloe,Jackson,Litt,9,F,"Katona, Peter",Stamford,CT,06903
-Evan,Richard,LiVigni,9,M,"Curry, Patrick",Stamford,CT,06903
-John,Anthony,Lonski,9,M,"De Teso, Jeffrey ",White Plains,NY,10605
-Julian,Matthew,Lopez,7,M,"Abreu, Diana",Norwalk,CT,06854
-Kelsi,Angelica,Lopez,K,F,"Bayless, Laurel",Norwalk,CT,06854
-Matthew, ,Love,1,M,"Hanley, Caroline",Greenwich,CT,06831
-Francesca,Alagna,Loverro,8,F,"Corson, Flynn",Greenwich,CT,06831
-Jane,Louisa,Loverro,5,F,"Lowe, Elizabeth",Riverside,CT,06878
-John, ,Loverro,3,M,"Sweeney, Ellen",Riverside,CT,06878
-Nina,Margery,Loverro,1,F,"Schofield, Jocelyn",Riverside,CT,06878
-Philippa,Edith,Loverro,4,F,"Cauldwell, Sarah",Greenwich,CT,06831
-Tessa, ,Loverro,10,F,"Winters, Christopher",Greenwich,CT,06831
-Jacqueline,Rae,Lubarsky,12,F,"Reynolds, Jason",Greenwich,CT,06831
-Bradley,Anderson,Ludvik,K,M,"Suter, Elizabeth",Greenwich,CT,06830
-Sarah, ,Lukes,6,F,"Long, William",Rye,NY,10580
-Katharine,Charleston,Lumby,N,F,"Sugrue, Martha",Stamford,CT,06903
-Bodie,Anthony,Lupo,K,M,"Weintraub, Jennifer",Greenwich,CT,06830
-Holden,Allan,Lupo,4,M,"Hall, Jane",Greenwich,CT,06830
-Wyatt,Augustus,Lupo,7,M,"Harrington, Edward",Greenwich,CT,06830
-Carter,Hudson,MacDougall,1,M,"Morton, Monica",Greenwich,CT,06830
-Dylan,Paige,MacDougall,4,F,"Garcia, Madeline",Greenwich,CT,06830
-Mackenzie,Kyle,MacDougall,PK,F,"Merritt, Merritt",Greenwich,CT,06830
-Abigail,Jane,Mackay,4,F,"Lehn, Stephanie",Greenwich,CT,06830
-Sarah,Jacqueline,Mackay,K,F,"Lee, Kelsey",Greenwich,CT,06830
-Christian,David,Madon,8,M,"Basinet, Matthew",Darien,CT,06820
-Anniston,Jane,Mahaffy,7,F,"Harrington, Edward",Greenwich,CT,06831
-Devon,Lee,Mahaffy,6,F,"Castrigano, Daniel",Greenwich,CT,06831
-Lila, ,Malone,6,F,"Righter, Holly",Stamford,CT,06905
-Jayne,Elizabeth,Mangan,9,F,"Reynolds, Jason",Greenwich,CT,06831
-Harry,Danger,Manion,9,M,"Feder, Stephen",Cos Cob,CT,06807
-Georgia,Caryn,Mann,10,F,"Helpern, Joseph",Greenwich,CT,06830
-Lola, ,Manuel,9,F,"Scanlon, Patrick",Greenwich,CT,06830
-Michael,Peter,Manuel,7,M,"Donnalley, Jennifer",Greenwich,CT,06830
-Thomas, ,Manuel,3,M,"Paiva, Glaura",Greenwich,CT,06830
-Rebeca, ,Manzo,9,F,"Grasso, Nick",Riverside,CT,06878
-Ella,Blakely,Marsh,K,F,"Foster, Claudia",Greenwich,CT,06830
-Finley,Carpenter,Marshall,8,F,"Bixler, Claire",Riverside,CT,06878
-Catherine,Caulfield,Martinez,6,F,"Paul, Adrienne",Riverside,CT,06878
-Luke,Gregory,Martinez,8,M,"Carnegie, Britt",Riverside,CT,06878
-Richard, ,Marzullo-Jaglal,4,M,"Molyneux, Eleanor",Cos Cob,CT,06807
-Madeline,Grace,Mascera,1,F,"Schofield, Jocelyn",Greenwich,CT,06830
-David,Jared,Matthews,11,M,"Kucher, David",Port Chester,NY,10573
-Alice,Kimball,Mattis,5,F,"Paine, Tucker",Greenwich,CT,06831
-Eve,Camilla,Mattis,2,F,"Mena, Betsy",Greenwich,CT,06831
-Maya,Felicity,Maymin,5,F,"Abraham, Jennifer",Greenwich,CT,06831
-Stella,Penelope,Maymin,8,F,"Spooner, Marshall",Greenwich,CT,06831
-Tobin,Benjamin Philip,Maymin,PK,M,"Belden, Sheila",Greenwich,CT,06831
-Julia, ,Maza Palma,2,F,"Amado, Rebecca",Greenwich,CT,06830
-Valeria, ,Maza Palma,5,F,"Lowe, Elizabeth",Greenwich,CT,06830
-Blanca,Evelyn,McBeth,1,F,"Morton, Monica",Greenwich,CT,06830
-Lucinda,VdS Bush,McCall,8,F,"Salazar, Jos‹¨«",Greenwich,CT,06830
-Piper,Paisley,McCall,3,F,"DeTeso, Tracy",Greenwich,CT,06831
-Saoirse, ,McCarroll,K,F,"Bayless, Laurel",Greenwich,CT,06831
-Myles, ,McClary,2,M,"Nadler, Carolyn",Norwalk,CT,06851
-Aleksei,Garner,McCormack,N,M,"Sepot, Sarah",Greenwich,CT,06830
-Robert,David,McCormack,K,M,"Lee, Kelsey",Greenwich,CT,06830
-Dylan,James,McCormick,12,M,"Katona, Peter",Norwalk,CT,06851
-Paige,Armour,McDonnell,9,F,"Mezzo, Michael",Rowayton,CT,06853
-John,Paul,McGovern,4,M,"Thompson, Kevin",Greenwich,CT,06830
-Anne,Li,McGraw,6,F,"Milostan, Mark",Greenwich,CT,06830
-Charles,Robert,McGraw,6,M,"Howe, Jeffrey",Greenwich,CT,06830
-Henry, ,McIntyre,N,M,"Sepot, Sarah",Darien,CT,06820
-Winifred,Fletcher,McIntyre,K,F,"Lee, Kelsey",Darien,CT,06820
-Ainsley,Claire,McKee,8,F,"Bixler, Claire",Darien,CT,06820
-Brynnley, ,McKee,5,F,"Morelli, Adam",Darien,CT,06820
-Isabella, ,Medina,8,F,"Kelly, Shaun",Old Greenwich,CT,06870
-Blake,Austin,Melnikoff,4,M,"Cauldwell, Sarah",Greenwich,CT,06830
-Reese,Elizabeth,Melnikoff,2,F,"Miller, Brian",Greenwich,CT,06830
-Wyatt,Brinley,Melnikoff,4,M,"Molyneux, Eleanor",Greenwich,CT,06830
-Luke,Douglas,Merrill,7,M,"Jones, Taylor",Old Greenwich,CT,06870
-Hunter,John,Merritt,8,M,"Moore, Laura",Greenwich,CT,06831
-Taylor,Blake,Messina,6,F,"Righter, Holly",Old Greenwich,CT,06870
-Annabelle,Reed,Meyers,N,F,"Sugrue, Martha",Greenwich,CT,06830
-Elizabeth,Rose,Meyers,1,F,"Hanley, Caroline",Greenwich,CT,06830
-Josephine,Wood,Meyers,3,F,"Sweeney, Ellen",Bedford,NY,10506
-Skyler,Robbins,Meyers,9,M,"Graham, Jane",Bedford,NY,10506
-Theodore, ,Meyers,6,M,"Morton, Adele",Bedford,NY,10506
-Antonio, ,Miguens,9,M,"Lehn, Austin",Greenwich,CT,06830
-Felipe,S.,Miguens,6,M,"Hasapis, Anthony",Greenwich,CT,06830
-Alexander, ,Mihailovich,7,M,"Aronowsky, Ellen",Stamford,CT,06902
-Jillian, ,Mihailovich,7,F,"Gussis, James",Stamford,CT,06902
-Luke, ,Miles,7,M,"Abreu, Diana",Greenwich,CT,06831
-Abraham,Samuel,Milgram,7,M,"Aronowsky, Ellen",Greenwich,CT,06830
-Hannah,Frances,Milgram,PK,F,"Whittlesey, Sara",Greenwich,CT,06830
-Madeline,Hazel,Milgram,4,F,"Garcia, Madeline",Greenwich,CT,06830
-Jack,William,Miller,7,M,"Withrow, Morgan",Greenwich,CT ,06830
-Keira,Meadow,Miller,K,F,"Foster, Claudia",Stamford,CT,06905
-Sofie,Anne,Miller,2,F,"DiMinno, Katherine",Stamford,CT,06905
-George,Gardner,Minchin,7,M,"Gussis, James",Greenwich,CT,06830
-Theodore,Lynch,Minchin,9,M,"Waller, Lauren",Greenwich,CT,06830
-Gayle, ,Miranda,10,F,"Hubertus, Shannon",South Salem,NY,10590
-Alexandra,Evangeline,Mollett,4,F,"Molyneux, Eleanor",Greenwich,CT,06830
-Beckett,Bishopp,Mollett,2,M,"Nadler, Carolyn",Greenwich,CT,06830
-Matthew,Richard,Mollett,PK,M,"Merritt, Merritt",Greenwich,CT,06830
-Maeve,Jennifer,Molloy,5,F,"Sinay, Aaron",Riverside,CT,06878
-Vivienne,Noelle,Molloy,3,F,"Paiva, Glaura",Riverside,CT,06878
-Charlie, ,Moloney,6,M,"Childs, Hilary",Rye,NY,10580
-Grace, ,Moloney,6,F,"Gadsden, Samantha",Rye,NY,10580
-Harry, ,Moloney,8,M,"Carnegie, Britt",Rye,NY,10580
-Maddox, ,Monterisi,4,M,"Cauldwell, Sarah",Cos Cob,CT,06807
-Brooks,James,Montgomery,PK,M,"Merritt, Merritt",Old Greenwich,CT,06870
-Rylie,Rose,Montgomery,1,F,"Schofield, Jocelyn",Old Greenwich,CT,06870
-Natalie,Elizabeth,Moore,8,F,"Karrat, Richard",Greenwich,CT,06830
-Silas, ,Moore,2,M,"Miller, Brian",Greenwich,CT,06830
-Spencer,Lane,Moore,9,M,"De Teso, Jeffrey ",Greenwich,CT,06830
-William, ,Moore,2,M,"Nadler, Carolyn",Greenwich,CT,06830
-Charlotte,Wakefield,Morningstar,6,F,"Dandola, Matthew",Greenwich,CT,06830
-Jack,Armstrong,Morningstar,8,M,"Spooner, Marshall",Greenwich,CT,06830
-Chloe,Reese,Morris,4,F,"Hall, Jane",Cos Cob,CT,06807
-Hadley,Olivia,Morris,3,F,"Paiva, Glaura",Cos Cob,CT,06807
-Layla,Jo,Morris,6,F,"Howe, Jeffrey",Cos Cob,CT,06807
-Charles, ,Morrissy,PK,M,"Merritt, Merritt",Riverside,CT,06878
-Mary Kate, ,Morrissy,3,F,"Sweeney, Ellen",Riverside,CT,06878
-William, ,Morrissy,PK,M,"Walker, Leslea",Riverside,CT,06878
-Max, ,Morton,PK,M,"Belden, Sheila",White Plains,NY,10605
-Cocoro,Emily,Motoyoshi,10,F,"Kucher, David",Stamford,CT,06903
-Mao,Sophia,Motoyoshi,9,F,"Grasso, Nick",Stamford,CT,06903
-Matthew,Alejandro,Mottola,3,M,"Sweeney, Ellen",Pound Ridge,NY,10576
-Sabrina,Saka‹¨«,Mottola,6,F,"Childs, Hilary",Pound Ridge,NY,10576
-Charlotte,Wagner,Mueller,PK,F,"Merritt, Merritt",Greenwich,CT,06831
-Wolfgang,Baldwin,Mueller,1,M,"Brown, Devon",Greenwich,CT,06831
-Sarafia,Maria,Mughwai,11,F,"Bachleitner, Sarina",Stamford,CT,06905
-Elijah,Altier,Murphy,8,M,"McGlynn, Robert",Old Greenwich,CT,06870
-Logan, ,Murphy,10,F,"Helpern, Joseph",Norwalk,CT,06851
-Lucy,Sullivan,Murphy,2,F,"DiMinno, Katherine",Old Greenwich,CT,06870
-Tessa,Ruth,Murphy,6,F,"Thorner, Katie",Old Greenwich,CT,06870
-Lucas,Glen,Murray,9,M,"Grasso, Nick",Greenwich,CT,06830
-Adam, ,Nedzamar,9,M,"Campbell, Gordon",Mt. Vernon,NY,10552
-Luke,James,Nelson,9,M,"Bachleitner, Sarina",Old Greenwich,CT,06870
-Harper, ,Neri,PK,F,"Whittlesey, Sara",Greenwich,CT,06831
-Cullen, ,New,4,M,"Lehn, Stephanie",Bedford,NY,10506
-Denisa, ,Neza,9,F,"Allen, Tara",Port Chester,NY,10573
-McCrory,Wells,Niblock,6,M,"Castrigano, Daniel",Cos Cob,CT,06807
-Townsend,Ross,Niblock,3,M,"Laubscher, Luke",Cos Cob,CT,06807
-Annie,Elizabeth,Noble,5,F,"Paine, Tucker",Old Greenwich,CT,06870
-Anisa,Roxelana,Nusseibeh,3,F,"DeTeso, Tracy",Greenwich,CT,06831
-Sarimir,Vladimir,Nusseibeh,5,M,"Morelli, Adam",Greenwich,CT,06831
-Cassidy,Rose,O'Donnell,2,F,"Nadler, Carolyn",Stamford,CT,06902
-Grace,Johanna,O'Donnell,K,F,"Lee, Kelsey",Stamford,CT,06902
-Maeve,Elizabeth,O'Shaughnessy,N,F,"Sugrue, Martha",Cos Cob,CT,06807
-Pierce,Michael,O'Shaughnessy,K,M,"Weintraub, Jennifer",Cos Cob,CT,06807
-Naomi, ,Oberweger,9,F,"Foster, Idara",Riverside,CT,06878
-Langston,Kobbie,Obuobi-Donkor,5,M,"Abraham, Jennifer",Bronx,NY,10475
-Alessandro, ,Odierno,3,M,"Sweeney, Ellen",Greenwich,CT,06830
-Gianluca, ,Odierno,3,M,"DeTeso, Tracy",Greenwich,CT,06830
-Benjamin,Wolf,Offit,10,M,"Ramirez, Alnardo",Greenwich,CT,06830
-Evelyn,Susan,Offit,9,F,"Feder, Stephen",Greenwich,CT,06830
-Connor,James,Ohl,6,M,"Gadsden, Samantha",Greenwich,CT,06830
-Ryan, ,Ohl,8,M,"Salazar, Jos‹¨«",Greenwich,CT,06830
-Anna,Winston,Oliver,8,F,"Tennyson, Jesse",Cos Cob,CT,06807
-Thomas, ,Oliver,4,M,"Hall, Jane",Cos Cob,CT,06807
-James, ,Omstrom,N,M,"Baird, Christine",Old Greenwich,CT,06870
-Christine,Michelle,Ordway,4,F,"Hall, Jane",Riverside,CT,06878
-Theodore,Andrew,Orekar,1,M,"Arcati, Abigail",Greenwich,CT,06830
-Janet, ,Orozco,10,F,"De Teso, Jeffrey ",New Rochelle,NY,10801
-Louisa,Gregg,Orum,3,F,"Sweeney, Ellen",Greenwich,CT,06830
-Tuckerman,Walter,Orum,1,M,"Arcati, Abigail",Greenwich,CT,06830
-William,Cooper,Orum,PK,M,"Whittlesey, Sara",Greenwich,CT,06830
-Genevieve,James,Oveissi,N,F,"Baird, Christine",Cos Cob,CT,06807
-Olympia,Joon,Oveissi,1,F,"Morton, Monica",Cos Cob,CT,06807
-Jonathon,Suarez,Packard,5,M,"Lowe, Elizabeth",Greenwich,CT,06830
-Samantha,Sierra,Packard,3,F,"Puntereri, Maria",Greenwich,CT,06830
-Kalyna,Elizabeth,Paine,N,F,"Baird, Christine",Greenwich,CT,06830
-Bradley,Edward,Palmer,7,M,"Jones, Taylor",Greenwich,CT,06830
-Taitum,Anthony Jack,Palmer,1,M,"Schofield, Jocelyn",Greenwich,CT,06830
-Lucas, ,Pan,K,M,"Bayless, Laurel",Greenwich,CT,06831
-Luciana, ,Paradiso,7,F,"Gussis, James",Greenwich,CT,06830
-Brooks,Jon,Pardi,1,M,"Schofield, Jocelyn",Riverside,CT,06878
-Hayden,Noelle,Pardi,2,F,"Miller, Brian",Riverside,CT,06878
-Cael,Thomas Hargrove,Parker,5,M,"Johnson, Elizabeth",Greenwich,CT,06831
-Maxwell,Braxton,Parker,3,M,"DeTeso, Tracy",Greenwich,CT,06831
-Mitchell, ,Parron,9,M,"Ruoss, Andrew",Greenwich,CT,06830
-Henry,William,Pascarella,6,M,"Milostan, Mark",Greenwich,CT,06830
-Charlotte,Bette,Pastel,7,F,"Gagnon, Eleanor",Greenwich,CT,06830
-Jackson,Howard,Pastel,5,M,"Abraham, Jennifer",Greenwich,CT,06830
-Blake,Samuel,Patchen,K,M,"Weintraub, Jennifer",Greenwich,CT,06831
-Lilly,Kate,Patchen,4,F,"Thompson, Kevin",Greenwich,CT,06831
-Sophie,Claire,Patchen,6,F,"Righter, Holly",Greenwich,CT,06831
-Penelope,Claire,Patel,PK,F,"Whittlesey, Sara",Riverside,CT,06878
-Cateleya,Joy,Paul,PK,F,"Whittlesey, Sara",Cos Cob,CT,06807
-Steve,Emmanuel,Paul,8,M,"Spooner, Marshall",Stamford,CT,06902
-Annaleis, ,Pauletti,2,F,"Amado, Rebecca",Greenwich,CT,06830
-Willa,Mae,Pauletti,PK,F,"Walker, Leslea",Greenwich,CT,06830
-Peter,Sanford,Pauley,10,M,"Curry, Patrick",Bedford,NY,10506
-Allegra, ,Peardon,10,F,"De Vries, Jonathan",Greenwich,CT,06830
-Octavia, ,Peardon,8,F,"Spencer, Eliot",Greenwich,CT,06830
-Ewan,Coleman,Peck,2,M,"DiMinno, Katherine",Greenwich,CT,06830
-Azsadee,T.,Peek,9,F,"Grasso, Nick",Stamford,CT,06903
-Arya, ,Pelletier,5,F,"Sinay, Aaron",Cos Cob,CT,06807
-Kalyan,Bhargava,Pelletier,3,M,"Puntereri, Maria",Cos Cob,CT,06807
-Alexandra,Shea,Pennella,9,F,"Scanlon, Patrick",Stamford,CT,06902
-Jaxson,Cole,Perez,5,M,"Lowe, Elizabeth",Greenwich,CT,06831
-Raymond,Kal-El,Perez,7,M,"Aronowsky, Ellen",Greenwich,CT,06831
-Alexandra, ,Perl,10,F,"Helpern, Joseph",Scarsdale,NY,10583
-Jack,Robert,Peters,6,M,"Milostan, Mark",Greenwich,CT,06831
-Josephine,Joann,Peters,1,F,"Schofield, Jocelyn",Greenwich,CT,06831
-Haley,Paige,Petrini,3,F,"Paiva, Glaura",Greenwich,CT,06831
-Reagan,Sincaid,Pflueger,7,F,"Donnalley, Jennifer",Stamford,CT,0'06906-2125
-Sydney,Grace,Phillips,2,F,"Nadler, Carolyn",Greenwich,CT,06830
-Jeffrey, ,Piper,6,M,"Thorner, Katie",Greenwich,CT,06830
-John,Robert,Piper,5,M,"Johnson, Elizabeth",Greenwich,CT,06830
-William,Scott,Piper,11,M,"Columbo, Richard",Cos Cob,CT,06807
-Georgiana,Olivia,Platsis,3,F,"Sweeney, Ellen",Greenwich,CT,06830
-Emma,Read,Pless,5,F,"Gilch, Jennifer",Greenwich,CT,06830
-John,Tilghman,Pless,PK,M,"Walker, Leslea",Greenwich,CT,06830
-Sophie,Livingston,Pless,3,F,"Paiva, Glaura",Greenwich,CT,06830
-Eliot,Joshua,Ploog,10,M,"Alper, Jordan",Greenwich,CT,06830
-Colin,Thrift,Politi,3,M,"Paiva, Glaura",Stamford,CT,06902
-Kevin,Thrift,Politi,5,M,"Johnson, Elizabeth",Stamford,CT,06902
-Addison,Mary,Polo,5,F,"Lowe, Elizabeth",Greenwich,CT,06830
-Carson,Montgomery,Powell,7,M,"Koke, Kathleen",Stamford,CT,06905
-Mitchel,Bradford,Powell,6,M,"Righter, Holly",Greenwich,CT,06830
-Richard,Michael,Powell,9,M,"Roth, Lauren",Greenwich,CT,06830
-Zachary,Wheeler,Powell,9,M,"Scanlon, Patrick",Stamford,CT,06905
-Cielle,Cerena,Presutti,7,F,"Gagnon, Eleanor",Greenwich,CT,06831
-Elle, ,Presutti,2,F,"Mena, Betsy",Greenwich,CT,06830
-Luc,Louis,Presutti,5,M,"Sinay, Aaron",Greenwich,CT,06831
-Michael, ,Presutti,1,M,"Schofield, Jocelyn",Greenwich,CT,06830
-Luca, ,Procaccini,3,M,"Puntereri, Maria",Greenwich,CT,06831
-Matteus, ,Procaccini,N,M,"Sepot, Sarah",Greenwich,CT,06831
-Satie,Elo‹¨«se,Procaccini,1,F,"Brown, Devon",Greenwich,CT,06831
-Crawford,McMahan,Puntereri,K,M,"Foster, Claudia",Greenwich,CT,06830
-Marion,Rose,Puntereri,3,F,"Sweeney, Ellen",Greenwich,CT,06830
-Adelynn,Rose,Radcliffe,N,F,"Sepot, Sarah",Bedford,NY,10506
-Alexander,Mackintosh,Raezer,9,M,"Mezzo, Michael",Greenwich,CT,06830
-Amanda,Hedley,Raezer,2,F,"Nadler, Carolyn",Greenwich,CT,06830
-Rami, ,Rahman,5,M,"Morelli, Adam",Greenwich,CT,06831
-Nikhil,Hans,Raval,5,M,"Gilch, Jennifer",Riverside,CT,06878
-John,Wyatt,Recchia,9,M,"Allen, Tara",Cos Cob,CT,06807
-Olivia,Sloan,Recchia,5,F,"Morelli, Adam",Cos Cob,CT,06807
-Ashton,Blake,Reddy,4,M,"Cauldwell, Sarah",Greenwich,CT,06831
-Scarlett,Jacquelyn,Reddy,3,F,"Paiva, Glaura",Greenwich,CT,06831
-Jack, ,Reisner,10,M,"McDonald, Stephanie",Rye,NY,10580
-Maddox,Harry,Reisner,8,M,"Salazar, Jos‹¨«",Rye,NY,10580
-Rylee, ,Rene,K,F,"Bayless, Laurel",Greenwich,CT,06836
-Edith,Phillips,Renwick,K,F,"Suter, Elizabeth",Greenwich,CT,06830
-Louise,James,Renwick,6,F,"Childs, Hilary",Greenwich,CT,06830
-Lyneth, ,Restrepo,9,F,"Foster, Idara",Stamford,CT,06906
-Loulie,Alicia,Reyes,7,F,"Doyle, Shannon",Greenwich,CT,06831
-Mia,Grace,Reyes,6,F,"Morton, Adele",Greenwich,CT,06831
-Carolina,Elizabeth,Reyna,4,F,"Hall, Jane",Bedford Corners,NY,10549
-Joah-Mikel, ,Reyna,7,M,"Wohl, Lindsey",Bedford Corners,NY,10549
-Caleigh,MacGregor,Reynolds,3,F,"Puntereri, Maria",Greenwich,CT,06830
-Maeve,Kathlyn,Reynolds,4,F,"Cauldwell, Sarah",Greenwich,CT,06830
-Noah,Felton,Rhodes ,K,M,"Foster, Claudia",Greenwich,CT,06830
-Scotland,Jane,Rhodes,1,F,"Brown, Devon",Greenwich,CT,06830
-Hollis, ,Richard,7,F,"Aronowsky, Ellen",Greenwich,CT,06830
-Kayla,Chelsea,Richards,10,F,"De Vries, Jonathan",Stamford,CT,06903
-Maxwell,Chase,Richards,8,M,"Bixler, Claire",Stamford,CT,06903
-Ellie,Ann,Riess,6,F,"Paul, Adrienne",Greenwich,CT,06830
-Austin,Thakar,Rinello,7,M,"Waller, Robert",Greenwich,CT,06830
-Jesse, ,Ripka,8,M,"Salazar, Jos‹¨«",Armonk,NY,10504
-Felicity,Madeleine,Ristau,5,F,"Morelli, Adam",Greenwich,CT,06831
-Landon,Stanley,Ristau,7,M,"Donnalley, Jennifer",Greenwich,CT,06831
-Carylin,Anne,Rivera,12,F,"Feder, Stephen",Stamford,CT,06905
-Adelaide,Rose,Rizzo,1,F,"Morton, Monica",Darien,CT,06820
-Eloise,Georgia,Rizzo,3,F,"Laubscher, Luke",Darien,CT,06820
-Georgia,Hutson,Rizzo,K,F,"Foster, Claudia",Darien,CT,06820
-Clifford,Daniel,Roach,1,M,"Brown, Devon",Greenwich,CT,06830
-Evelyn,Louise,Roach,5,F,"Morelli, Adam",Greenwich,CT,06830
-Francis, ,Roach,K,M,"Suter, Elizabeth",Greenwich,CT,06830
-John,Louis,Roach,10,M,"Scanlon, Patrick",Greenwich,CT,06830
-Mae,Battista,Roach,3,F,"DeTeso, Tracy",Greenwich,CT,06830
-Thomas,Shea,Roach,6,M,"Cornell, Eric",Greenwich,CT,06830
-Warren,Denning,Roach,8,M,"Corson, Flynn",Greenwich,CT,06830
-Charles,A,Robertson,5,M,"Sinay, Aaron",Riverside,CT,0'06878-2303
-Kingsley,Jane,Robertson,K,F,"Lee, Kelsey",Old Greenwich,CT,06870
-Rivers,William Alexander,Robertson,N,M,"Sepot, Sarah",Old Greenwich,CT,06870
-Ryan,M,Robertson,3,M,"DeTeso, Tracy",Riverside,CT,0'06878-2303
-Henry, ,Robinson,7,M,"Abreu, Diana",Greenwich,CT,06830
-Rowland,Halsey,Robinson,10,M,"Iversen, Annette",Greenwich,CT,06831
-Martin, ,Robredo,5,M,"Gilch, Jennifer",Greenwich,CT,06830
-Juelle, ,Roc,7,F,"Doyle, Shannon",Stamford,CT,06905
-Alexander,Howard,Rogozinski,9,M,"Kast, Julie",Riverside,CT,06878
-Cal, ,Rohdie,10,M,"Colon Bradt, Christina",Greenwich,CT,06830
-Zachary,Michael,Rohdie,7,M,"McGovern, Michael",Greenwich,CT,06830
-Justin, ,Roldan,10,M,"Dutcher, Andrew",Stamford,CT,06902
-Nichole, ,Roldan,12,F,"McDonald, Stephanie",Stamford,CT,06902
-Alexander,William Arredondo,Rolfe,8,M,"McGlynn, Robert",Greenwich,CT,06830
-Alexander,Tanner,Rose,2,M,"Amado, Rebecca",Greenwich,CT,06831
-Eleanor,Beaumont,Rose,5,F,"Paine, Tucker",Greenwich,CT,06831
-Tucker,Lawrence,Rose,8,M,"Carnegie, Britt",Greenwich,CT,06831
-Winston,Cooper,Rose,6,M,"Dandola, Matthew",Greenwich,CT,06831
-Asher,Liam,Rosen,6,M,"Thorner, Katie",Old Greenwich,CT,06870
-Ayla,Pearl,Rosen,1,F,"Hanley, Caroline",Old Greenwich,CT,06870
-Eitan,Simon,Rosen,7,M,"Rosenberg, Lauren",Old Greenwich,CT,06870
-Eli,Russell,Rosen,7,M,"McGovern, Michael",Old Greenwich,CT,06870
-Harley,Sophia,Rosenbaum,2,F,"Mena, Betsy",Purchase,NY,10577
-Katherine, ,Rosenbaum,2,F,"Amado, Rebecca",Purchase,NY,10577
-Zachary, ,Rosenbaum,6,M,"Childs, Hilary",Greenwich,CT,06830
-Graydon,reed,Ross,6,M,"Thorner, Katie",Darien,CT,06820
-Mackenzie,Nicole,Ross,10,F,"Kast, Julie",Stamford,CT,06902
-Jaden, ,Royal,3,M,"Sweeney, Ellen",Stamford,CT,06906
-Justin, ,Royal,3,M,"Laubscher, Luke",Stamford,CT,06906
-Anna,Linda,Rubenstein,3,F,"Laubscher, Luke",Riverside,CT,06878
-Jack,Thomas,Rubenstein,5,M,"Lowe, Elizabeth",Riverside,CT,06878
-Jake,James,Rupe,9,M,"Grasso, Nick",Scarsdale,NY,10583
-Jacqueline,Grace,Ryckman,8,F,"Kelly, Shaun",Riverside,CT,06878
-Lucia,Ingrid,Saavedra,9,F,"Latimore, Anais",Port Chester,NY,10573
-Mauricio,James,Saavedra,12,M,"Iversen, Annette",Port Chester,NY,10573
-Bora,Ozdemir,Sabanci,10,M,"Reynolds, Jason",Greenwich,CT,06830
-Oya,Tuluhan,Sabanci,9,F, ,Greenwich,CT,06830
-Benjamin,Peter,Sachs,1,M,"Hanley, Caroline",Greenwich,CT,06830
-Connor,Brandt,Sachs,1,M,"Schofield, Jocelyn",Greenwich,CT,06830
-William,Michael,Sachs,3,M,"Sweeney, Ellen",Greenwich,CT,06830
-Mat‹¨«as,Allen,Salazar,3,M,"Paiva, Glaura",Greenwich,CT,06830
-Sof‹¨«a,Alanna,Salazar,6,F,"Long, William",Greenwich,CT,06830
-Andrew,Ludwig,Salce,5,M,"Paine, Tucker",Greenwich,CT,06830
-Katherine,Anne,Salce,7,F,"Koke, Kathleen",Greenwich,CT,06830
-Taylor,Ann,Sall,7,F,"Rosenberg, Lauren",Riverside,CT,06878
-Kate, ,Salomon,10,F,"Campbell, Gordon",Greenwich,CT,06830
-Catherine,Capehart,Salyer,4,F,"Garcia, Madeline",Greenwich,CT,06831
-Joseph,Averett,Salyer,K,M,"Lee, Kelsey",Greenwich,CT,06831
-Habiba,Merdia,Samson,1,F,"Hanley, Caroline",Yonkers,NY,10710
-Linna,Rahmet,Samson,4,F,"Molyneux, Eleanor",Yonkers,NY,10710
-Rihanna,Habiba,Samson,7,F,"Withrow, Morgan",Yonkers,NY,10710
-Liana,Kaur,Sandhu,K,F,"Weintraub, Jennifer",Greenwich,CT,06830
-Mateo,Singh,Sandhu,6,M,"Hasapis, Anthony",Greenwich,CT,06830
-Talia,Kaur,Sandhu,4,F,"Hall, Jane",Greenwich,CT,06830
-Samuel,William,Santangelo,9,M,"Bachleitner, Sarina",Greenwich,CT,06831
-Hayden,Daniel,Santry,6,M,"Righter, Holly",Greenwich,CT,6831
-Dempsey,Joan,Scanlon,N,F,"Sugrue, Martha",Stamford,CT,06902
-Robert,Louis,Scaramella,K,M,"Foster, Claudia",Greenwich,CT,06831
-Wesley,Adams,Scaramella,N,M,"Sepot, Sarah",Greenwich,CT,06831
-Julia,Danielle Fiorito,Schenck,9,F,"Reynolds, Jason",Greenwich,CT,06830
-William,Childs,Schenck,11,M,"Colon Bradt, Christina",Greenwich,CT,06830
-Henry,Jonas,Schmedlen,5,M,"Morelli, Adam",Cos Cob,CT,06807
-Alexander,Jones,Schofield,K,M,"Weintraub, Jennifer",Greenwich,CT,06830
-Benjamin,Walter,Schuessler,6,M,"Howe, Jeffrey",Cos Cob,CT,06807
-Aerin,Rose,Schwartz,5,F,"Sinay, Aaron",Greenwich,CT,06831
-Alexandra,Greer,Schwartz,8,F,"Spencer, Eliot",Greenwich,CT,06831
-Avery,Neve,Schwartz,2,F,"Miller, Brian",Greenwich,CT,06831
-Dylan,Asher,Schwartz,9,M,"Allen, Tara",Bedford Corners,NY,10549
-James, ,Schwartz,6,M,"Childs, Hilary",Old Greenwich,CT,06870
-Henry,Nathaniel,Schwefel,3,M,"Puntereri, Maria",Greenwich,CT,06830
-Jake,Thaddeus,Schwefel,2,M,"Amado, Rebecca",Greenwich,CT,06830
-Madelyn,Harper,Schwefel,K,F,"Foster, Claudia",Greenwich,CT,06830
-William,Cinader,Scott,9,M,"Fernandez, J. Andy",Greenwich,CT,06830
-Sophia,Floresta,Seabra,7,F,"Doyle, Shannon",Greenwich,CT,06830
-Jessie, ,Seaman,6,F,"Long, William",Greenwich,CT,06830
-Mia, ,Secko-Thompson,6,F,"Cornell, Eric",Norwalk,CT,06851
-Jack,Coyne,Seibert,PK,M,"Whittlesey, Sara",Greenwich,CT,06830
-Vivienne, ,Seibert,2,F,"Amado, Rebecca",Greenwich,CT,06830
-Henry,Boxer,Seidel,4,M,"Lehn, Stephanie",Greenwich,CT,06830
-Rebecca,Adelaide Caralon,Seidel,4,F,"Thompson, Kevin",Greenwich,CT,06830
-Skylar,Faith,Seides,8,F,"Spencer, Eliot",Old Greenwich,CT,06870
-Jack,Thomas,Sepot,6,M,"Gadsden, Samantha",Greenwich,CT,06831
-Harrison, ,Servedio,7,M,"Harrington, Edward",Greenwich,CT,06830
-Oliver,John,Servedio,5,M,"Gilch, Jennifer",Greenwich,CT,06830
-Jordyn, ,Sesler,9,F,"Roth, Lauren",Norwalk,CT,06854
-Brooke,Frances,Setterberg,4,F,"Garcia, Madeline",Greenwich,CT,06830
-Paige,Olivia,Setterberg,8,F,"Corson, Flynn",Greenwich,CT,06830
-Vaughn,Phoenix,Shannonhouse,10,M,"Kucher, David",Stamford,CT,06902
-Ellis, ,Shapiro,K,F,"Bayless, Laurel",Old Greenwich,CT,06870
-Megan,Elizabeth,Shapiro,8,F,"Basinet, Matthew",Old Greenwich,CT,06870
-Sky,Xin,Shapiro,N,F,"Sugrue, Martha",Old Greenwich,CT,06870
-Kira, ,Sharma,K,F,"Weintraub, Jennifer",Greenwich,CT,06831
-Riya,Kaur,Sharma,4,F,"Lehn, Stephanie",Stamford,CT,06902
-Serena,Rose,Shaw,PK,F,"Walker, Leslea",Greenwich,CT,06830
-Hugh, ,Sherriff,10,M,"Hubertus, Shannon",Greenwich,CT,06830
-James,Robert,Sherriff,6,M,"Howe, Jeffrey",Greenwich,CT,06830
-Savanna,Jaydon,Shettler,9,F,"Campbell, Gordon",Danbury,CT,6811
-Bingxuan, ,Shi,10,M,"Carr, Douglas",Rye Brook,NY,10573
-Isabella,Rose,Shore,4,F,"Cauldwell, Sarah",Stamford,CT,06903
-Mackenzie,Brooke,Shore,K,F,"Lee, Kelsey",Stamford,CT,06903
-Alexandra, ,Short,12,F,"Hubertus, Shannon",Larchmont,NY,10538
-William, ,Short,9,M,"Hubertus, Shannon",Larchmont,NY,10538
-Benjamin,Michael,Shribman,K,M,"Foster, Claudia",Greenwich,CT,06831
-Elizabeth,Longan,Shribman,N,F,"Baird, Christine",Greenwich,CT,06831
-Harrison,Cohen,Shribman,1,M,"Brown, Devon",Greenwich,CT,06831
-Clara,Savery,Sibley,6,F,"Castrigano, Daniel",Riverside,CT,06878
-Frances,Thayer,Sibley,8,F,"Spencer, Eliot",Riverside,CT,06878
-John,Holden,Sibley,2,M,"Amado, Rebecca",Riverside,CT,06878
-Mateo, ,Sierra,6,M,"Milostan, Mark",Norwalk,CT,06854
-Mila,Zowie,Sievwright,N,F,"Baird, Christine",Greenwich,CT,06831
-Bennett,Myers,Silva,K,M,"Foster, Claudia",Old Greenwich,CT,06870
-Harrison,Abbott,Silva,2,M,"Amado, Rebecca",Old Greenwich,CT,06870
-Celine,L,Silvera,8,F,"Spooner, Marshall",Stamford,CT,06906
-Alexander,James,Simko,6,M,"Milostan, Mark",Riverside,CT,06878
-Matthew, ,Simpson IV,9,M,"Reynolds, Jason",Bedford Corners,NY,10549
-Natalie,Elizabeth,Simpson,7,F,"Harrington, Edward",Bedford Corners,NY,10549
-Ethan,Pierce,Singsen,9,M,"Dutcher, Andrew",Greenwich,CT,06831
-William, ,Slater,9,M,"Mezzo, Michael",Greenwich,CT,06830
-Avery,Chase,Sleeper,8,F,"Bixler, Claire",Greenwich,CT,06831
-Jack,L,Slovin,4,M,"Hall, Jane",Greenwich,CT,06831
-Emily,Susan,Smith,1,F,"Morton, Monica",Riverside,CT,06878
-Holden,Guy,Smith,PK,M,"Walker, Leslea",Cos Cob,CT,06807
-Nathaniel,Peter,Smith,5,M,"Gilch, Jennifer",Riverside,CT,06878
-Chloe,Marie,Sneddon,6,F,"Paul, Adrienne",Greenwich,CT,06830
-Ryan,Francis,Sneddon,7,M,"Koke, Kathleen",Greenwich,CT,06830
-Annetta,Berit,Solari,6,F,"Paul, Adrienne",Greenwich,CT,06830
-George,Hansten,Solari,9,M,"Winters, Christopher",Greenwich,CT,06830
-Jacob,Haakon,Solomon,4,M,"Thompson, Kevin",Greenwich,CT,06831
-Mattea,Josefine,Solomon,5,F,"Gilch, Jennifer",Greenwich,CT,06831
-Atticus, ,Somma,2,M,"Miller, Brian",Greenwich,CT,06831
-Maia, ,Somma,8,F,"Spencer, Eliot",Greenwich,CT,06831
-Bella,Floren,Sozzi,2,F,"Miller, Brian",Greenwich,CT,06830
-Felicita, ,Sozzi,K,F,"Bayless, Laurel",Greenwich,CT,06831
-Giacomo, ,Sozzi,PK,M,"Whittlesey, Sara",Greenwich,CT,06831
-Lina,Elena,Sozzi,PK,F,"Walker, Leslea",Greenwich,CT,06830
-Raymond,Douglas,Sozzi,K,M,"Bayless, Laurel",Greenwich,CT,06830
-Alexandra,Tabb,Spizzirri,9,F,"Alper, Jordan",Greenwich,CT,06831
-Jacob,Ray,Spooner,2,M,"DiMinno, Katherine",Greenwich,CT,06831
-Paige,Elizabeth,Spooner,K,F,"Lee, Kelsey",Greenwich,CT,06831
-Daniel, ,St-Louis,8,M,"Corson, Flynn",Stamford,CT,06902
-McKarly,Leila-Rae,Staco,1,F,"Arcati, Abigail",Greenwich,CT,06830
-Matthew,Parkins,Staffieri,PK,M,"Whittlesey, Sara",Greenwich,CT,06830
-William, ,Staffieri,2,M,"Mena, Betsy",Greenwich,CT,06830
-Elena,Sophia,Stark,8,F,"Basinet, Matthew",Pound Ridge,NY,10576
-Mia,Eden,Stark,6,F,"Paul, Adrienne",Pound Ridge,NY,10576
-Thomas,Miller,Steel,9,M,"Kast, Julie",Greenwich,CT,06830
-William,Morris,Steel,7,M,"Gussis, James",Greenwich,CT,06830
-Enya,Liana,Steiner,2,F,"DiMinno, Katherine",Greenwich,CT,06831
-Evangeline, ,Steiner,4,F,"Molyneux, Eleanor",Greenwich,CT,06831
-Cole,Patrick,Stephens,2,M,"Mena, Betsy",Riverside,CT,06878
-Lawrence,Arthur,Stephens,4,M,"Thompson, Kevin",Riverside,CT,06878
-Owen,Christopher,Stephens,2,M,"Miller, Brian",Riverside,CT,06878
-Amanda,Claire,Sterling,K,F,"Suter, Elizabeth",Greenwich,CT,06830
-Daniel,Philip,Sterling,N,M,"Baird, Christine",Greenwich,CT,06830
-Charlotte,Hoffman,Stern,2,F,"Nadler, Carolyn",Greenwich,CT,06830
-Oliver,Henry,Stern,9,M,"Columbo, Richard",Greenwich,CT,06830
-William,Hoffman,Stern,6,M,"Milostan, Mark",Greenwich,CT,06830
-Katherine,Wood,Sternberg,10,F,"Ruoss, Andrew",Greenwich,CT,06830
-Zachary,Matthias,Sternberg,10,M,"Helpern, Joseph",Greenwich,CT,06830
-Owen,Frederic,Steuerer,K,M,"Lee, Kelsey",Riverside,CT,06878
-Yizhi, ,Sun,7,M,"Rosenberg, Lauren",Greenwich,CT,06830
-Christian,Giancarlo,Suy,6,M,"Morton, Adele",Stamford,CT,06902
-Eloise,Marie,Swanson,K,F,"Weintraub, Jennifer",Greenwich,CT,06830
-Robert, ,Swanson,PK,M,"Whittlesey, Sara",Greenwich,CT,06830
-Isabella,Beibei,Tang,K,F,"Bayless, Laurel",Greenwich,CT,06831
-Matthew,Siqi,Tang,2,M,"Mena, Betsy",Greenwich,CT,06831
-Mia,Meir,Tang,1,F,"Morton, Monica",Greenwich,CT,06831
-Justin,Maverick,Tannenbaum,PK,M,"Merritt, Merritt",Old Greenwich,CT,06870
-Kristen, ,Tanner,11,F,"De Teso, Jeffrey ",Greenwich,CT,06831
-Andrew,James,Tar,K,M,"Suter, Elizabeth",Ridgefield,CT,6877
-Sophia, ,Tarbell-Arnaboldi,11,F,"Waller, Lauren",Greenwich,CT,06830
-Cooper,Emdad,Taylor,6,M,"Castrigano, Daniel",Greenwich,CT,06830
-Kiron,Emdad,Taylor,4,F,"Lehn, Stephanie",Greenwich,CT,06830
-Sienna, ,Tedeschi,N,F,"Sepot, Sarah",Greenwich,CT,06830
-Addison,Leigh,Teixeira,6,F,"Gadsden, Samantha",Cos Cob,CT,06807
-Jack,Gordon,Teixeira,7,M,"Aronowsky, Ellen",Cos Cob,CT,06807
-William,Charles,Teixeira,3,M,"Paiva, Glaura",Cos Cob,CT,06807
-Evan,Ryan,Tello,5,M,"Johnson, Elizabeth",Stamford,CT,06906
-David,J,Tennyson,N,M,"Sugrue, Martha",Greenwich,CT,06830
-John,Charles,Terry,6,M,"Paul, Adrienne",Bedford,NY,10506
-Colby,Leigh,Thaler,PK,F,"Merritt, Merritt",Greenwich,CT,06830
-John,Wolfgang,Thaler,3,M,"Sweeney, Ellen",Greenwich,CT,06830
-William,Anthony,Thaler,2,M,"Nadler, Carolyn",Greenwich,CT,06830
-Jackson,Jeremy,Thekkekara,K,M,"Weintraub, Jennifer",Greenwich,CT,06830
-Agnes,Jane,Thomaier,PK,F,"Merritt, Merritt",Greenwich,CT,06830
-Andrew,Edward,Thompson,9,M,"Fernandez, J. Andy",Stamford,CT,06903
-Charles,Campbell,Thompson,11,M,"Iversen, Annette",Darien,CT,06820
-Crosby,Keeler,Thompson,5,M,"Paine, Tucker",Riverside,CT,06878
-Noah,James,Thompson,K,M,"Weintraub, Jennifer",Cos Cob,CT,06807
-Philipp, ,Timashev,3,M,"Laubscher, Luke",Greenwich,CT,06830
-Cecily,Beatrice,Todd,8,F,"Moore, Laura",Rye,NY,10580
-Jane,Clarke,Tortorella,9,F,"McDonald, Stephanie",Old Greenwich,CT,06870
-Julian,Nicholas,Toub,6,M,"Gadsden, Samantha",Greenwich,CT,06830
-Colten,Michael,Trepp,7,M,"McGovern, Michael",Darien,CT,06820
-Connor,Bryce,Trepp,3,M,"DeTeso, Tracy",Darien,CT,06820
-Morgan,Avery,Trepp,3,F,"Laubscher, Luke",Darien,CT,06820
-Henri,Leon,Tricot,N,M,"Sepot, Sarah",Cos Cob,CT,06807
-Theodore, ,Tricot,K,M,"Bayless, Laurel",Cos Cob,CT,06807
-Anna,Valentina,Triplett,4,F,"Thompson, Kevin",Greenwich,CT,06831
-Thomas,Nicholas,Triplett,5,M,"Sinay, Aaron",Greenwich,CT,06831
-Calder,James,Truesdale,8,M,"Spencer, Eliot",Greenwich,CT,06831
-Capri,Lillian,Truesdale,5,F,"Sinay, Aaron",Greenwich,CT,06831
-Catherine,Sophia,Tucker,8,F,"Tennyson, Jesse",Greenwich,CT,0'06831-3134
-Chase,Elizabeth,Tucker,5,F,"Paine, Tucker",Greenwich,CT,0'06831-3134
-Claire, ,Tucker,3,F,"DeTeso, Tracy",Greenwich,CT,0'06831-3134
-Isabella, ,Turek,9,F,"Lehn, Austin",Stamford,CT,06905
-Veronica, ,Turek,12,F,"Graham, Jane",Stamford,CT,06905
-Alberto,Ernesto,Ubina,4,M,"Hall, Jane",Greenwich,CT,06831
-Julio,Mario,Ubina,6,M,"Long, William",Greenwich,CT,06831
-Elizabeth,Anne,Unger,7,F,"Aronowsky, Ellen",Old Greenwich,CT,06870
-Madeline,Ellis,Unger,5,F,"Johnson, Elizabeth",Old Greenwich,CT,06870
-Sofia, ,Urbina,10,F,"Katona, Peter",Stamford,CT,06902
-Jack,Walker,Vadasdi,4,M,"Molyneux, Eleanor",Old Greenwich,CT,06870
-Sophie, ,Vadasdi,2,F,"Amado, Rebecca",Old Greenwich,CT,06870
-Evelyn, ,Valencia,7,F,"Abreu, Diana",New Rochelle,NY,10801
-Alexander, ,van Niekerk,9,M,"Waller, Lauren",Old Greenwich,CT,06870
-Winslow,Volckert,van Reesema,3,M,"Paiva, Glaura",Old Greenwich,CT,06870
-Carolyn,Elizabeth,Vanderbilt,2,F,"Mena, Betsy",Greenwich,CT,06830
-Carter,Morgan,Vanneck,6,M,"Castrigano, Daniel",Greenwich,CT,06831
-Lion,August Elejalde,Vazquez,K,M,"Suter, Elizabeth",Stamford,CT,06905
-Lucie,Celina Elejalde,Vazquez,PK,F,"Belden, Sheila",Stamford,CT,06905
-Reese,Hunter,Velishka,8,M,"Karrat, Richard",Stamford,CT,06902
-Vijay, ,Verma,9,M,"Feder, Stephen",Greenwich,CT,06831
-Lilian,Barbara,Vincent,8,F,"Preston, Peter",Greenwich,CT,06830
-Charles,Polyvios,Vintiadis,4,M,"Garcia, Madeline",Greenwich,CT,06830
-Jason,Holden,Vintiadis,6,M,"Dandola, Matthew",Greenwich,CT,06830
-Marina,Kane,Vintiadis,3,F,"Paiva, Glaura",Greenwich,CT,06830
-Nicholas,Keane,Vita,N,M,"Sugrue, Martha",Greenwich,CT,06830
-Zachary, ,Vitanza,8,M,"Moore, Laura",Greenwich,CT,06830
-Avery,Breslin,Vittone,6,F,"Morton, Adele",Greenwich,CT,06831
-Cole,Stephen,Von Der Ahe,3,M,"DeTeso, Tracy",Greenwich,CT,06830
-Ethan,James,Von Der Ahe,7,M,"Rosenberg, Lauren",Greenwich,CT,06830
-Graham,Andrew,Von Der Ahe,6,M,"Cornell, Eric",Greenwich,CT,06830
-Elinore,Dooney,Wall,7,F,"Koke, Kathleen",Greenwich,CT,06831
-Phyllis,Doherty,Wall,7,F,"Wohl, Lindsey",Greenwich,CT,06831
-Sacha, ,Wallace,11,M,"Feder, Stephen",Larchmont,NY,10538
-Caleigh,Doris,Wallack,8,F,"Corson, Flynn",Riverside,CT,06878
-Connor,Lee,Walmsley,K,M,"Suter, Elizabeth",Greenwich,CT,06830
-Ryan,Forrester,Walmsley,3,M,"Puntereri, Maria",Greenwich,CT,06830
-Abigail,Spencer Barlow,Walsh,10,F,"Ramirez, Alnardo",Greenwich,CT,06830
-Hunter,Mara,Ward,K,M,"Lee, Kelsey",Greenwich,CT,06830
-Lila,Mara,Ward,PK,F,"Belden, Sheila",Greenwich,CT,06830
-Alexandra,Landon,Warren,1,F,"Arcati, Abigail",Greenwich,CT,06830
-Major,Russell,Warren,3,M,"Paiva, Glaura",Greenwich,CT,06830
-Matilda,Carina,Warren,1,F,"Schofield, Jocelyn",Greenwich,CT,06830
-Emilie,Rachel,Wasserman,8,F,"Kelly, Shaun",Old Greenwich,CT,06870
-Sophia,Elizabeth,Wasserman,6,F,"Hasapis, Anthony",Old Greenwich,CT,06870
-Amelia,Neave,Watts,1,F,"Brown, Devon",Greenwich,CT,06830
-Caleb,Max Lucas,Watts,3,M,"Puntereri, Maria",Greenwich,CT,06830
-Caroline,Shea,Watts,7,F,"Abreu, Diana",Greenwich,CT,06830
-Elizabeth,Darby,Watts,6,F,"Morton, Adele",Greenwich,CT,06830
-H‹¨«lo‹¨«se,Diana Andr‹¨«e Isabel,Webb,7,F,"Donnalley, Jennifer",Greenwich,CT,06830
-James,John Pierre,Webb,9,M,"Graham, Jane",Greenwich,CT,06830
-George,Bolden,Weiksner,8,M,"Bixler, Claire",Riverside,CT,06878
-Kathryn,Veronica,Weiksner,5,F,"Johnson, Elizabeth",Riverside,CT,06878
-Luke,Cutter,Weiksner,5,M,"Lowe, Elizabeth",Riverside,CT,06878
-Corinne,Asbury,Weil,N,F,"Baird, Christine",Old Greenwich,CT,06870
-Andrew,James,Weindling,10,M,"Kucher, David",Old Greenwich,CT,06870
-Claire, ,Weindling,7,F,"Withrow, Morgan",Old Greenwich,CT,06870
-Farrah,Jule,Weiner,6,F,"Howe, Jeffrey",Riverside,CT,06878
-Noah,Joseph,Weiner,9,M,"Wood, Jaclyn",Riverside,CT,06878
-Samuel,Jake,Weiner,11,M,"Helpern, Joseph",Riverside,CT,06878
-Alexa, ,Weinstein,2,F,"DiMinno, Katherine",Old Greenwich,CT,06870
-Nicolas,Alejandro,Weinstein,K,M,"Foster, Claudia",Old Greenwich,CT,06870
-Nash,Mays,Weintraub,3,M,"Puntereri, Maria",Greenwich,CT,06830
-Nathan,Ryder,Weintraub,5,M,"Gilch, Jennifer",Greenwich,CT,06830
-Lannon,Walker,Welch,2,F,"Miller, Brian",Greenwich,CT,06830
-Priscilla,Pond,Welch,6,F,"Righter, Holly",Greenwich,CT,06830
-William, ,Welch,7,M,"Koke, Kathleen",Rye,NY,10580
-Edward,Kingman,Weld,11,M,"Foster, Idara",Greenwich,CT,06831
-Jordan,Drew,Werner,9,M,"Curry, Patrick",Larchmont,NY,10538
-Finley,Violet,Westhus,1,F,"Schofield, Jocelyn",Greenwich,CT,06831
-David, ,Whiteley,4,M,"Cauldwell, Sarah",Rye,NY,10580
-Morgan,Correne,Whitmore,PK,F,"Merritt, Merritt",Greenwich,CT,06830
-Patrick,Robert,Whitmore,1,M,"Brown, Devon",Greenwich,CT,06830
-Anders,James,Whittlesey,N,M,"Baird, Christine",Greenwich,CT,06830
-Kash,Robert,Williams,K,M,"Bayless, Laurel",Stamford,CT,06905
-Lauren,Beatrice,Wills,6,F,"Howe, Jeffrey",Stamford,CT,06902
-Nadia, ,Wilson,PK,F,"Whittlesey, Sara",Stamford,CT,06905
-Olivia, ,Wilson,2,F,"DiMinno, Katherine",Stamford,CT,06905
-Piper,MacLean,Wilson,3,F,"Laubscher, Luke",Greenwich,CT,06831
-Thomas,Howland,Wilson,1,M,"Morton, Monica",Greenwich,CT,06831
-William, ,Wingrove,9,M,"Dutcher, Andrew",Cos Cob,CT,06807
-Tucker,Jonathan,Winham,8,M,"Kelly, Shaun",Greenwich,CT,06830
-Henry,Wells,Wise,5,M,"Abraham, Jennifer",Old Greenwich,CT,06870
-Ainsley, ,Withrow,N,F,"Sugrue, Martha",Greenwich,CT,06831
-Reagan,Mary,Withrow,K,F,"Bayless, Laurel",Greenwich,CT,06831
-Beatrice, ,Wolfe,2,F,"Amado, Rebecca",Greenwich,CT,06830
-Derek,Gabriel,Wolfe,5,M,"Johnson, Elizabeth",Greenwich,CT,06830
-Georgina,Maria,Wolfson,7,F,"Doyle, Shannon",Bedford Corners,NY,10549
-Philippa,Sophia,Wolfson,9,F,"Iversen, Annette",Bedford Corners,NY,10549
-Ava,Jack,Wood,N,F,"Baird, Christine",Stamford,CT,06907
-Lilah,Grace,Wood,1,F,"Arcati, Abigail",Stamford,CT,06907
-Corbin,Wyatt,Wreschner,PK,M,"Walker, Leslea",Old Greenwich,CT,06870
-Carter,Michelle,Wright,N,F,"Sugrue, Martha",Stamford,CT,06902
-Finn,Sanders,Wyatt,K,M,"Weintraub, Jennifer",Darien,CT,06820
-Robert,Augustine,Yalda,8,M,"Salazar, Jos‹¨«",Greenwich,CT,06831
-Miguel,Ivan,Yanez,9,M,"Latimore, Anais",Riverside,CT,06878
-Connor, ,Yantz,4,M,"Lehn, Stephanie",Greenwich,CT,06830
-Tyler, ,Yantz,6,M,"Hasapis, Anthony",Greenwich,CT,06830
-Lily,Grace,Yort,8,F,"Carnegie, Britt",Greenwich,CT,06830
-Marli,Amber,Young,5,F,"Abraham, Jennifer",Norwalk,CT,06854
-Kelly,Forbes,Youngman,8,F,"Preston, Peter",Greenwich,CT,06830
-Charlotte,Lee,Zakka,K,F,"Bayless, Laurel",Greenwich,CT,06831
-Leo,Dai,Zhao,6,M,"Long, William",Greenwich,CT,06830
-Charles,Talbott,Ziebarth,1,M,"Morton, Monica",Greenwich,CT,06830
-Clara,McCabe,Ziebarth,3,F,"Laubscher, Luke",Greenwich,CT,06830
-Caroline,Beatrice,Zisson,5,F,"Morelli, Adam",Greenwich,CT,06830
-Doyle,Barrow,Zisson,8,M,"Salazar, Jos‹¨«",Greenwich,CT,06830
-Grant,Hamilton,Zucconi,4,M,"Thompson, Kevin",Greenwich,CT,06831
-Annabelle,Rose,Zuckerman,1,F,"Hanley, Caroline",Greenwich,CT,06831
-Emma,Grace,Zuckerman,6,F,"Dandola, Matthew",Greenwich,CT,06831
-Lucas,James,Zuckerman,PK,M,"Whittlesey, Sara",Greenwich,CT,06831
-Carmelia, ,Zuniga,9,F,"Ruoss, Andrew",Stamford,CT,06903
-Brady,Curtis,Calhoun,8,M,Lehn, Austin,Rye,NY,10580
-thayer,hux,ross,8,M,Moore, Laura,Darien,CT,06820
+benjamin,davie,acciavatti,9,m,"lehn, austin",rye,ny,10580
+samuel, ,acciavatti,6,m,"dandola, matthew",rye,ny,10580
+bryce,griffith,agroskin,pk,m,"merritt, merritt",greenwich,ct,06830
+chaz,bennett,agroskin,3,m,"paiva, glaura",greenwich,ct,06830
+william,edmund kenji,aishman,5,m,"paine, tucker",stamford,ct,06903
+charlotte,marie,albright,1,f,"morton, monica",greenwich,ct,06830
+thomas, ,alexopoulos,pk,m,"whittlesey, sara",riverside,ct,06878
+gabriela, ,almeida,7,f,"donnalley, jennifer",cos cob,ct,06807
+daniela,maria,alvarez,k,f,"suter, elizabeth",stamford,ct,06906
+bianca,jenny,amen,6,f,"castrigano, daniel",darien,ct,06820
+hunter,richard,amen,7,m,"gussis, james",darien,ct,06820
+katarina,jenny,amen,2,f,"diminno, katherine",darien,ct,06820
+gabriel,a,amortegui,6,m,"hasapis, anthony",stamford,ct,06905
+devon,byers,anderson,6,f,"thorner, katie",rye,ny,10580
+jackson,wilson,anderson,7,m,"wohl, lindsey",rye,ny,10580
+whitaker, ,anderson,5,m,"abraham, jennifer",greenwich,ct,06830
+matteo, ,andrade,9,m,"hubertus, shannon",stamford,ct,06902
+brooke, ,andrews-peden,9,f,"scanlon, patrick",old greenwich,ct,06870
+emilia,marie,angelov,6,f,"cornell, eric",stamford,ct,06906
+henry,levy,anikstein,1,m,"brown, devon",greenwich,ct,06831
+olivia, ,anikstein,4,f,"garcia, madeline",greenwich,ct,06831
+leandro,benjamin,aponte,k,m,"suter, elizabeth",stamford,ct,06902
+jonathan, ,aquino,12,m,"helstein, timothy",stamford,ct,06902
+cyrus,foroughi,arjomand,9,m,"ramirez, alnardo",west harrison,ny,10604
+rory,willow,ashmeade,10,f,"mezzo, michael",stamford,ct,06907
+philippa,kate,ashworth cochrane,9,f,"carr, douglas",greenwich,ct,06830
+george,alexandros,athanasopoulos,5,m,"morelli, adam",greenwich,ct,06830
+alexandra,rose,atkinson,3,f,"paiva, glaura",old greenwich,ct,06870
+benjamin,chase,atkinson,7,m,"doyle, shannon",old greenwich,ct,06870
+cate,margaret,auerswald,6,f,"milostan, mark",cos cob,ct,06807
+cooper,james,auerswald,4,m,"cauldwell, sarah",cos cob,ct,06807
+hunter, ,austrie,11,m,"reynolds, jason",stamford,ct,06902
+luke,james,bagshaw,pk,m,"belden, sheila",riverside,ct,06878
+olivia,rose,bagshaw,pk,f,"walker, leslea",riverside,ct,06878
+william,freeman,bagshaw,pk,m,"merritt, merritt",riverside,ct,06878
+noah,boyd,bailey,3,m,"puntereri, maria",greenwich,ct,06830
+silas, ,bailey,2,m,"diminno, katherine",greenwich,ct,06830
+james,gordon,baird,n,m,"sugrue, martha",darien,ct,06820
+kelly,mcnulty,baird,k,f,"foster, claudia",greenwich,ct,06830
+murphy,macdonald,baird,k,f,"weintraub, jennifer",greenwich,ct,06830
+sophie,elizabeth,baker,4,f,"lehn, stephanie",greenwich,ct,06329
+maximillian,bastiaan,bakker,2,m,"mena, betsy",greenwich,ct,06831
+sebastian,xander,bakker,1,m,"schofield, jocelyn",greenwich,ct,06831
+luke,charles,balducci,4,m,"garcia, madeline",greenwich,ct,06831
+siena,angelina,balducci,k,f,"suter, elizabeth",greenwich,ct,06831
+sofia,marisa,balducci,5,f,"abraham, jennifer",greenwich,ct,06831
+breanna,alexis rose,baldwin,7,f,"waller, robert",stamford,ct,06905
+christian,jeremiah ethan,baldwin,9,m,"colon bradt, christina",stamford,ct,06905
+payton,isabella rose,baldwin,4,f,"garcia, madeline",stamford,ct,06905
+steele,robert williamson,barhydt,6,m,"long, william",greenwich,ct,06836
+evan,ting,barry,9,m,"ruoss, andrew",rye brook,ny,10573
+henry,vasey,barth,pk,m,"walker, leslea",greenwich,ct,06830
+nina,jocelyn,barth,2,f,"miller, brian",greenwich,ct,06830
+zoe,annelies,barth,4,f,"molyneux, eleanor",greenwich,ct,06830
+leah, ,bartley,2,f,"nadler, carolyn",stamford,ct,06906
+anna,rose,basinet,8,f,"bixler, claire",greenwich,ct,06830
+lilly,malaya,bauza,1,f,"hanley, caroline",cos cob,ct,06807
+serena,rose,bauza,pk,f,"merritt, merritt",cos cob,ct,06807
+mason,breen,bechtel,8,f,"mcglynn, robert",greenwich,ct,06831
+ian, ,beckman,9,m,"wood, jaclyn",greenwich,ct,06830
+adele, ,bego,pk,f,"merritt, merritt",greenwich,ct,06830
+ainsley, ,bego,2,f,"miller, brian",greenwich,ct,06830
+tyler, ,bego,k,m,"lee, kelsey",greenwich,ct,06830
+james,cosgrove,behrend,5,m,"abraham, jennifer",new rochelle,ny,10804
+molly,claire,behrend,3,f,"puntereri, maria",new rochelle,ny,10804
+hadley,noble,bekkerus,k,f,"foster, claudia",darien,ct,06820
+hudson, ,bekkerus,1,m,"brown, devon",darien,ct,06820
+george, ,belshaw,5,m,"morelli, adam",greenwich,ct,06830
+charles, ,benincasa,9,m,"columbo, richard",greenwich,ct,06830
+christopher,james,benincasa,11,m,"mcdonald, stephanie",greenwich,ct,06830
+kathryn,grace,benincasa,6,f,"hasapis, anthony",greenwich,ct,06830
+william,r,bennett,8,m,"basinet, matthew",greenwich,ct,06830
+brooke, ,bertrand,8,f,"spooner, marshall",riverside,ct,06878
+luke,john-michael,bible,1,m,"schofield, jocelyn",greenwich,ct,06831
+tatum,elena,bieger,3,f,"puntereri, maria",greenwich,ct,06830
+emerson,barlow,blob,k,f,"bayless, laurel",greenwich,ct,06830
+reva,vinit,bodas,7,f,"wohl, lindsey",greenwich,ct,06831
+andrew,jeffrey,bolduc,n,m,"sugrue, martha",greenwich,ct,06830
+rebecca,prentiss,boolbol,10,f,"kast, julie",greenwich,ct,06830
+lucas,marinus alfonso,boom,4,m,"lehn, stephanie",riverside,ct,06878
+nicol‹¨«s,victor pieter,boom,3,m,"puntereri, maria",riverside,ct,06878
+zoelle,whitley,boor,2,f,"mena, betsy",stamford,ct,06902
+olivia,taylor,borsey,8,f,"preston, peter",stamford,ct,06902
+zachry,franklin,bostock,6,m,"gadsden, samantha",greenwich,ct,06831
+alexander,orestis,bouboulis,5,m,"lowe, elizabeth",greenwich,ct,06831
+anthony,denis,bouboulis,7,m,"donnalley, jennifer",greenwich,ct,06831
+anden,ryan,boulan,7,m,"jones, taylor",greenwich,ct,06830
+asher,leo,boulan,3,m,"sweeney, ellen",greenwich,ct,06830
+austyn, ,boulan,k,m,"foster, claudia",greenwich,ct,06830
+scott, ,boutry,8,m,"corson, flynn",greenwich,ct,06830
+lila,jane,braddock,6,f,"childs, hilary",old greenwich,ct,06870
+nate,robert,braddock,3,m,"puntereri, maria",old greenwich,ct,06870
+sophie,margo,braddock,8,f,"moore, laura",old greenwich,ct,06870
+chase,edward,bragg,k,m,"lee, kelsey",greenwich,ct,06831
+lily,elisabeth,bragg,4,f,"lehn, stephanie",greenwich,ct,06831
+isabella,mariette,brahmst,10,f,"lehn, austin",south salem,ny,10590
+quinn,robin,brahmst,10,m,"feder, stephen",south salem,ny,10590
+charles,thurman,branch,6,m,"paul, adrienne",greenwich,ct,06830
+kylie, ,branch,2,f,"amado, rebecca",greenwich,ct,06830
+christina,gabriela,brant,pk,f,"whittlesey, sara",greenwich,ct,06831
+elena,matilda,brant,pk,f,"merritt, merritt",greenwich,ct,06831
+felix,peter heinrich,brant,3,m,"puntereri, maria",greenwich,ct,06831
+henry,thomas,brant,1,m,"brown, devon",greenwich,ct,06831
+joseph,evan,breheney,2,m,"amado, rebecca",greenwich,ct,06830
+michael,leonardo,breheney,8,m,"corson, flynn",greenwich,ct,06830
+john,matthew,breitfelder,10,m,"helpern, joseph",greenwich,ct,06830
+lily,elle,breitfelder,6,f,"gadsden, samantha",greenwich,ct,06830
+owen,leonard,briggs,7,m,"withrow, morgan",new canaan,ct,0'06840
+zachary,keith,britt,5,m,"morelli, adam",stamford,ct,06902
+zaira,karla,britt,k,f,"weintraub, jennifer",stamford,ct,06902
+zara, ,britt,1,f,"brown, devon",stamford,ct,06902
+john,william,brodie,pk,m,"whittlesey, sara",greenwich,ct,06830
+jack,g,brogan,8,m,"spencer, eliot",riverside,ct,06878
+beck,matthew,brown,1,m,"hanley, caroline",greenwich,ct,06830
+gioia,noel,brown,5,f,"morelli, adam",greenwich,ct,06830
+harrison,clifford,brown,pk,m,"belden, sheila",greenwich,ct,06830
+jelani, ,brown,5,m,"paine, tucker",stamford,ct,06906
+luke,haegler,brown,8,m,"bixler, claire",greenwich,ct,06830
+tyler,cole,brown,12,m,"grasso, nick",stamford,ct,06902
+emma, ,bruzzone,5,f,"gilch, jennifer",riverside,ct,06878
+juan, ,bruzzone,7,m,"waller, robert",riverside,ct,06878
+lucas, ,bruzzone,2,m,"miller, brian",riverside,ct,06878
+cole, ,buchalter,3,f,"puntereri, maria",greenwich,ct,06830
+madeline, ,buchsbaum,9,f,"kucher, david",greenwich,ct,06830
+aria,elyse,burke,1,f,"morton, monica",greenwich,ct,06830
+calista,dagmar,burke,5,f,"abraham, jennifer",greenwich,ct,06830
+amelie,mia,burt,1,f,"hanley, caroline",greenwich,ct,06831
+ewan,peter,burt,pk,m,"belden, sheila",greenwich,ct,06831
+lucas,vladimir,burt,4,m,"thompson, kevin",greenwich,ct,06831
+abigail, ,burton,4,f,"thompson, kevin",greenwich,ct,06830
+avery, ,burton,2,f,"nadler, carolyn",greenwich,ct,06830
+robert, ,burton,8,m,"tennyson, jesse",greenwich,ct,06830
+tatiana,lushear,busch,n,f,"sugrue, martha",greenwich,ct,06831
+arthur,edward,butcher,2,m,"mena, betsy",bedford,ny,10506
+caroline,lindy,butz,k,f,"weintraub, jennifer",old greenwich,ct,06870
+trevor,preston,butz,n,m,"baird, christine",old greenwich,ct,06870
+elizabeth,jane,byxbee,4,f,"garcia, madeline",riverside,ct,06878
+kathryn,patricia,byxbee,7,f,"aronowsky, ellen",riverside,ct,06878
+caroline,nicole,cabrera,6,f,"hasapis, anthony",old greenwich,ct,06870
+gabriel,enrique,cabrera,1,m,"hanley, caroline",greenwich,ct,06831
+camilla,marie,caffray,3,f,"laubscher, luke",riverside,ct,06878
+charlotte,patricia,caffray,5,f,"gilch, jennifer",riverside,ct,06878
+lawson,spencer,caffray,1,m,"hanley, caroline",riverside,ct,06878
+james,whitney,calhoun,1,m,"arcati, abigail",riverside,ct,06878
+kathryn, ,calhoun,2,f,"amado, rebecca",riverside,ct,06878
+chloe,lasala,caliboso,8,f,"tennyson, jesse",stamford,ct,06905
+christian,philip,carcache,1,m,"arcati, abigail",greenwich,ct,06830
+daniel,tavares,cardoso,k,m,"suter, elizabeth",greenwich,ct,06831
+vivian,tavares,cardoso,n,f,"baird, christine",greenwich,ct,06831
+ainsley,tait,carella,8,f,"moore, laura",greenwich,ct,06830
+devon,elizabeth,carella,5,f,"abraham, jennifer",greenwich,ct,06830
+graceyn,alexandra,carella,2,f,"mena, betsy",greenwich,ct,06830
+niccolo, ,carrasquero,7,m,"koke, kathleen",stamford,ct,06902
+caleb,spencer,carter,n,m,"sugrue, martha",stamford,ct,06906
+j., ,cassin,2,m,"mena, betsy",greenwich,ct,06830
+rory,victoria,cassin,5,f,"johnson, elizabeth",greenwich,ct,06830
+ryan,julia,cassin,7,f,"harrington, edward",greenwich,ct,06830
+maximiliano, ,castano,2,m,"diminno, katherine",port chester,ny,10573
+timothy,jackson,castelli,10,m,"graham, jane",riverside,ct,06878
+ethan,kennedy,cecil,4,m,"molyneux, eleanor",greenwich,ct,06831
+stephen,harper,cecil,7,m,"rosenberg, lauren",greenwich,ct,06831
+annika,ela,cezzar,9,f,"latimore, anais",stamford,ct,06903
+edward,lennart,chandra,4,m,"garcia, madeline",larchmont,ny,10538
+katherine,lundstrom,chandra,6,f,"thorner, katie",larchmont,ny,10538
+luke,miles,chandra,7,m,"gussis, james",larchmont,ny,10538
+nolan,caius,charlton,9,m,"latimore, anais",new canaan,ct,06840
+mary,loren,chickering,5,f,"johnson, elizabeth",cos cob,ct,06807
+owen,dalton,chickering,7,m,"waller, robert",cos cob,ct,06807
+ludmila, ,chigirinskaya,6,f,"paul, adrienne",greenwich,ct,06830
+sophia,catrina,chigirinskaya,7,f,"donnalley, jennifer",greenwich,ct,06831
+shalva, ,chigirinskiy,5,m,"paine, tucker",greenwich,ct,06830
+nadira, ,china,5,f,"lowe, elizabeth",norwalk,ct,06851
+harold,dalzell,church,8,m,"spencer, eliot",bedford,ny,10506
+lila,briggs,church,7,f,"aronowsky, ellen",bedford,ny,10506
+james, ,cipolla,2,m,"nadler, carolyn",riverside,ct,06878
+lily, ,cipolla,4,f,"molyneux, eleanor",riverside,ct,06878
+scarlett, ,cipolla,n,f,"sepot, sarah",riverside,ct,06878
+claudia, ,citrin,9,f,"wood, jaclyn",bedford corners,ny,10549
+charles,augustus,clark,7,m,"mcgovern, michael",greenwich,ct,06830
+jack, ,cloutier,9,m,"wood, jaclyn",riverside,ct,06878
+hadley,grace,cmiel,k,f,"suter, elizabeth",greenwich,ct,06830
+maxwell,reed,coblenz,8,m,"kelly, shaun",rye,ny,10580
+samuel, ,coblenz,7,m,"rosenberg, lauren",rye,ny,10580
+alexander,humberto,coca-rodriguez,n,m,"baird, christine",norwalk,ct,06850
+carlotta,victoria,coca-rodriguez,2,f,"diminno, katherine",norwalk,ct,06850
+isabella, ,coffin,1,f,"brown, devon",greenwich,ct,06830
+mia, ,cohen,pk,f,"walker, leslea",greenwich,ct,06830
+emily, ,cole,9,f,"ruoss, andrew",armonk,ny,10504
+harrison, ,cole,10,m,"alper, jordan",armonk,ny,10504
+corbin,m. m.,coles,9,m,"kucher, david",harrison,ny,10528
+kendall,jane,collier,9,f,"graham, jane",old greenwich,ct,06870
+august, ,collin,pk,m,"walker, leslea",riverside,ct,06878
+ashley,grace,collins,7,f,"waller, robert",stamford,ct,06905
+nathan,lawrence,collins,4,m,"thompson, kevin",stamford,ct,06905
+owen,robert,collins,9,m,"campbell, gordon",greenwich,ct,06830
+pierce,william,collins,7,m,"withrow, morgan",greenwich,ct,06830
+sean,kennan,collins,7,m,"jones, taylor",greenwich,ct,06830
+mac‹¨«o,strider,col‹¨«n bradt,pk,m,"walker, leslea",greenwich,ct,06830
+chloe,eleanor,cook,7,f,"mcgovern, michael",greenwich,ct,06830
+campbell,magee,corbin,3,f,"sweeney, ellen",greenwich,ct,06830
+lavely,pyne,corbin,4,f,"hall, jane",greenwich,ct,06830
+christopher,charles,corrinet,pk,m,"merritt, merritt",greenwich,ct,06830
+leonardo, ,corsano-leopizzi,9,m,"kucher, david",old greenwich,ct,06870
+liam,emanuele,corsano-leopizzi,1,m,"arcati, abigail",old greenwich,ct,06870
+lorenzo, ,corsano-leopizzi,3,m,"sweeney, ellen",old greenwich,ct,06870
+luca,david,corsano-leopizzi,7,m,"jones, taylor",old greenwich,ct,06870
+imogen, ,corson,k,f,"suter, elizabeth",greenwich,ct,06830
+kelly,flynn,corson,3,m,"deteso, tracy",greenwich,ct,06830
+maeve, ,corson,2,f,"miller, brian",greenwich,ct,06830
+finnian,jack,cosgrove,5,m,"paine, tucker",greenwich,ct,06831
+ruby,willow,cosgrove,8,f,"spooner, marshall",greenwich,ct,06831
+henri,weston,costanzo,2,m,"mena, betsy",greenwich,ct,06830
+leonardo,stanley,costanzo,k,m,"lee, kelsey",greenwich,ct,06830
+carolina,bradshaw,crain,7,f,"gagnon, eleanor",greenwich,ct,06830
+chace,christopher,crain,3,m,"deteso, tracy",greenwich,ct,06830
+connor,sutton,crain,7,m,"abreu, diana",greenwich,ct,06830
+chloe,hayfield,cranston,3,f,"deteso, tracy",greenwich,ct,06830
+hadley,parkhurst,cranston,7,f,"jones, taylor",greenwich,ct,06830
+william,beckett,cranston,5,m,"sinay, aaron",greenwich,ct,06830
+ainsley,madren,craver,9,f,"helstein, timothy",riverside,ct,06878
+eliza,lauren,craver,6,f,"righter, holly",riverside,ct,06878
+corbin,louis,creech,1,m,"morton, monica",darien,ct,06820
+sloane,louisa,creech,6,f,"long, william",darien,ct,06820
+ryan,walker kelce,crowley,9,m,"allen, tara",greenwich,ct,06830
+kathleen,graneto,culvahouse,5,f,"gilch, jennifer",greenwich,ct,06830
+michael,callahan,cunnion,9,m,"latimore, anais",old greenwich,ct,06870
+amelie,beth,curry,2,f,"mena, betsy",old greenwich,ct,06870
+dominic,edwin ethan,curry,5,m,"gilch, jennifer",old greenwich,ct,06870
+cole,william,custar,3,m,"laubscher, luke",riverside,ct,06878
+hailey,ashton,custar,5,f,"sinay, aaron",riverside,ct,06878
+mason,james,custar,pk,m,"belden, sheila",riverside,ct,06878
+catherine,grace,cutting,6,f,"gadsden, samantha",greenwich,ct,06830
+reminy,gail,d'albert,7,f,"rosenberg, lauren",stamford,ct,06903
+thea,towne,d'albert,5,f,"paine, tucker",stamford,ct,06903
+dylan,rose,d'antonio,4,f,"molyneux, eleanor",greenwich,ct,06831
+justin ,james,d'ercole,9,m,"kast, julie",mamaroneck,ny,10543
+allegra, ,dapuzzo,8,f,"spooner, marshall",greenwich,ct,06830
+alexander,wynn,dartnell,7,m,"mcgovern, michael",greenwich,ct,06830
+philip,miles,dartnell,7,m,"withrow, morgan",greenwich,ct,06830
+avery,jade,davis,3,f,"deteso, tracy",greenwich,ct,06830
+ella,catherine,davis,8,f,"mcglynn, robert",greenwich,ct,06830
+hailey,quinn,davis,pk,f,"belden, sheila",cos cob,ct,06807
+james, ,davis,n,m,"sugrue, martha",riverside,ct,06878
+mason, ,davis,7,m,"gagnon, eleanor",greenwich,ct,06830
+oliver,bancroft,davis,5,m,"gilch, jennifer",greenwich,ct,06830
+william,lawrence,davis,2,m,"miller, brian",greenwich,ct,06830
+madelyn, ,dawson,pk,f,"belden, sheila",norwalk,ct,06855
+maximus, ,dawson,1,m,"hanley, caroline",norwalk,ct,06855
+bridget, ,day,7,f,"donnalley, jennifer",old greenwich,ct,06870
+landau, ,day,k,m,"bayless, laurel",stamford,ct,06903
+mia,isabella,de la cruz,5,f,"gilch, jennifer",norwalk,ct,06854
+jacqueline, ,de weaver,4,f,"thompson, kevin",greenwich,ct,06831
+wilhelmina, ,de weaver,pk,f,"walker, leslea",greenwich,ct,06831
+sophia,kathleen,debs,8,f,"preston, peter",west harrison,ny,10604
+jamaal,levon,degraffenried,10,m,"roth, lauren",stamford,ct,06902
+breit,frith,delany,2,m,"diminno, katherine",greenwich,ct,06830
+kirby,haynes,delany,1,f,"arcati, abigail",greenwich,ct,06830
+seth,uberall,delany,6,m,"cornell, eric",cos cob,ct,06807
+wylie, ,dell'olio,9,f,"hubertus, shannon",stamford,ct,06903
+matteo,a.,della pietra,4,m,"molyneux, eleanor",greenwich,ct,06830
+nico,p.,della pietra,6,m,"childs, hilary",greenwich,ct,06830
+dashiel,lev,dermont,5,m,"morelli, adam",greenwich,ct,06830
+sarah, ,deschamps,8,f,"kelly, shaun",old greenwich,ct,06870
+carolina, ,deus,9,f,"lehn, austin",port chester,ny,10573
+kathryn,carroll,deveer,4,f,"thompson, kevin",greenwich,ct,06831
+wallace,pehrson,deveer,7,m,"waller, robert",greenwich,ct,06831
+katherine,grace,diamond,7,f,"withrow, morgan",katonah,ny,10536
+sianna,rose,diclemente,2,f,"nadler, carolyn",greenwich,ct,06830
+raye,m,dinovo,8,f,"mcglynn, robert",greenwich,ct,06830
+sabine,h,dinovo,8,f,"karrat, richard",greenwich,ct,06830
+erin,jayne,dixon,9,f,"wood, jaclyn",stamford,ct,06903
+luke,paul,dixon,6,m,"castrigano, daniel",stamford,ct,06903
+chloe,anabel,doneger,n,f,"sugrue, martha",greenwich,ct,06830
+aidan,parker,dougherty,6,m,"morton, adele",greenwich,ct,06830
+connor,patrick,dougherty,8,m,"carnegie, britt",greenwich,ct,06830
+savannah, ,dreas,8,f,"basinet, matthew",rowayton,ct,06853
+skylar, ,dreas,6,f,"howe, jeffrey",rowayton,ct,06853
+hamish, ,dubitsky,12,m,"winters, christopher",larchmont,ny,10538
+leo,charles,dubner,7,m,"wohl, lindsey",greenwich,ct,06830
+max,henry,dubner,8,m,"bixler, claire",greenwich,ct,06830
+tobin,mills,dubner,3,m,"laubscher, luke",greenwich,ct,06830
+mackenzie, ,duckett,n,f,"sepot, sarah",greenwich,ct,06831
+madison, ,duckett,8,f,"salazar, jos‹¨«",greenwich,ct,06831
+quinn,marie,duffy,k,f,"weintraub, jennifer",cos cob,ct,06807
+robert,park,duncan,9,m,"allen, tara",greenwich,ct,06830
+william,hopkins,duncan,9,m,"katona, peter",greenwich,ct,06830
+nicolas,arthur,dupont,5,m,"abraham, jennifer",greenwich,ct,06830
+mikayla,azrille,dupree,8,f,"corson, flynn",stamford,ct,06902
+tabitha,helen,dyal,n,f,"sepot, sarah",greenwich,ct,06831
+athena,elyse,dyer,5,f,"lowe, elizabeth",cos cob,ct,06807
+samuel,pillsbury,eichmann,11,m,"carr, douglas",greenwich,ct,06830
+joanna, ,eken,4,f,"cauldwell, sarah",greenwich,ct,06830
+penelope, ,eken,2,f,"miller, brian",greenwich,ct,06830
+peter, ,eken,pk,m,"walker, leslea",greenwich,ct,06830
+annabelle, ,elkin,8,f,"moore, laura",old greenwich,ct,06870
+harrison,revere,emery,7,m,"jones, taylor",greenwich,ct,06831
+hiram,weber,emery,9,m,"fernandez, j. andy",greenwich,ct,06831
+helen,elizabeth,erensen,n,f,"sugrue, martha",old greenwich,ct,06870
+henry,fischer,erensen,1,m,"arcati, abigail",old greenwich,ct,06870
+jackson, ,ertel,4,m,"garcia, madeline",greenwich,ct,06830
+morgan, ,ertel,6,f,"dandola, matthew",greenwich,ct,06830
+dean,rex,esquenazi,1,m,"hanley, caroline",greenwich,ct,06831
+stella,madeline,esquenazi,1,f,"arcati, abigail",greenwich,ct,06831
+vivienne,aviva,esquenazi,k,f,"foster, claudia",greenwich,ct,06831
+nicholas,adair,essaid,9,m,"helstein, timothy",old greenwich,ct,06870
+cristian,mark,estock,10,m,"roth, lauren",greenwich,ct,06830
+kristina,luisa,estock,5,f,"sinay, aaron",greenwich,ct,06830
+edward,coles,evans,2,m,"nadler, carolyn",greenwich,ct,06830
+eleanor,parker,evans,4,f,"hall, jane",greenwich,ct,06830
+frances,reid,evans,k,f,"suter, elizabeth",greenwich,ct,06830
+cayden,luca,ever,4,m,"hall, jane",greenwich,ct,06830
+dylan,blake,ever,6,m,"gadsden, samantha",greenwich,ct,06830
+andrew,george,fargis,k,m,"bayless, laurel",greenwich,ct,06830
+marygrace,mckenna,fargis,n,f,"sepot, sarah",greenwich,ct,06830
+demitrius,alexander,farias,8,m,"corson, flynn",stamford,ct,06907
+ethan,alexander,farias,6,m,"thorner, katie",stamford,ct,06907
+maya,teresa salima,farnos,7,f,"abreu, diana",greenwich,ct,06830
+jaquelyn,rose,farson,1,f,"arcati, abigail",stamford,ct,06902
+melanie,annette,farson,pk,f,"whittlesey, sara",stamford,ct,06902
+marco, ,favuzza,6,m,"long, william",eastchester,ny,10709
+eleanor,jane,fazzinga,pk,f,"merritt, merritt",greenwich,ct,06830
+frances,anne,fazzinga,3,f,"puntereri, maria",greenwich,ct,06830
+grace,emily,fazzinga,7,f,"mcgovern, michael",greenwich,ct,06830
+jordan,tiffany,feighery,4,f,"hall, jane",greenwich,ct,06830
+rima,monsita,ferrer,8,f,"carnegie, britt",westport,ct,06880
+michael,roman,feurtado,5,m,"johnson, elizabeth",greenwich,ct,06831
+william,roman,feurtado,8,m,"tennyson, jesse",greenwich,ct,06831
+james,michael,fiore,10,m,"mezzo, michael",greenwich,ct,06830
+brooks,thayer,fisher,7,m,"harrington, edward",greenwich,ct,06831
+charlotte,fitzpatrick,fisher,10,f,"foster, idara",greenwich,ct,06831
+alice, ,fitts,5,f,"lowe, elizabeth",greenwich,ct,06830
+evelyn,kay,fitts,8,f,"basinet, matthew",greenwich,ct,06830
+elle,reilly,fitzmaurice,k,f,"bayless, laurel",stamford,ct,06902
+john,winston,flavell,4,m,"molyneux, eleanor",greenwich,ct,06831
+griffyn,james,flood,7,m,"gagnon, eleanor",bedford corners,ny,10507
+kieran,christopher,flynn,n,m,"sepot, sarah",greenwich,ct,06831
+parker,kieran,flynn,5,m,"johnson, elizabeth",greenwich,ct,06831
+grace,quinlan,foley,2,f,"diminno, katherine",greenwich,ct,06831
+william,reed,foley,2,m,"nadler, carolyn",greenwich,ct,06831
+brynn,olivia,forlizzi,5,f,"johnson, elizabeth",darien,ct,06820
+katarina,elizabeth,forstmann,8,f,"karrat, richard",greenwich,ct,06831
+francis,axsel,forti,2,m,"amado, rebecca",greenwich,ct,06830
+steven,sigurd,forti,1,m,"schofield, jocelyn",greenwich,ct,06830
+viveca,elaine,forti,pk,f,"belden, sheila",greenwich,ct,06830
+reed,elizabeth,foster,3,f,"deteso, tracy",greenwich,ct,06831
+charles,browne,fox,3,m,"sweeney, ellen",greenwich,ct,06830
+elizabeth,stewart,fox,3,f,"laubscher, luke",greenwich,ct,06830
+imogen, ,fox,2,f,"diminno, katherine",greenwich,ct,06830
+richard,crawford,frame,2,m,"diminno, katherine",greenwich,ct,06831
+annabel,mallory,frank,2,f,"nadler, carolyn",greenwich,ct,06831
+hunter, ,frank,k,m,"bayless, laurel",greenwich,ct,06831
+kylie,elizabeth,frank,9,f,"carr, douglas",stamford,ct,06902
+ava,rose,frankel,8,f,"karrat, richard",greenwich,ct,06830
+remi,blaire,frankel,4,f,"cauldwell, sarah",greenwich,ct,06830
+ann,brady,frantz,8,f,"carnegie, britt",riverside,ct,06878
+charles,henry,frascella,9,m,"ramirez, alnardo",greenwich,ct,06830
+keira,leigh,frascella,7,f,"gussis, james",greenwich,ct,06830
+kasen,kai sheng,fu,k,m,"suter, elizabeth",riverside,ct,06878
+kendrick,kai cheng,fu,4,m,"lehn, stephanie",riverside,ct,06878
+annabelle, ,futch,9,f,"hubertus, shannon",greenwich,ct,06831
+ellery, ,futch,9,f,"colon bradt, christina",greenwich,ct,06831
+cristiano,mario,gabelli,2,m,"miller, brian",cos cob,ct,06807
+giulia, ,gabelli,k,f,"foster, claudia",greenwich,ct,06836
+marco,joseph,gabelli,4,m,"garcia, madeline",greenwich,ct,06836
+vianna,joelle,gabelli,4,f,"hall, jane",cos cob,ct,06807
+jack,cohen,gadsden,1,m,"hanley, caroline",greenwich,ct,06830
+anna,ritch,galatioto,pk,f,"walker, leslea",greenwich,ct,08631
+grace,ritch,galatioto,1,f,"schofield, jocelyn",greenwich,ct,08631
+daniel, ,ganeles,9,m,"carr, douglas",armonk,ny,10504
+elizabeth,quay,gardiner,pk,f,"whittlesey, sara",greenwich,ct,06830
+jane,courtney,gardiner,k,f,"lee, kelsey",greenwich,ct,06830
+jacob,warner,gearhart,8,m,"spencer, eliot",riverside,ct,06878
+alexander,orcutt,georges,9,m,"wood, jaclyn",greenwich,ct,06831
+nicholas,spiro athan,georges,5,m,"sinay, aaron",greenwich,ct,06831
+virginia,hamilton,georges,5,f,"abraham, jennifer",greenwich,ct,06831
+jackson, ,gerardi,7,m,"wohl, lindsey",greenwich,ct,06830
+leela,jeanne,getz,1,f,"hanley, caroline",greenwich,ct,06830
+samson,christopher,getz,pk,m,"walker, leslea",greenwich,ct,06830
+josefina, ,gil zalis,9,f,"columbo, richard",cos cob,ct,06807
+alekzander,duque-steindorsson,gislason,9,m,"fernandez, j. andy",greenwich,ct,06830
+david,pellino,gittes,5,m,"lowe, elizabeth",riverside,ct,06878
+henry,michael,gittes,3,m,"paiva, glaura",riverside,ct,06878
+hunter,james,glasebrook,n,m,"sugrue, martha",greenwich,ct,06830
+madeline,rose,godin,12,f,"dutcher, andrew",larchmont,ny,10538
+henry,davitt,goldberg,1,m,"arcati, abigail",old greenwich,ct,06870
+henry, ,goldberg,9,m,"hubertus, shannon",greenwich,ct,06831
+caleb, ,goldman,5,m,"paine, tucker",armonk,ny,10504
+asher,dean,goldstein,8,m,"preston, peter",greenwich,ct,06830
+sarah,diane,goldstein,6,f,"hasapis, anthony",greenwich,ct,06830
+bliss,violette,gooding,9,f,"dutcher, andrew",new canaan,ct,06840
+daisy,victoria,gooding,7,f,"waller, robert",new canaan,ct,06840
+ryan,howard,gordon,9,m,"curry, patrick",greenwich,ct,06807
+ella,covington,gray,5,f,"lowe, elizabeth",riverside,ct,06878
+evelyn,corbin,gray,3,f,"deteso, tracy",greenwich,ct,06830
+isabel,quinn,gray,3,f,"sweeney, ellen",riverside,ct,06878
+jack,cooper,gray,k,m,"bayless, laurel",riverside,ct,06878
+robert,charles,gray,3,m,"deteso, tracy",cos cob,ct,06807
+virginia,mcguire,gray,1,f,"hanley, caroline",greenwich,ct,06830
+christian,morris,graziano,8,m,"preston, peter",greenwich,ct,06830
+eleanor,nicole,graziano,5,f,"johnson, elizabeth",greenwich,ct,06830
+gunnar,garland,gregory,8,m,"kelly, shaun",greenwich,ct,06831
+georgia,wynn,grogan,6,f,"dandola, matthew",riverside,ct,06878
+gwynneth, ,grogan,2,f,"mena, betsy",riverside,ct,06878
+simon,robert,grogan,9,m,"de vries, jonathan",riverside,ct,06878
+jean-christophe, ,guit‹¨«,3,m,"laubscher, luke",greenwich,ct,06831
+jonah,price,gutman,4,m,"garcia, madeline",riverside,ct,06878
+myer,elliot,gutman,2,m,"diminno, katherine",riverside,ct,06878
+nora,colleen,gutman,k,f,"suter, elizabeth",riverside,ct,06878
+julian,charles,habul,n,m,"baird, christine",greenwich,ct,06830
+keira, ,habul,1,f,"morton, monica",greenwich,ct,06830
+lola,jeanne,habul,6,f,"cornell, eric",greenwich,ct,06830
+brandon,kyle,hackett,9,m,"iversen, annette",harrison,ny,10528
+taylor,brooke,hackett,7,f,"gagnon, eleanor",harrison,ny,10528
+ignacio,william,hahn,9,m,"ruoss, andrew",white plains,ny,10605
+emily,ann,hamilton,7,f,"doyle, shannon",stamford,ct,06905
+blake,elizabeth,hammack,n,f,"baird, christine",riverside,ct,06878
+chase,thomas,hammack,2,m,"nadler, carolyn",riverside,ct,06878
+sarah,nessrine,hamran,pk,f,"belden, sheila",stamford,ct,06902
+elizabeth,lane,handler,8,f,"kelly, shaun",greenwich,ct,06831
+evelyn,blythe,handler,4,f,"cauldwell, sarah",greenwich,ct,06831
+reid,theodore,handler,6,m,"thorner, katie",greenwich,ct,06831
+annelie,sofia,hang,7,f,"koke, kathleen",greenwich,ct,06830
+magnus,randall,hang,5,m,"sinay, aaron",greenwich,ct,06830
+dylan, ,hanlon,k,m,"foster, claudia",greenwich,ct,06830
+faith,campbell,hanson,9,f,"columbo, richard",greenwich,ct,06830
+perry,allen,harmon,pk,m,"walker, leslea",greenwich,ct,06831
+piper,june,harmon,1,f,"brown, devon",greenwich,ct,06831
+aerin,rees,harris,9,f,"iversen, annette",greenwich,ct,06831
+caroline,michaela,hart,10,f,"feder, stephen",white plains,ny,10604
+evangeline, ,hart,4,f,"lehn, stephanie",greenwich,ct,06831
+riley, ,hart,6,m,"milostan, mark",greenwich,ct,06831
+emma,frances,hartman,4,f,"cauldwell, sarah",greenwich,ct,06830
+barbara,claire,harty,6,f,"dandola, matthew",greenwich,ct,06830
+beatrice,clay,harty,1,f,"brown, devon",greenwich,ct,06830
+james,cox,harty,3,m,"paiva, glaura",greenwich,ct,06830
+owen,david,harvey,1,m,"schofield, jocelyn",stamford,ct,06902
+william,carney,hawks,5,m,"sinay, aaron",greenwich,ct,06830
+charles,benjamin,heffer,3,m,"paiva, glaura",old greenwich,ct,06870
+emma,jonas,heffer,6,f,"righter, holly",old greenwich,ct,06870
+jordy,cole,hellinger,1,m,"morton, monica",greenwich,ct,06830
+ryan,austin,hellinger,k,m,"weintraub, jennifer",greenwich,ct,06830
+maddox,richard,helstein,1,m,"morton, monica",greenwich,ct,06830
+meadow,annilee,helstein,pk,f,"belden, sheila",greenwich,ct,06830
+cameron,nicole,hendrickson,6,f,"paul, adrienne",hartsdale,ny,10530
+jurnee, ,hendrickson,1,f,"arcati, abigail",port chester,ny,10573
+taylor,alexis,hendrickson,9,f,"alper, jordan",hartsdale,ny,10530
+james,cooper,henry,1,m,"morton, monica",greenwich,ct,06830
+thomas,parker,henry,n,m,"sugrue, martha",greenwich,ct,06830
+gael, ,hernandez,7,m,"aronowsky, ellen",stamford,ct,06902
+william,elliott,herr,k,m,"weintraub, jennifer",old greenwich,ct,06870
+jeremy,michael,hewett,2,m,"mena, betsy",greenwich,ct,06831
+georgina,eden,heyer,n,f,"sugrue, martha",greenwich,ct,06830
+spencer,jaeger,hickok,9,m,"winters, christopher",pleasantville,ny,10570
+blake,victoria,higdon,2,f,"amado, rebecca",greenwich,ct,06830
+henry,grover,higdon,pk,m,"belden, sheila",greenwich,ct,06830
+paige,alexandra,higdon,pk,f,"whittlesey, sara",greenwich,ct,06830
+elena,marie,higgins,8,f,"karrat, richard",greenwich,ct,06830
+elizabeth,olin,higgins,5,f,"paine, tucker",greenwich,ct,6830
+james,walter,higgins,6,m,"howe, jeffrey",greenwich,ct,6830
+mia, ,hilderbrand,2,f,"nadler, carolyn",greenwich,ct,06830
+bryce, ,hill,6,m,"thorner, katie",mamaroneck,ny,10543
+lachlan, ,hill,5,m,"morelli, adam",mamaroneck,ny,10543
+ellie,regan,hillenbrand,5,f,"gilch, jennifer",greenwich,ct,06831
+lily,grace,hillenbrand,3,f,"laubscher, luke",greenwich,ct,06831
+gillian,gillian,hines,7,f,"waller, robert",cos cob,ct,06807
+justin,parkinson,hires,6,m,"righter, holly",greenwich,ct,06830
+michael, ,hisler,9,m,"katona, peter",cos cob,ct,06807
+campbell,jane,hochman,1,f,"morton, monica",stamford,ct,06903
+hannah, ,hochman,7,f,"jones, taylor",riverside,ct,06878
+judah,herman,hochman,4,m,"hall, jane",riverside,ct,06878
+solomon,ascher,hochman,8,m,"karrat, richard",riverside,ct,06878
+owen, ,hoffman,8,m,"moore, laura",greenwich,ct,06830
+fischer,craig,hogan,2,m,"nadler, carolyn",cos cob,ct,06807
+madelyn,ashley,hogan,k,f,"lee, kelsey",cos cob,ct,06807
+eaton,henry,holden,4,m,"cauldwell, sarah",greenwich,ct,06831
+weston,charles,holden,pk,m,"belden, sheila",greenwich,ct,06831
+william,bo,hollander,10,m,"foster, idara",cos cob,ct,06807
+kelly, ,holmgren,9,f,"roth, lauren",wilton,ct,06897
+alexander,nicholas,hood,8,m,"spooner, marshall",greenwich,ct,06831
+chantal,sophie,hood,1,f,"brown, devon",greenwich,ct,06831
+ferdinand,frederick,hood,4,m,"thompson, kevin",greenwich,ct,06831
+matias,santiago,hood,7,m,"harrington, edward",greenwich,ct,06831
+alexandra,elkington,hopley,7,f,"harrington, edward",greenwich,ct,06830
+caroline,bradford,hopley,6,f,"milostan, mark",greenwich,ct,06830
+georgia,schaller,hopley,4,f,"molyneux, eleanor",greenwich,ct,06830
+jo,lasse,hopmann,8,m,"spooner, marshall",riverside,ct,06878
+liv,marla,hopmann,3,f,"puntereri, maria",riverside,ct,06878
+piet,viggo,hopmann,5,m,"gilch, jennifer",riverside,ct,06878
+madison,elizabeth,hostetler,pk,f,"walker, leslea",greenwich,ct,06830
+samuel,douglas,hostetler,k,m,"lee, kelsey",greenwich,ct,06830
+hengyu, ,hu,11,f,"kast, julie",greenwich,ct,06831
+edith,eyre,huffard,7,f,"mcgovern, michael",old greenwich,ct,06870
+lee,choate,huffard,8,m,"moore, laura",old greenwich,ct,06870
+claire,alexander,hulce,k,f,"lee, kelsey",greenwich,ct,06830
+nargis, ,hussaini,9,f,"colon bradt, christina",stamford,ct,06902
+alley,elizabeth,hutchins,9,f,"mcdonald, stephanie",greenwich,ct,06830
+davis, ,hutchins,2,m,"diminno, katherine",greenwich,ct,06830
+ihsan, ,iftikar,2,m,"mena, betsy",greenwich,ct,06830
+imran, ,iftikar,7,m,"mcgovern, michael",greenwich,ct,06830
+irhan, ,iftikar,6,m,"dandola, matthew",greenwich,ct,06830
+emily,kathryn,iorio,9,f,"winters, christopher",greenwich,ct,06830
+felipa, ,iraola,k,f,"foster, claudia",greenwich,ct,06830
+abigail,elissa,israel,4,f,"thompson, kevin",purchase,ny,10577
+ariel,david,israel,7,m,"gussis, james",purchase,ny,10577
+emma,nicole,jackson,11,f,"alper, jordan",darien,ct,06820
+oliver,adam,jackson,5,m,"lowe, elizabeth",greenwich,ct,06830
+brody,lacoff,jampole,1,m,"hanley, caroline",greenwich,ct,06831
+shayna,lacoff,jampole,8,f,"salazar, jos‹¨«",greenwich,ct,06831
+charles,david,jenkins,8,m,"tennyson, jesse",greenwich,ct,06830
+ella,smiler,jepsen,2,f,"miller, brian",greenwich,ct,06830
+skylar,esther,jepsen,4,f,"cauldwell, sarah",greenwich,ct,06830
+heath,charleton,jervis,7,m,"doyle, shannon",cos cob,ct,06807
+philippa,newbold,jervis,4,f,"hall, jane",cos cob,ct,06807
+piper, ,jewett,k,f,"weintraub, jennifer",norwalk,ct,06853
+arman,singh,johar,3,m,"deteso, tracy",greenwich,ct,06830
+maya sevana, ,johar,1,f,"schofield, jocelyn",greenwich,ct,06830
+cooper, ,johnson,10,m,"lehn, austin",greenwich,ct,06830
+maison, ,johnson,6,f,"cornell, eric",greenwich,ct,06830
+sawyer,moran,johnson,7,m,"doyle, shannon",greenwich,ct,06830
+theodore,augustus,johnson,6,m,"howe, jeffrey",greenwich,ct,06830
+creighton,william,jones,4,m,"lehn, stephanie",greenwich,ct,06830
+rhys, ,jones,9,m,"reynolds, jason",bedford corners,ny,10549
+teague,jameson,jones,2,m,"miller, brian",greenwich,ct,06830
+camille, ,jordan,10,f,"mcdonald, stephanie",stamford,ct,06902
+dylan,mia,joseph,8,f,"bixler, claire",larchmont,ny,10538
+danna, ,justiniano,8,f,"tennyson, jesse",stamford,ct,06902
+foster,dardis,kaali-nagy,3,m,"laubscher, luke",greenwich,ct,06830
+keira,dardis,kaali-nagy,7,f,"withrow, morgan",greenwich,ct,06830
+olivia, ,karanikolaidis,7,f,"gussis, james",riverside,ct,06878
+jolie,taylor,karen,9,f,"waller, lauren",bedford,ny,10506
+matthew, ,karish,2,m,"miller, brian",riverside,ct,06878
+mia,elizabeth,karish,3,f,"sweeney, ellen",riverside,ct,06878
+adeline,linette,karnal,n,f,"baird, christine",greenwich,ct,06830
+sophie, ,katona,2,f,"mena, betsy",norwalk,ct,06851
+zoey, ,katona,k,f,"weintraub, jennifer",norwalk,ct,06851
+james,joseph,kearns,n,m,"baird, christine",greenwich,ct,06831
+lindsey,hailie,keating,8,f,"carnegie, britt",greenwich,ct,06831
+lola,rose,keech,4,f,"lehn, stephanie",old greenwich,ct,06870
+maximilian,xavier,keech,2,m,"miller, brian",old greenwich,ct,06870
+dylan,robert,kellan,7,m,"rosenberg, lauren",greenwich,ct,06830
+connor,jackson,kelly,8,m,"tennyson, jesse",greenwich,ct,06830
+kyle,michael,kelly,5,m,"lowe, elizabeth",greenwich,ct,06830
+charles,mcatee,kenny,8,m,"basinet, matthew",greenwich,ct,06830
+asher,fremont,kepler,3,m,"laubscher, luke",riverside,ct,06878
+grace,elizabeth,kepler,5,f,"johnson, elizabeth",riverside,ct,06878
+miles,henry,kestnbaum,pk,m,"belden, sheila",greenwich,ct,06830
+alexander, ,khanna,10,m,"de vries, jonathan",cos cob,ct,06807
+daphne,alexandra,khayatt,7,f,"koke, kathleen",greenwich,ct,06830
+theodora,samiha,khayatt,4,f,"garcia, madeline",greenwich,ct,06830
+anika,ronak,khichadia,5,f,"sinay, aaron",greenwich,ct,06830
+anjali,padmavati,khichadia,2,f,"amado, rebecca",greenwich,ct,06830
+arian,dhiraj,khichadia,7,m,"gagnon, eleanor",greenwich,ct,06830
+ava,lynne,kilmurray,8,f,"mcglynn, robert",cos cob,ct,06807
+chloe,suzanne,kilts,4,f,"garcia, madeline",greenwich,ct,06830
+daphne,charlotte,kilts,pk,f,"walker, leslea",greenwich,ct,06830
+james,marshall,kilts,6,m,"morton, adele",greenwich,ct,06830
+walter,nathan,kilts,1,m,"schofield, jocelyn",greenwich,ct,06830
+annabelle,soohee,kim,4,f,"lehn, stephanie",old greenwich,ct,06870
+elsa, ,kim,2,f,"diminno, katherine",old greenwich,ct,06870
+lucas,joonhee,kim,k,m,"suter, elizabeth",old greenwich,ct,06870
+gudmundur,thor,kjaernested,8,m,"preston, peter",greenwich,ct,06830
+niels,spencer,kjaernested,6,m,"cornell, eric",greenwich,ct,06830
+catherine,effie,knapp,6,f,"long, william",darien,ct,06820
+charles,finnegan,knapp,2,m,"amado, rebecca",darien,ct,06820
+sydney,rees,knechtel,1,f,"arcati, abigail",greenwich,ct,06830
+wynn,thomas,knechtel,1,m,"brown, devon",greenwich,ct,06830
+john,philip,knowles,1,m,"arcati, abigail",old greenwich,ct,06870
+gianna,rose,kocot,5,f,"abraham, jennifer",shelton,ct,06484
+john,peter,kocot,7,m,"wohl, lindsey",shelton,ct,06484
+sean,george shang rae,kondracki,12,m,"de vries, jonathan",stamford,ct,06903
+max,aaron,konigsberg,10,m,"mcdonald, stephanie",greenwich,ct,06831
+cayden,james,kreiter,pk,m,"belden, sheila",norwalk,ct,06854
+mckinley,reed,kreiter,n,f,"sugrue, martha",norwalk,ct,06854
+michael,grayson,kruse,5,m,"sinay, aaron",greenwich,ct,06830
+devin,ayekha,kwarula,10,m,"wood, jaclyn",danbury,ct,06810
+brooks, ,lacoff,5,m,"johnson, elizabeth",greenwich,ct,06830
+skylar,anne,lacoff,k,f,"lee, kelsey",greenwich,ct,06830
+edward,beckett,laitala,5,m,"paine, tucker",riverside,ct,06878
+lochlan,reed,laitala,9,m,"lehn, austin",riverside,ct,06878
+mary ellis,love,laitala,pk,f,"belden, sheila",riverside,ct,06878
+walker,russell,laitala,7,m,"jones, taylor",riverside,ct,06878
+lilly,elizabeth,lake,3,f,"puntereri, maria",greenwich,ct,06830
+thomas,james,lametta,pk,m,"whittlesey, sara",norwalk,ct,06855
+john, ,landers,5,m,"abraham, jennifer",greenwich,ct,06830
+catlin, ,lang,2,m,"amado, rebecca",old greenwich,ct,06870
+robert, ,lang,4,m,"thompson, kevin",old greenwich,ct,06870
+edward,b,lansing,8,m,"mcglynn, robert",greenwich,ct,06830
+peter, ,lansing,7,m,"koke, kathleen",greenwich,ct,06830
+ella,stephanie anastazia,larken,7,f,"abreu, diana",greenwich,ct,06831
+jasper,james stuart,larken,3,m,"sweeney, ellen",greenwich,ct,06831
+piper,stewart,larkin,k,f,"suter, elizabeth",bedford corners,ny,10549
+gemma, ,larsen,9,f,"allen, tara",riverside,ct,06878
+eamon,shane,lavin,3,m,"laubscher, luke",old greenwich,ct,06870
+james,patrick,lavin,8,m,"karrat, richard",old greenwich,ct,06870
+owen,charles,lavin,6,m,"cornell, eric",old greenwich,ct,06870
+kathryn,landry,le,5,f,"morelli, adam",greenwich,ct,06830
+zoe,landry,le,5,f,"paine, tucker",greenwich,ct,06830
+colin,james,lee,8,m,"preston, peter",old greenwich,ct,06870
+walker,brooks,lee,pk,m,"merritt, merritt",greenwich,ct,06830
+trexin,conboy,lehn,pk,m,"whittlesey, sara",greenwich,ct,06830
+caroline,kelly,leicht,9,f,"bachleitner, sarina",mamaroneck,ny,10543
+maxwell,robert,leininger,10,m,"waller, lauren",greenwich,ct,06831
+kathleen, ,lentini,8,f,"preston, peter",greenwich,ct,06831
+beatrice,wren,lescoe,n,f,"sepot, sarah",greenwich,ct,06830
+robert,aaron,levien,5,m,"abraham, jennifer",greenwich,ct,06830
+andrew,wentworth,lewis,8,m,"karrat, richard",bedford,ny,10506
+scarlett,jiayi,li,4,f,"molyneux, eleanor",riverside,ct,06878
+carter,james,linardos,9,m,"helstein, timothy",greenwich,ct,06830
+jack,henry,linardos,11,m,"fernandez, j. andy",greenwich,ct,06830
+william,davis,linardos,6,m,"hasapis, anthony",greenwich,ct,06830
+james,hunter,lindstrom,1,m,"arcati, abigail",greenwich,ct,06831
+logan,harold,lindstrom,9,m,"roth, lauren",cos cob,ct,06807
+lucas,james macleod,lippey,7,m,"withrow, morgan",greenwich,ct,06830
+tal,aryeh,lipschitz,7,m,"abreu, diana",old greenwich,ct,06870
+claire,frances,lisowski,1,f,"brown, devon",greenwich,ct,06830
+maren,catherine,lisowski,pk,f,"merritt, merritt",greenwich,ct,06830
+chloe,jackson,litt,9,f,"katona, peter",stamford,ct,06903
+evan,richard,livigni,9,m,"curry, patrick",stamford,ct,06903
+john,anthony,lonski,9,m,"de teso, jeffrey ",white plains,ny,10605
+julian,matthew,lopez,7,m,"abreu, diana",norwalk,ct,06854
+kelsi,angelica,lopez,k,f,"bayless, laurel",norwalk,ct,06854
+matthew, ,love,1,m,"hanley, caroline",greenwich,ct,06831
+francesca,alagna,loverro,8,f,"corson, flynn",greenwich,ct,06831
+jane,louisa,loverro,5,f,"lowe, elizabeth",riverside,ct,06878
+john, ,loverro,3,m,"sweeney, ellen",riverside,ct,06878
+nina,margery,loverro,1,f,"schofield, jocelyn",riverside,ct,06878
+philippa,edith,loverro,4,f,"cauldwell, sarah",greenwich,ct,06831
+tessa, ,loverro,10,f,"winters, christopher",greenwich,ct,06831
+jacqueline,rae,lubarsky,12,f,"reynolds, jason",greenwich,ct,06831
+bradley,anderson,ludvik,k,m,"suter, elizabeth",greenwich,ct,06830
+sarah, ,lukes,6,f,"long, william",rye,ny,10580
+katharine,charleston,lumby,n,f,"sugrue, martha",stamford,ct,06903
+bodie,anthony,lupo,k,m,"weintraub, jennifer",greenwich,ct,06830
+holden,allan,lupo,4,m,"hall, jane",greenwich,ct,06830
+wyatt,augustus,lupo,7,m,"harrington, edward",greenwich,ct,06830
+carter,hudson,macdougall,1,m,"morton, monica",greenwich,ct,06830
+dylan,paige,macdougall,4,f,"garcia, madeline",greenwich,ct,06830
+mackenzie,kyle,macdougall,pk,f,"merritt, merritt",greenwich,ct,06830
+abigail,jane,mackay,4,f,"lehn, stephanie",greenwich,ct,06830
+sarah,jacqueline,mackay,k,f,"lee, kelsey",greenwich,ct,06830
+christian,david,madon,8,m,"basinet, matthew",darien,ct,06820
+anniston,jane,mahaffy,7,f,"harrington, edward",greenwich,ct,06831
+devon,lee,mahaffy,6,f,"castrigano, daniel",greenwich,ct,06831
+lila, ,malone,6,f,"righter, holly",stamford,ct,06905
+jayne,elizabeth,mangan,9,f,"reynolds, jason",greenwich,ct,06831
+harry,danger,manion,9,m,"feder, stephen",cos cob,ct,06807
+georgia,caryn,mann,10,f,"helpern, joseph",greenwich,ct,06830
+lola, ,manuel,9,f,"scanlon, patrick",greenwich,ct,06830
+michael,peter,manuel,7,m,"donnalley, jennifer",greenwich,ct,06830
+thomas, ,manuel,3,m,"paiva, glaura",greenwich,ct,06830
+rebeca, ,manzo,9,f,"grasso, nick",riverside,ct,06878
+ella,blakely,marsh,k,f,"foster, claudia",greenwich,ct,06830
+finley,carpenter,marshall,8,f,"bixler, claire",riverside,ct,06878
+catherine,caulfield,martinez,6,f,"paul, adrienne",riverside,ct,06878
+luke,gregory,martinez,8,m,"carnegie, britt",riverside,ct,06878
+richard, ,marzullo-jaglal,4,m,"molyneux, eleanor",cos cob,ct,06807
+madeline,grace,mascera,1,f,"schofield, jocelyn",greenwich,ct,06830
+david,jared,matthews,11,m,"kucher, david",port chester,ny,10573
+alice,kimball,mattis,5,f,"paine, tucker",greenwich,ct,06831
+eve,camilla,mattis,2,f,"mena, betsy",greenwich,ct,06831
+maya,felicity,maymin,5,f,"abraham, jennifer",greenwich,ct,06831
+stella,penelope,maymin,8,f,"spooner, marshall",greenwich,ct,06831
+tobin,benjamin philip,maymin,pk,m,"belden, sheila",greenwich,ct,06831
+julia, ,maza palma,2,f,"amado, rebecca",greenwich,ct,06830
+valeria, ,maza palma,5,f,"lowe, elizabeth",greenwich,ct,06830
+blanca,evelyn,mcbeth,1,f,"morton, monica",greenwich,ct,06830
+lucinda,vds bush,mccall,8,f,"salazar, jos‹¨«",greenwich,ct,06830
+piper,paisley,mccall,3,f,"deteso, tracy",greenwich,ct,06831
+saoirse, ,mccarroll,k,f,"bayless, laurel",greenwich,ct,06831
+myles, ,mcclary,2,m,"nadler, carolyn",norwalk,ct,06851
+aleksei,garner,mccormack,n,m,"sepot, sarah",greenwich,ct,06830
+robert,david,mccormack,k,m,"lee, kelsey",greenwich,ct,06830
+dylan,james,mccormick,12,m,"katona, peter",norwalk,ct,06851
+paige,armour,mcdonnell,9,f,"mezzo, michael",rowayton,ct,06853
+john,paul,mcgovern,4,m,"thompson, kevin",greenwich,ct,06830
+anne,li,mcgraw,6,f,"milostan, mark",greenwich,ct,06830
+charles,robert,mcgraw,6,m,"howe, jeffrey",greenwich,ct,06830
+henry, ,mcintyre,n,m,"sepot, sarah",darien,ct,06820
+winifred,fletcher,mcintyre,k,f,"lee, kelsey",darien,ct,06820
+ainsley,claire,mckee,8,f,"bixler, claire",darien,ct,06820
+brynnley, ,mckee,5,f,"morelli, adam",darien,ct,06820
+isabella, ,medina,8,f,"kelly, shaun",old greenwich,ct,06870
+blake,austin,melnikoff,4,m,"cauldwell, sarah",greenwich,ct,06830
+reese,elizabeth,melnikoff,2,f,"miller, brian",greenwich,ct,06830
+wyatt,brinley,melnikoff,4,m,"molyneux, eleanor",greenwich,ct,06830
+luke,douglas,merrill,7,m,"jones, taylor",old greenwich,ct,06870
+hunter,john,merritt,8,m,"moore, laura",greenwich,ct,06831
+taylor,blake,messina,6,f,"righter, holly",old greenwich,ct,06870
+annabelle,reed,meyers,n,f,"sugrue, martha",greenwich,ct,06830
+elizabeth,rose,meyers,1,f,"hanley, caroline",greenwich,ct,06830
+josephine,wood,meyers,3,f,"sweeney, ellen",bedford,ny,10506
+skyler,robbins,meyers,9,m,"graham, jane",bedford,ny,10506
+theodore, ,meyers,6,m,"morton, adele",bedford,ny,10506
+antonio, ,miguens,9,m,"lehn, austin",greenwich,ct,06830
+felipe,s.,miguens,6,m,"hasapis, anthony",greenwich,ct,06830
+alexander, ,mihailovich,7,m,"aronowsky, ellen",stamford,ct,06902
+jillian, ,mihailovich,7,f,"gussis, james",stamford,ct,06902
+luke, ,miles,7,m,"abreu, diana",greenwich,ct,06831
+abraham,samuel,milgram,7,m,"aronowsky, ellen",greenwich,ct,06830
+hannah,frances,milgram,pk,f,"whittlesey, sara",greenwich,ct,06830
+madeline,hazel,milgram,4,f,"garcia, madeline",greenwich,ct,06830
+jack,william,miller,7,m,"withrow, morgan",greenwich,ct ,06830
+keira,meadow,miller,k,f,"foster, claudia",stamford,ct,06905
+sofie,anne,miller,2,f,"diminno, katherine",stamford,ct,06905
+george,gardner,minchin,7,m,"gussis, james",greenwich,ct,06830
+theodore,lynch,minchin,9,m,"waller, lauren",greenwich,ct,06830
+gayle, ,miranda,10,f,"hubertus, shannon",south salem,ny,10590
+alexandra,evangeline,mollett,4,f,"molyneux, eleanor",greenwich,ct,06830
+beckett,bishopp,mollett,2,m,"nadler, carolyn",greenwich,ct,06830
+matthew,richard,mollett,pk,m,"merritt, merritt",greenwich,ct,06830
+maeve,jennifer,molloy,5,f,"sinay, aaron",riverside,ct,06878
+vivienne,noelle,molloy,3,f,"paiva, glaura",riverside,ct,06878
+charlie, ,moloney,6,m,"childs, hilary",rye,ny,10580
+grace, ,moloney,6,f,"gadsden, samantha",rye,ny,10580
+harry, ,moloney,8,m,"carnegie, britt",rye,ny,10580
+maddox, ,monterisi,4,m,"cauldwell, sarah",cos cob,ct,06807
+brooks,james,montgomery,pk,m,"merritt, merritt",old greenwich,ct,06870
+rylie,rose,montgomery,1,f,"schofield, jocelyn",old greenwich,ct,06870
+natalie,elizabeth,moore,8,f,"karrat, richard",greenwich,ct,06830
+silas, ,moore,2,m,"miller, brian",greenwich,ct,06830
+spencer,lane,moore,9,m,"de teso, jeffrey ",greenwich,ct,06830
+william, ,moore,2,m,"nadler, carolyn",greenwich,ct,06830
+charlotte,wakefield,morningstar,6,f,"dandola, matthew",greenwich,ct,06830
+jack,armstrong,morningstar,8,m,"spooner, marshall",greenwich,ct,06830
+chloe,reese,morris,4,f,"hall, jane",cos cob,ct,06807
+hadley,olivia,morris,3,f,"paiva, glaura",cos cob,ct,06807
+layla,jo,morris,6,f,"howe, jeffrey",cos cob,ct,06807
+charles, ,morrissy,pk,m,"merritt, merritt",riverside,ct,06878
+mary kate, ,morrissy,3,f,"sweeney, ellen",riverside,ct,06878
+william, ,morrissy,pk,m,"walker, leslea",riverside,ct,06878
+max, ,morton,pk,m,"belden, sheila",white plains,ny,10605
+cocoro,emily,motoyoshi,10,f,"kucher, david",stamford,ct,06903
+mao,sophia,motoyoshi,9,f,"grasso, nick",stamford,ct,06903
+matthew,alejandro,mottola,3,m,"sweeney, ellen",pound ridge,ny,10576
+sabrina,saka‹¨«,mottola,6,f,"childs, hilary",pound ridge,ny,10576
+charlotte,wagner,mueller,pk,f,"merritt, merritt",greenwich,ct,06831
+wolfgang,baldwin,mueller,1,m,"brown, devon",greenwich,ct,06831
+sarafia,maria,mughwai,11,f,"bachleitner, sarina",stamford,ct,06905
+elijah,altier,murphy,8,m,"mcglynn, robert",old greenwich,ct,06870
+logan, ,murphy,10,f,"helpern, joseph",norwalk,ct,06851
+lucy,sullivan,murphy,2,f,"diminno, katherine",old greenwich,ct,06870
+tessa,ruth,murphy,6,f,"thorner, katie",old greenwich,ct,06870
+lucas,glen,murray,9,m,"grasso, nick",greenwich,ct,06830
+adam, ,nedzamar,9,m,"campbell, gordon",mt. vernon,ny,10552
+luke,james,nelson,9,m,"bachleitner, sarina",old greenwich,ct,06870
+harper, ,neri,pk,f,"whittlesey, sara",greenwich,ct,06831
+cullen, ,new,4,m,"lehn, stephanie",bedford,ny,10506
+denisa, ,neza,9,f,"allen, tara",port chester,ny,10573
+mccrory,wells,niblock,6,m,"castrigano, daniel",cos cob,ct,06807
+townsend,ross,niblock,3,m,"laubscher, luke",cos cob,ct,06807
+annie,elizabeth,noble,5,f,"paine, tucker",old greenwich,ct,06870
+anisa,roxelana,nusseibeh,3,f,"deteso, tracy",greenwich,ct,06831
+sarimir,vladimir,nusseibeh,5,m,"morelli, adam",greenwich,ct,06831
+cassidy,rose,o'donnell,2,f,"nadler, carolyn",stamford,ct,06902
+grace,johanna,o'donnell,k,f,"lee, kelsey",stamford,ct,06902
+maeve,elizabeth,o'shaughnessy,n,f,"sugrue, martha",cos cob,ct,06807
+pierce,michael,o'shaughnessy,k,m,"weintraub, jennifer",cos cob,ct,06807
+naomi, ,oberweger,9,f,"foster, idara",riverside,ct,06878
+langston,kobbie,obuobi-donkor,5,m,"abraham, jennifer",bronx,ny,10475
+alessandro, ,odierno,3,m,"sweeney, ellen",greenwich,ct,06830
+gianluca, ,odierno,3,m,"deteso, tracy",greenwich,ct,06830
+benjamin,wolf,offit,10,m,"ramirez, alnardo",greenwich,ct,06830
+evelyn,susan,offit,9,f,"feder, stephen",greenwich,ct,06830
+connor,james,ohl,6,m,"gadsden, samantha",greenwich,ct,06830
+ryan, ,ohl,8,m,"salazar, jos‹¨«",greenwich,ct,06830
+anna,winston,oliver,8,f,"tennyson, jesse",cos cob,ct,06807
+thomas, ,oliver,4,m,"hall, jane",cos cob,ct,06807
+james, ,omstrom,n,m,"baird, christine",old greenwich,ct,06870
+christine,michelle,ordway,4,f,"hall, jane",riverside,ct,06878
+theodore,andrew,orekar,1,m,"arcati, abigail",greenwich,ct,06830
+janet, ,orozco,10,f,"de teso, jeffrey ",new rochelle,ny,10801
+louisa,gregg,orum,3,f,"sweeney, ellen",greenwich,ct,06830
+tuckerman,walter,orum,1,m,"arcati, abigail",greenwich,ct,06830
+william,cooper,orum,pk,m,"whittlesey, sara",greenwich,ct,06830
+genevieve,james,oveissi,n,f,"baird, christine",cos cob,ct,06807
+olympia,joon,oveissi,1,f,"morton, monica",cos cob,ct,06807
+jonathon,suarez,packard,5,m,"lowe, elizabeth",greenwich,ct,06830
+samantha,sierra,packard,3,f,"puntereri, maria",greenwich,ct,06830
+kalyna,elizabeth,paine,n,f,"baird, christine",greenwich,ct,06830
+bradley,edward,palmer,7,m,"jones, taylor",greenwich,ct,06830
+taitum,anthony jack,palmer,1,m,"schofield, jocelyn",greenwich,ct,06830
+lucas, ,pan,k,m,"bayless, laurel",greenwich,ct,06831
+luciana, ,paradiso,7,f,"gussis, james",greenwich,ct,06830
+brooks,jon,pardi,1,m,"schofield, jocelyn",riverside,ct,06878
+hayden,noelle,pardi,2,f,"miller, brian",riverside,ct,06878
+cael,thomas hargrove,parker,5,m,"johnson, elizabeth",greenwich,ct,06831
+maxwell,braxton,parker,3,m,"deteso, tracy",greenwich,ct,06831
+mitchell, ,parron,9,m,"ruoss, andrew",greenwich,ct,06830
+henry,william,pascarella,6,m,"milostan, mark",greenwich,ct,06830
+charlotte,bette,pastel,7,f,"gagnon, eleanor",greenwich,ct,06830
+jackson,howard,pastel,5,m,"abraham, jennifer",greenwich,ct,06830
+blake,samuel,patchen,k,m,"weintraub, jennifer",greenwich,ct,06831
+lilly,kate,patchen,4,f,"thompson, kevin",greenwich,ct,06831
+sophie,claire,patchen,6,f,"righter, holly",greenwich,ct,06831
+penelope,claire,patel,pk,f,"whittlesey, sara",riverside,ct,06878
+cateleya,joy,paul,pk,f,"whittlesey, sara",cos cob,ct,06807
+steve,emmanuel,paul,8,m,"spooner, marshall",stamford,ct,06902
+annaleis, ,pauletti,2,f,"amado, rebecca",greenwich,ct,06830
+willa,mae,pauletti,pk,f,"walker, leslea",greenwich,ct,06830
+peter,sanford,pauley,10,m,"curry, patrick",bedford,ny,10506
+allegra, ,peardon,10,f,"de vries, jonathan",greenwich,ct,06830
+octavia, ,peardon,8,f,"spencer, eliot",greenwich,ct,06830
+ewan,coleman,peck,2,m,"diminno, katherine",greenwich,ct,06830
+azsadee,t.,peek,9,f,"grasso, nick",stamford,ct,06903
+arya, ,pelletier,5,f,"sinay, aaron",cos cob,ct,06807
+kalyan,bhargava,pelletier,3,m,"puntereri, maria",cos cob,ct,06807
+alexandra,shea,pennella,9,f,"scanlon, patrick",stamford,ct,06902
+jaxson,cole,perez,5,m,"lowe, elizabeth",greenwich,ct,06831
+raymond,kal-el,perez,7,m,"aronowsky, ellen",greenwich,ct,06831
+alexandra, ,perl,10,f,"helpern, joseph",scarsdale,ny,10583
+jack,robert,peters,6,m,"milostan, mark",greenwich,ct,06831
+josephine,joann,peters,1,f,"schofield, jocelyn",greenwich,ct,06831
+haley,paige,petrini,3,f,"paiva, glaura",greenwich,ct,06831
+reagan,sincaid,pflueger,7,f,"donnalley, jennifer",stamford,ct,0'06906-2125
+sydney,grace,phillips,2,f,"nadler, carolyn",greenwich,ct,06830
+jeffrey, ,piper,6,m,"thorner, katie",greenwich,ct,06830
+john,robert,piper,5,m,"johnson, elizabeth",greenwich,ct,06830
+william,scott,piper,11,m,"columbo, richard",cos cob,ct,06807
+georgiana,olivia,platsis,3,f,"sweeney, ellen",greenwich,ct,06830
+emma,read,pless,5,f,"gilch, jennifer",greenwich,ct,06830
+john,tilghman,pless,pk,m,"walker, leslea",greenwich,ct,06830
+sophie,livingston,pless,3,f,"paiva, glaura",greenwich,ct,06830
+eliot,joshua,ploog,10,m,"alper, jordan",greenwich,ct,06830
+colin,thrift,politi,3,m,"paiva, glaura",stamford,ct,06902
+kevin,thrift,politi,5,m,"johnson, elizabeth",stamford,ct,06902
+addison,mary,polo,5,f,"lowe, elizabeth",greenwich,ct,06830
+carson,montgomery,powell,7,m,"koke, kathleen",stamford,ct,06905
+mitchel,bradford,powell,6,m,"righter, holly",greenwich,ct,06830
+richard,michael,powell,9,m,"roth, lauren",greenwich,ct,06830
+zachary,wheeler,powell,9,m,"scanlon, patrick",stamford,ct,06905
+cielle,cerena,presutti,7,f,"gagnon, eleanor",greenwich,ct,06831
+elle, ,presutti,2,f,"mena, betsy",greenwich,ct,06830
+luc,louis,presutti,5,m,"sinay, aaron",greenwich,ct,06831
+michael, ,presutti,1,m,"schofield, jocelyn",greenwich,ct,06830
+luca, ,procaccini,3,m,"puntereri, maria",greenwich,ct,06831
+matteus, ,procaccini,n,m,"sepot, sarah",greenwich,ct,06831
+satie,elo‹¨«se,procaccini,1,f,"brown, devon",greenwich,ct,06831
+crawford,mcmahan,puntereri,k,m,"foster, claudia",greenwich,ct,06830
+marion,rose,puntereri,3,f,"sweeney, ellen",greenwich,ct,06830
+adelynn,rose,radcliffe,n,f,"sepot, sarah",bedford,ny,10506
+alexander,mackintosh,raezer,9,m,"mezzo, michael",greenwich,ct,06830
+amanda,hedley,raezer,2,f,"nadler, carolyn",greenwich,ct,06830
+rami, ,rahman,5,m,"morelli, adam",greenwich,ct,06831
+nikhil,hans,raval,5,m,"gilch, jennifer",riverside,ct,06878
+john,wyatt,recchia,9,m,"allen, tara",cos cob,ct,06807
+olivia,sloan,recchia,5,f,"morelli, adam",cos cob,ct,06807
+ashton,blake,reddy,4,m,"cauldwell, sarah",greenwich,ct,06831
+scarlett,jacquelyn,reddy,3,f,"paiva, glaura",greenwich,ct,06831
+jack, ,reisner,10,m,"mcdonald, stephanie",rye,ny,10580
+maddox,harry,reisner,8,m,"salazar, jos‹¨«",rye,ny,10580
+rylee, ,rene,k,f,"bayless, laurel",greenwich,ct,06836
+edith,phillips,renwick,k,f,"suter, elizabeth",greenwich,ct,06830
+louise,james,renwick,6,f,"childs, hilary",greenwich,ct,06830
+lyneth, ,restrepo,9,f,"foster, idara",stamford,ct,06906
+loulie,alicia,reyes,7,f,"doyle, shannon",greenwich,ct,06831
+mia,grace,reyes,6,f,"morton, adele",greenwich,ct,06831
+carolina,elizabeth,reyna,4,f,"hall, jane",bedford corners,ny,10549
+joah-mikel, ,reyna,7,m,"wohl, lindsey",bedford corners,ny,10549
+caleigh,macgregor,reynolds,3,f,"puntereri, maria",greenwich,ct,06830
+maeve,kathlyn,reynolds,4,f,"cauldwell, sarah",greenwich,ct,06830
+noah,felton,rhodes ,k,m,"foster, claudia",greenwich,ct,06830
+scotland,jane,rhodes,1,f,"brown, devon",greenwich,ct,06830
+hollis, ,richard,7,f,"aronowsky, ellen",greenwich,ct,06830
+kayla,chelsea,richards,10,f,"de vries, jonathan",stamford,ct,06903
+maxwell,chase,richards,8,m,"bixler, claire",stamford,ct,06903
+ellie,ann,riess,6,f,"paul, adrienne",greenwich,ct,06830
+austin,thakar,rinello,7,m,"waller, robert",greenwich,ct,06830
+jesse, ,ripka,8,m,"salazar, jos‹¨«",armonk,ny,10504
+felicity,madeleine,ristau,5,f,"morelli, adam",greenwich,ct,06831
+landon,stanley,ristau,7,m,"donnalley, jennifer",greenwich,ct,06831
+carylin,anne,rivera,12,f,"feder, stephen",stamford,ct,06905
+adelaide,rose,rizzo,1,f,"morton, monica",darien,ct,06820
+eloise,georgia,rizzo,3,f,"laubscher, luke",darien,ct,06820
+georgia,hutson,rizzo,k,f,"foster, claudia",darien,ct,06820
+clifford,daniel,roach,1,m,"brown, devon",greenwich,ct,06830
+evelyn,louise,roach,5,f,"morelli, adam",greenwich,ct,06830
+francis, ,roach,k,m,"suter, elizabeth",greenwich,ct,06830
+john,louis,roach,10,m,"scanlon, patrick",greenwich,ct,06830
+mae,battista,roach,3,f,"deteso, tracy",greenwich,ct,06830
+thomas,shea,roach,6,m,"cornell, eric",greenwich,ct,06830
+warren,denning,roach,8,m,"corson, flynn",greenwich,ct,06830
+charles,a,robertson,5,m,"sinay, aaron",riverside,ct,0'06878-2303
+kingsley,jane,robertson,k,f,"lee, kelsey",old greenwich,ct,06870
+rivers,william alexander,robertson,n,m,"sepot, sarah",old greenwich,ct,06870
+ryan,m,robertson,3,m,"deteso, tracy",riverside,ct,0'06878-2303
+henry, ,robinson,7,m,"abreu, diana",greenwich,ct,06830
+rowland,halsey,robinson,10,m,"iversen, annette",greenwich,ct,06831
+martin, ,robredo,5,m,"gilch, jennifer",greenwich,ct,06830
+juelle, ,roc,7,f,"doyle, shannon",stamford,ct,06905
+alexander,howard,rogozinski,9,m,"kast, julie",riverside,ct,06878
+cal, ,rohdie,10,m,"colon bradt, christina",greenwich,ct,06830
+zachary,michael,rohdie,7,m,"mcgovern, michael",greenwich,ct,06830
+justin, ,roldan,10,m,"dutcher, andrew",stamford,ct,06902
+nichole, ,roldan,12,f,"mcdonald, stephanie",stamford,ct,06902
+alexander,william arredondo,rolfe,8,m,"mcglynn, robert",greenwich,ct,06830
+alexander,tanner,rose,2,m,"amado, rebecca",greenwich,ct,06831
+eleanor,beaumont,rose,5,f,"paine, tucker",greenwich,ct,06831
+tucker,lawrence,rose,8,m,"carnegie, britt",greenwich,ct,06831
+winston,cooper,rose,6,m,"dandola, matthew",greenwich,ct,06831
+asher,liam,rosen,6,m,"thorner, katie",old greenwich,ct,06870
+ayla,pearl,rosen,1,f,"hanley, caroline",old greenwich,ct,06870
+eitan,simon,rosen,7,m,"rosenberg, lauren",old greenwich,ct,06870
+eli,russell,rosen,7,m,"mcgovern, michael",old greenwich,ct,06870
+harley,sophia,rosenbaum,2,f,"mena, betsy",purchase,ny,10577
+katherine, ,rosenbaum,2,f,"amado, rebecca",purchase,ny,10577
+zachary, ,rosenbaum,6,m,"childs, hilary",greenwich,ct,06830
+graydon,reed,ross,6,m,"thorner, katie",darien,ct,06820
+mackenzie,nicole,ross,10,f,"kast, julie",stamford,ct,06902
+jaden, ,royal,3,m,"sweeney, ellen",stamford,ct,06906
+justin, ,royal,3,m,"laubscher, luke",stamford,ct,06906
+anna,linda,rubenstein,3,f,"laubscher, luke",riverside,ct,06878
+jack,thomas,rubenstein,5,m,"lowe, elizabeth",riverside,ct,06878
+jake,james,rupe,9,m,"grasso, nick",scarsdale,ny,10583
+jacqueline,grace,ryckman,8,f,"kelly, shaun",riverside,ct,06878
+lucia,ingrid,saavedra,9,f,"latimore, anais",port chester,ny,10573
+mauricio,james,saavedra,12,m,"iversen, annette",port chester,ny,10573
+bora,ozdemir,sabanci,10,m,"reynolds, jason",greenwich,ct,06830
+oya,tuluhan,sabanci,9,f, ,greenwich,ct,06830
+benjamin,peter,sachs,1,m,"hanley, caroline",greenwich,ct,06830
+connor,brandt,sachs,1,m,"schofield, jocelyn",greenwich,ct,06830
+william,michael,sachs,3,m,"sweeney, ellen",greenwich,ct,06830
+mat‹¨«as,allen,salazar,3,m,"paiva, glaura",greenwich,ct,06830
+sof‹¨«a,alanna,salazar,6,f,"long, william",greenwich,ct,06830
+andrew,ludwig,salce,5,m,"paine, tucker",greenwich,ct,06830
+katherine,anne,salce,7,f,"koke, kathleen",greenwich,ct,06830
+taylor,ann,sall,7,f,"rosenberg, lauren",riverside,ct,06878
+kate, ,salomon,10,f,"campbell, gordon",greenwich,ct,06830
+catherine,capehart,salyer,4,f,"garcia, madeline",greenwich,ct,06831
+joseph,averett,salyer,k,m,"lee, kelsey",greenwich,ct,06831
+habiba,merdia,samson,1,f,"hanley, caroline",yonkers,ny,10710
+linna,rahmet,samson,4,f,"molyneux, eleanor",yonkers,ny,10710
+rihanna,habiba,samson,7,f,"withrow, morgan",yonkers,ny,10710
+liana,kaur,sandhu,k,f,"weintraub, jennifer",greenwich,ct,06830
+mateo,singh,sandhu,6,m,"hasapis, anthony",greenwich,ct,06830
+talia,kaur,sandhu,4,f,"hall, jane",greenwich,ct,06830
+samuel,william,santangelo,9,m,"bachleitner, sarina",greenwich,ct,06831
+hayden,daniel,santry,6,m,"righter, holly",greenwich,ct,6831
+dempsey,joan,scanlon,n,f,"sugrue, martha",stamford,ct,06902
+robert,louis,scaramella,k,m,"foster, claudia",greenwich,ct,06831
+wesley,adams,scaramella,n,m,"sepot, sarah",greenwich,ct,06831
+julia,danielle fiorito,schenck,9,f,"reynolds, jason",greenwich,ct,06830
+william,childs,schenck,11,m,"colon bradt, christina",greenwich,ct,06830
+henry,jonas,schmedlen,5,m,"morelli, adam",cos cob,ct,06807
+alexander,jones,schofield,k,m,"weintraub, jennifer",greenwich,ct,06830
+benjamin,walter,schuessler,6,m,"howe, jeffrey",cos cob,ct,06807
+aerin,rose,schwartz,5,f,"sinay, aaron",greenwich,ct,06831
+alexandra,greer,schwartz,8,f,"spencer, eliot",greenwich,ct,06831
+avery,neve,schwartz,2,f,"miller, brian",greenwich,ct,06831
+dylan,asher,schwartz,9,m,"allen, tara",bedford corners,ny,10549
+james, ,schwartz,6,m,"childs, hilary",old greenwich,ct,06870
+henry,nathaniel,schwefel,3,m,"puntereri, maria",greenwich,ct,06830
+jake,thaddeus,schwefel,2,m,"amado, rebecca",greenwich,ct,06830
+madelyn,harper,schwefel,k,f,"foster, claudia",greenwich,ct,06830
+william,cinader,scott,9,m,"fernandez, j. andy",greenwich,ct,06830
+sophia,floresta,seabra,7,f,"doyle, shannon",greenwich,ct,06830
+jessie, ,seaman,6,f,"long, william",greenwich,ct,06830
+mia, ,secko-thompson,6,f,"cornell, eric",norwalk,ct,06851
+jack,coyne,seibert,pk,m,"whittlesey, sara",greenwich,ct,06830
+vivienne, ,seibert,2,f,"amado, rebecca",greenwich,ct,06830
+henry,boxer,seidel,4,m,"lehn, stephanie",greenwich,ct,06830
+rebecca,adelaide caralon,seidel,4,f,"thompson, kevin",greenwich,ct,06830
+skylar,faith,seides,8,f,"spencer, eliot",old greenwich,ct,06870
+jack,thomas,sepot,6,m,"gadsden, samantha",greenwich,ct,06831
+harrison, ,servedio,7,m,"harrington, edward",greenwich,ct,06830
+oliver,john,servedio,5,m,"gilch, jennifer",greenwich,ct,06830
+jordyn, ,sesler,9,f,"roth, lauren",norwalk,ct,06854
+brooke,frances,setterberg,4,f,"garcia, madeline",greenwich,ct,06830
+paige,olivia,setterberg,8,f,"corson, flynn",greenwich,ct,06830
+vaughn,phoenix,shannonhouse,10,m,"kucher, david",stamford,ct,06902
+ellis, ,shapiro,k,f,"bayless, laurel",old greenwich,ct,06870
+megan,elizabeth,shapiro,8,f,"basinet, matthew",old greenwich,ct,06870
+sky,xin,shapiro,n,f,"sugrue, martha",old greenwich,ct,06870
+kira, ,sharma,k,f,"weintraub, jennifer",greenwich,ct,06831
+riya,kaur,sharma,4,f,"lehn, stephanie",stamford,ct,06902
+serena,rose,shaw,pk,f,"walker, leslea",greenwich,ct,06830
+hugh, ,sherriff,10,m,"hubertus, shannon",greenwich,ct,06830
+james,robert,sherriff,6,m,"howe, jeffrey",greenwich,ct,06830
+savanna,jaydon,shettler,9,f,"campbell, gordon",danbury,ct,6811
+bingxuan, ,shi,10,m,"carr, douglas",rye brook,ny,10573
+isabella,rose,shore,4,f,"cauldwell, sarah",stamford,ct,06903
+mackenzie,brooke,shore,k,f,"lee, kelsey",stamford,ct,06903
+alexandra, ,short,12,f,"hubertus, shannon",larchmont,ny,10538
+william, ,short,9,m,"hubertus, shannon",larchmont,ny,10538
+benjamin,michael,shribman,k,m,"foster, claudia",greenwich,ct,06831
+elizabeth,longan,shribman,n,f,"baird, christine",greenwich,ct,06831
+harrison,cohen,shribman,1,m,"brown, devon",greenwich,ct,06831
+clara,savery,sibley,6,f,"castrigano, daniel",riverside,ct,06878
+frances,thayer,sibley,8,f,"spencer, eliot",riverside,ct,06878
+john,holden,sibley,2,m,"amado, rebecca",riverside,ct,06878
+mateo, ,sierra,6,m,"milostan, mark",norwalk,ct,06854
+mila,zowie,sievwright,n,f,"baird, christine",greenwich,ct,06831
+bennett,myers,silva,k,m,"foster, claudia",old greenwich,ct,06870
+harrison,abbott,silva,2,m,"amado, rebecca",old greenwich,ct,06870
+celine,l,silvera,8,f,"spooner, marshall",stamford,ct,06906
+alexander,james,simko,6,m,"milostan, mark",riverside,ct,06878
+matthew, ,simpson iv,9,m,"reynolds, jason",bedford corners,ny,10549
+natalie,elizabeth,simpson,7,f,"harrington, edward",bedford corners,ny,10549
+ethan,pierce,singsen,9,m,"dutcher, andrew",greenwich,ct,06831
+william, ,slater,9,m,"mezzo, michael",greenwich,ct,06830
+avery,chase,sleeper,8,f,"bixler, claire",greenwich,ct,06831
+jack,l,slovin,4,m,"hall, jane",greenwich,ct,06831
+emily,susan,smith,1,f,"morton, monica",riverside,ct,06878
+holden,guy,smith,pk,m,"walker, leslea",cos cob,ct,06807
+nathaniel,peter,smith,5,m,"gilch, jennifer",riverside,ct,06878
+chloe,marie,sneddon,6,f,"paul, adrienne",greenwich,ct,06830
+ryan,francis,sneddon,7,m,"koke, kathleen",greenwich,ct,06830
+annetta,berit,solari,6,f,"paul, adrienne",greenwich,ct,06830
+george,hansten,solari,9,m,"winters, christopher",greenwich,ct,06830
+jacob,haakon,solomon,4,m,"thompson, kevin",greenwich,ct,06831
+mattea,josefine,solomon,5,f,"gilch, jennifer",greenwich,ct,06831
+atticus, ,somma,2,m,"miller, brian",greenwich,ct,06831
+maia, ,somma,8,f,"spencer, eliot",greenwich,ct,06831
+bella,floren,sozzi,2,f,"miller, brian",greenwich,ct,06830
+felicita, ,sozzi,k,f,"bayless, laurel",greenwich,ct,06831
+giacomo, ,sozzi,pk,m,"whittlesey, sara",greenwich,ct,06831
+lina,elena,sozzi,pk,f,"walker, leslea",greenwich,ct,06830
+raymond,douglas,sozzi,k,m,"bayless, laurel",greenwich,ct,06830
+alexandra,tabb,spizzirri,9,f,"alper, jordan",greenwich,ct,06831
+jacob,ray,spooner,2,m,"diminno, katherine",greenwich,ct,06831
+paige,elizabeth,spooner,k,f,"lee, kelsey",greenwich,ct,06831
+daniel, ,st-louis,8,m,"corson, flynn",stamford,ct,06902
+mckarly,leila-rae,staco,1,f,"arcati, abigail",greenwich,ct,06830
+matthew,parkins,staffieri,pk,m,"whittlesey, sara",greenwich,ct,06830
+william, ,staffieri,2,m,"mena, betsy",greenwich,ct,06830
+elena,sophia,stark,8,f,"basinet, matthew",pound ridge,ny,10576
+mia,eden,stark,6,f,"paul, adrienne",pound ridge,ny,10576
+thomas,miller,steel,9,m,"kast, julie",greenwich,ct,06830
+william,morris,steel,7,m,"gussis, james",greenwich,ct,06830
+enya,liana,steiner,2,f,"diminno, katherine",greenwich,ct,06831
+evangeline, ,steiner,4,f,"molyneux, eleanor",greenwich,ct,06831
+cole,patrick,stephens,2,m,"mena, betsy",riverside,ct,06878
+lawrence,arthur,stephens,4,m,"thompson, kevin",riverside,ct,06878
+owen,christopher,stephens,2,m,"miller, brian",riverside,ct,06878
+amanda,claire,sterling,k,f,"suter, elizabeth",greenwich,ct,06830
+daniel,philip,sterling,n,m,"baird, christine",greenwich,ct,06830
+charlotte,hoffman,stern,2,f,"nadler, carolyn",greenwich,ct,06830
+oliver,henry,stern,9,m,"columbo, richard",greenwich,ct,06830
+william,hoffman,stern,6,m,"milostan, mark",greenwich,ct,06830
+katherine,wood,sternberg,10,f,"ruoss, andrew",greenwich,ct,06830
+zachary,matthias,sternberg,10,m,"helpern, joseph",greenwich,ct,06830
+owen,frederic,steuerer,k,m,"lee, kelsey",riverside,ct,06878
+yizhi, ,sun,7,m,"rosenberg, lauren",greenwich,ct,06830
+christian,giancarlo,suy,6,m,"morton, adele",stamford,ct,06902
+eloise,marie,swanson,k,f,"weintraub, jennifer",greenwich,ct,06830
+robert, ,swanson,pk,m,"whittlesey, sara",greenwich,ct,06830
+isabella,beibei,tang,k,f,"bayless, laurel",greenwich,ct,06831
+matthew,siqi,tang,2,m,"mena, betsy",greenwich,ct,06831
+mia,meir,tang,1,f,"morton, monica",greenwich,ct,06831
+justin,maverick,tannenbaum,pk,m,"merritt, merritt",old greenwich,ct,06870
+kristen, ,tanner,11,f,"de teso, jeffrey ",greenwich,ct,06831
+andrew,james,tar,k,m,"suter, elizabeth",ridgefield,ct,6877
+sophia, ,tarbell-arnaboldi,11,f,"waller, lauren",greenwich,ct,06830
+cooper,emdad,taylor,6,m,"castrigano, daniel",greenwich,ct,06830
+kiron,emdad,taylor,4,f,"lehn, stephanie",greenwich,ct,06830
+sienna, ,tedeschi,n,f,"sepot, sarah",greenwich,ct,06830
+addison,leigh,teixeira,6,f,"gadsden, samantha",cos cob,ct,06807
+jack,gordon,teixeira,7,m,"aronowsky, ellen",cos cob,ct,06807
+william,charles,teixeira,3,m,"paiva, glaura",cos cob,ct,06807
+evan,ryan,tello,5,m,"johnson, elizabeth",stamford,ct,06906
+david,j,tennyson,n,m,"sugrue, martha",greenwich,ct,06830
+john,charles,terry,6,m,"paul, adrienne",bedford,ny,10506
+colby,leigh,thaler,pk,f,"merritt, merritt",greenwich,ct,06830
+john,wolfgang,thaler,3,m,"sweeney, ellen",greenwich,ct,06830
+william,anthony,thaler,2,m,"nadler, carolyn",greenwich,ct,06830
+jackson,jeremy,thekkekara,k,m,"weintraub, jennifer",greenwich,ct,06830
+agnes,jane,thomaier,pk,f,"merritt, merritt",greenwich,ct,06830
+andrew,edward,thompson,9,m,"fernandez, j. andy",stamford,ct,06903
+charles,campbell,thompson,11,m,"iversen, annette",darien,ct,06820
+crosby,keeler,thompson,5,m,"paine, tucker",riverside,ct,06878
+noah,james,thompson,k,m,"weintraub, jennifer",cos cob,ct,06807
+philipp, ,timashev,3,m,"laubscher, luke",greenwich,ct,06830
+cecily,beatrice,todd,8,f,"moore, laura",rye,ny,10580
+jane,clarke,tortorella,9,f,"mcdonald, stephanie",old greenwich,ct,06870
+julian,nicholas,toub,6,m,"gadsden, samantha",greenwich,ct,06830
+colten,michael,trepp,7,m,"mcgovern, michael",darien,ct,06820
+connor,bryce,trepp,3,m,"deteso, tracy",darien,ct,06820
+morgan,avery,trepp,3,f,"laubscher, luke",darien,ct,06820
+henri,leon,tricot,n,m,"sepot, sarah",cos cob,ct,06807
+theodore, ,tricot,k,m,"bayless, laurel",cos cob,ct,06807
+anna,valentina,triplett,4,f,"thompson, kevin",greenwich,ct,06831
+thomas,nicholas,triplett,5,m,"sinay, aaron",greenwich,ct,06831
+calder,james,truesdale,8,m,"spencer, eliot",greenwich,ct,06831
+capri,lillian,truesdale,5,f,"sinay, aaron",greenwich,ct,06831
+catherine,sophia,tucker,8,f,"tennyson, jesse",greenwich,ct,0'06831-3134
+chase,elizabeth,tucker,5,f,"paine, tucker",greenwich,ct,0'06831-3134
+claire, ,tucker,3,f,"deteso, tracy",greenwich,ct,0'06831-3134
+isabella, ,turek,9,f,"lehn, austin",stamford,ct,06905
+veronica, ,turek,12,f,"graham, jane",stamford,ct,06905
+alberto,ernesto,ubina,4,m,"hall, jane",greenwich,ct,06831
+julio,mario,ubina,6,m,"long, william",greenwich,ct,06831
+elizabeth,anne,unger,7,f,"aronowsky, ellen",old greenwich,ct,06870
+madeline,ellis,unger,5,f,"johnson, elizabeth",old greenwich,ct,06870
+sofia, ,urbina,10,f,"katona, peter",stamford,ct,06902
+jack,walker,vadasdi,4,m,"molyneux, eleanor",old greenwich,ct,06870
+sophie, ,vadasdi,2,f,"amado, rebecca",old greenwich,ct,06870
+evelyn, ,valencia,7,f,"abreu, diana",new rochelle,ny,10801
+alexander, ,van niekerk,9,m,"waller, lauren",old greenwich,ct,06870
+winslow,volckert,van reesema,3,m,"paiva, glaura",old greenwich,ct,06870
+carolyn,elizabeth,vanderbilt,2,f,"mena, betsy",greenwich,ct,06830
+carter,morgan,vanneck,6,m,"castrigano, daniel",greenwich,ct,06831
+lion,august elejalde,vazquez,k,m,"suter, elizabeth",stamford,ct,06905
+lucie,celina elejalde,vazquez,pk,f,"belden, sheila",stamford,ct,06905
+reese,hunter,velishka,8,m,"karrat, richard",stamford,ct,06902
+vijay, ,verma,9,m,"feder, stephen",greenwich,ct,06831
+lilian,barbara,vincent,8,f,"preston, peter",greenwich,ct,06830
+charles,polyvios,vintiadis,4,m,"garcia, madeline",greenwich,ct,06830
+jason,holden,vintiadis,6,m,"dandola, matthew",greenwich,ct,06830
+marina,kane,vintiadis,3,f,"paiva, glaura",greenwich,ct,06830
+nicholas,keane,vita,n,m,"sugrue, martha",greenwich,ct,06830
+zachary, ,vitanza,8,m,"moore, laura",greenwich,ct,06830
+avery,breslin,vittone,6,f,"morton, adele",greenwich,ct,06831
+cole,stephen,von der ahe,3,m,"deteso, tracy",greenwich,ct,06830
+ethan,james,von der ahe,7,m,"rosenberg, lauren",greenwich,ct,06830
+graham,andrew,von der ahe,6,m,"cornell, eric",greenwich,ct,06830
+elinore,dooney,wall,7,f,"koke, kathleen",greenwich,ct,06831
+phyllis,doherty,wall,7,f,"wohl, lindsey",greenwich,ct,06831
+sacha, ,wallace,11,m,"feder, stephen",larchmont,ny,10538
+caleigh,doris,wallack,8,f,"corson, flynn",riverside,ct,06878
+connor,lee,walmsley,k,m,"suter, elizabeth",greenwich,ct,06830
+ryan,forrester,walmsley,3,m,"puntereri, maria",greenwich,ct,06830
+abigail,spencer barlow,walsh,10,f,"ramirez, alnardo",greenwich,ct,06830
+hunter,mara,ward,k,m,"lee, kelsey",greenwich,ct,06830
+lila,mara,ward,pk,f,"belden, sheila",greenwich,ct,06830
+alexandra,landon,warren,1,f,"arcati, abigail",greenwich,ct,06830
+major,russell,warren,3,m,"paiva, glaura",greenwich,ct,06830
+matilda,carina,warren,1,f,"schofield, jocelyn",greenwich,ct,06830
+emilie,rachel,wasserman,8,f,"kelly, shaun",old greenwich,ct,06870
+sophia,elizabeth,wasserman,6,f,"hasapis, anthony",old greenwich,ct,06870
+amelia,neave,watts,1,f,"brown, devon",greenwich,ct,06830
+caleb,max lucas,watts,3,m,"puntereri, maria",greenwich,ct,06830
+caroline,shea,watts,7,f,"abreu, diana",greenwich,ct,06830
+elizabeth,darby,watts,6,f,"morton, adele",greenwich,ct,06830
+h‹¨«lo‹¨«se,diana andr‹¨«e isabel,webb,7,f,"donnalley, jennifer",greenwich,ct,06830
+james,john pierre,webb,9,m,"graham, jane",greenwich,ct,06830
+george,bolden,weiksner,8,m,"bixler, claire",riverside,ct,06878
+kathryn,veronica,weiksner,5,f,"johnson, elizabeth",riverside,ct,06878
+luke,cutter,weiksner,5,m,"lowe, elizabeth",riverside,ct,06878
+corinne,asbury,weil,n,f,"baird, christine",old greenwich,ct,06870
+andrew,james,weindling,10,m,"kucher, david",old greenwich,ct,06870
+claire, ,weindling,7,f,"withrow, morgan",old greenwich,ct,06870
+farrah,jule,weiner,6,f,"howe, jeffrey",riverside,ct,06878
+noah,joseph,weiner,9,m,"wood, jaclyn",riverside,ct,06878
+samuel,jake,weiner,11,m,"helpern, joseph",riverside,ct,06878
+alexa, ,weinstein,2,f,"diminno, katherine",old greenwich,ct,06870
+nicolas,alejandro,weinstein,k,m,"foster, claudia",old greenwich,ct,06870
+nash,mays,weintraub,3,m,"puntereri, maria",greenwich,ct,06830
+nathan,ryder,weintraub,5,m,"gilch, jennifer",greenwich,ct,06830
+lannon,walker,welch,2,f,"miller, brian",greenwich,ct,06830
+priscilla,pond,welch,6,f,"righter, holly",greenwich,ct,06830
+william, ,welch,7,m,"koke, kathleen",rye,ny,10580
+edward,kingman,weld,11,m,"foster, idara",greenwich,ct,06831
+jordan,drew,werner,9,m,"curry, patrick",larchmont,ny,10538
+finley,violet,westhus,1,f,"schofield, jocelyn",greenwich,ct,06831
+david, ,whiteley,4,m,"cauldwell, sarah",rye,ny,10580
+morgan,correne,whitmore,pk,f,"merritt, merritt",greenwich,ct,06830
+patrick,robert,whitmore,1,m,"brown, devon",greenwich,ct,06830
+anders,james,whittlesey,n,m,"baird, christine",greenwich,ct,06830
+kash,robert,williams,k,m,"bayless, laurel",stamford,ct,06905
+lauren,beatrice,wills,6,f,"howe, jeffrey",stamford,ct,06902
+nadia, ,wilson,pk,f,"whittlesey, sara",stamford,ct,06905
+olivia, ,wilson,2,f,"diminno, katherine",stamford,ct,06905
+piper,maclean,wilson,3,f,"laubscher, luke",greenwich,ct,06831
+thomas,howland,wilson,1,m,"morton, monica",greenwich,ct,06831
+william, ,wingrove,9,m,"dutcher, andrew",cos cob,ct,06807
+tucker,jonathan,winham,8,m,"kelly, shaun",greenwich,ct,06830
+henry,wells,wise,5,m,"abraham, jennifer",old greenwich,ct,06870
+ainsley, ,withrow,n,f,"sugrue, martha",greenwich,ct,06831
+reagan,mary,withrow,k,f,"bayless, laurel",greenwich,ct,06831
+beatrice, ,wolfe,2,f,"amado, rebecca",greenwich,ct,06830
+derek,gabriel,wolfe,5,m,"johnson, elizabeth",greenwich,ct,06830
+georgina,maria,wolfson,7,f,"doyle, shannon",bedford corners,ny,10549
+philippa,sophia,wolfson,9,f,"iversen, annette",bedford corners,ny,10549
+ava,jack,wood,n,f,"baird, christine",stamford,ct,06907
+lilah,grace,wood,1,f,"arcati, abigail",stamford,ct,06907
+corbin,wyatt,wreschner,pk,m,"walker, leslea",old greenwich,ct,06870
+carter,michelle,wright,n,f,"sugrue, martha",stamford,ct,06902
+finn,sanders,wyatt,k,m,"weintraub, jennifer",darien,ct,06820
+robert,augustine,yalda,8,m,"salazar, jos‹¨«",greenwich,ct,06831
+miguel,ivan,yanez,9,m,"latimore, anais",riverside,ct,06878
+connor, ,yantz,4,m,"lehn, stephanie",greenwich,ct,06830
+tyler, ,yantz,6,m,"hasapis, anthony",greenwich,ct,06830
+lily,grace,yort,8,f,"carnegie, britt",greenwich,ct,06830
+marli,amber,young,5,f,"abraham, jennifer",norwalk,ct,06854
+kelly,forbes,youngman,8,f,"preston, peter",greenwich,ct,06830
+charlotte,lee,zakka,k,f,"bayless, laurel",greenwich,ct,06831
+leo,dai,zhao,6,m,"long, william",greenwich,ct,06830
+charles,talbott,ziebarth,1,m,"morton, monica",greenwich,ct,06830
+clara,mccabe,ziebarth,3,f,"laubscher, luke",greenwich,ct,06830
+caroline,beatrice,zisson,5,f,"morelli, adam",greenwich,ct,06830
+doyle,barrow,zisson,8,m,"salazar, jos‹¨«",greenwich,ct,06830
+grant,hamilton,zucconi,4,m,"thompson, kevin",greenwich,ct,06831
+annabelle,rose,zuckerman,1,f,"hanley, caroline",greenwich,ct,06831
+emma,grace,zuckerman,6,f,"dandola, matthew",greenwich,ct,06831
+lucas,james,zuckerman,pk,m,"whittlesey, sara",greenwich,ct,06831
+carmelia, ,zuniga,9,f,"ruoss, andrew",stamford,ct,06903
+brady,curtis,calhoun,8,m,lehn, austin,rye,ny,10580
+thayer,hux,ross,8,m,moore, laura,darien,ct,06820
