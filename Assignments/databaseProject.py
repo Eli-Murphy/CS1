@@ -12,9 +12,11 @@ Created on March 3, 2021
                          Cleaning up and formating
         March 30: Hold the phone Houston we have a working remove() function praise jesus
                         Still working on that tighten parameters, need to figure out a way to compare list items...
+        April 1: Finished tightenParameters() function
 
 Bug: 
     March 30: There is a problem with the remove function where due to python holding the datatext.txt in RAM, it cannot fully run without manually clearing processes in procexp.exe
+    April 1: Had to hardcode a fix, in tightenParameters() fuction, for some reason there is a blank string in a hold list which results in a second unwanted match.
 
 Initiative: The purpose of this project is to allow a user to modify, search, and record information about GCDS's school directory.
 
@@ -22,13 +24,11 @@ Bonus:
 
 @author: EMurphy24
 '''
+
 #Required Libraries 
 import os
 import pprint
 import matplotlib.pyplot as plt
-from PIL import Image 
-from pygame import mixer
-import time
 
 
 def main():
@@ -52,17 +52,17 @@ def main():
         if goto == "search first":
             hold = searchF(first_name)
             print(hold)
-            tighten = input("Would you like to tighten your parameters?")
+            tighten = input("Would you like to tighten your parameters? (y/n): ")
             if tighten == "y":
-                tightenParameters(hold, first_name, last_name)
+                print(tightenParameters(hold, first_name, last_name))
             else:
                 print("Please input y or n.")
         elif goto == "search last":
             hold = searchL(last_name)
             print(hold)
-            tighten = input("Would you like to tighten your parameters?")
+            tighten = input("Would you like to tighten your parameters? (y/n): ")
             if tighten == "y":
-                tightenParameters(hold, first_name, last_name)
+                print(tightenParameters(hold, first_name, last_name))
             else:
                 print("Please input y or n.")
 
@@ -71,7 +71,7 @@ def main():
             city = city.lower()
             hold = searchCity(city)
             print(hold)
-            tighten = input("Would you like to tighten your parameters?")
+            tighten = input("Would you like to tighten your parameters? (y/n): ")
             if tighten == "y":
                 tightenParameters(hold, first_name, last_name)
             else:
@@ -87,7 +87,7 @@ def main():
             advisor = advisor.lower()
             hold = searchAdvisor(advisor)
             print(hold)
-            tighten = input("Would you like to tighten your parameters?")
+            tighten = input("Would you like to tighten your parameters? (y/n): ")
             if tighten == "y":
                 tightenParameters(hold, first_name, last_name)
             else:
@@ -97,7 +97,7 @@ def main():
             grade = input("What grade are you looking for? (N, PK, K, 1-12): ") 
             hold = searchGrade(grade)
             print(hold)
-            tighten = input("Would you like to tighten your parameters?")
+            tighten = input("Would you like to tighten your parameters? (y/n): ")
             if tighten == "y":
                 tightenParameters(hold, first_name, last_name)
             else:
@@ -278,27 +278,116 @@ def tightenParameters(hold, first_name, last_name):
     tighten = input("Input here:")
     tighten = tighten.upper()
     hold1 = hold
+    final = ""
     if tighten == "SF":
-        print("Hello")
+        print("\n")
         hold2 = searchF(first_name)
-        #MAKE A "if a line in hold1 is also in hold2, return the lines that match
         hold1list = hold1.split("\n")
         hold2list = hold2.split("\n")
-        print(hold1list)
-        print("SPLIT")
-        print(hold2list)
+        hold1list.remove("")
+        hold2list.remove("")
+        #this is a temporary hardcode problem 
+        #to remove the empty piece of data made 
+        #in the lists above
+        
+        for i in hold1list:
+            for j in hold2list:
+                if i == j:
+                #if there is a match in the list,
+                    final = final + i + "\n"
+                    #add it to the return string
+        if final == "":
+            return "Sorry, no found matches!\n"
+        else:
+            return final
             
     elif tighten == "SL":
-        print("Hello")
+        print("\n")
+        hold2 = searchL(last_name)
+        hold1list = hold1.split("\n")
+        hold2list = hold2.split("\n")
+        hold1list.remove("")
+        hold2list.remove("")
+        #this is a temporary hardcode problem 
+        #to remove the empty piece of data made 
+        #in the lists above
+        
+        for i in hold1list:
+            for j in hold2list:
+                if i == j:
+                #if there is a match in the list,
+                    final = final + i + "\n"
+                    #add it to the return string
+        if final == "":
+            return "Sorry, no found matches!\n"
+        else:
+            return final
     elif tighten == "SG":
-        print("Hello")
         grade = input("What grade are you looking for?: ")
+        print("\n")
+        hold2 = searchGrade(grade)
+        hold1list = hold1.split("\n")
+        hold2list = hold2.split("\n")
+        hold1list.remove("")
+        hold2list.remove("")
+        #this is a temporary hardcode problem 
+        #to remove the empty piece of data made 
+        #in the lists above
+        
+        for i in hold1list:
+            for j in hold2list:
+                if i == j:
+                #if there is a match in the list,
+                    final = final + i + "\n"
+                    #add it to the return string
+        if final == "":
+            return "Sorry, no found matches!\n"
+        else:
+            return final
     elif tighten == "SC":
-        print("Hello")
         city = input("What city are you looking for?: ")
+        print("\n")
+        hold2 = searchCity(city)
+        hold1list = hold1.split("\n")
+        hold2list = hold2.split("\n")
+        hold1list.remove("")
+        hold2list.remove("")
+        #this is a temporary hardcode problem 
+        #to remove the empty piece of data made 
+        #in the lists above
+        
+        for i in hold1list:
+            for j in hold2list:
+                if i == j:
+                #if there is a match in the list,
+                    final = final + i + "\n"
+                    #add it to the return string
+        if final == "":
+            return "Sorry, no found matches!\n"
+        else:
+            return final
     elif tighten == "SA":
-        print("Hello")
         advisor = input("What advisor are you looking for?: ")
+        print("\n")
+        hold2 = searchAdvisor(advisor)
+        hold1list = hold1.split("\n")
+        hold2list = hold2.split("\n")
+        hold1list.remove("")
+        hold2list.remove("")
+        #this is a temporary hardcode problem 
+        #to remove the empty piece of data made 
+        #in the lists above
+        
+        for i in hold1list:
+            for j in hold2list:
+                if i == j:
+                #if there is a match in the list,
+                    final = final + i + "\n"
+                    #add it to the return string
+        if final == "":
+            return "Sorry, no found matches!\n"
+        else:
+            return final
     else:
         print("Please input the shortened version of a menu item.")
         
@@ -471,7 +560,7 @@ def graphing(d):
         print("Error, missing data.")
  
  
- 
+#Uncecesarry splitting fuctions
 # def first_name(line):
 #     if line == "" or line == " ":
 #         return "VOID"
@@ -543,5 +632,6 @@ def graphing(d):
 #         return str(linelist[8])
 #                 
 #                 
+
 if __name__ == '__main__':
     main()
