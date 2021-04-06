@@ -13,6 +13,7 @@ Created on March 3, 2021
         March 30: Hold the phone Houston we have a working remove() function praise jesus
                         Still working on that tighten parameters, need to figure out a way to compare list items...
         April 1: Finished tightenParameters() function
+        April 6: Removed unnecesarry inputs
 
 Bug: 
     March 30: There is a problem with the remove function where due to python holding the datatext.txt in RAM, it cannot fully run without manually clearing processes in procexp.exe
@@ -39,7 +40,7 @@ def main():
         print("If you would like to search for info on somebody by their first name, enter 'search first'.")
         print("If you would like to search for info on somebody by their last name, enter 'search last'.")
         print("If you would like to search for info on somebody by their city, enter 'search city'.")
-        print("If you would like to add to the directory, enter 'modify'.")
+        print("If you would like to add to the directory, enter 'add'.")
         print("If you would like to delete an entry, enter 'delete'.")
         print("If you would like to count the frequencies of the cities enter 'city'.")
         print("If you would like to count the frequencies of the states enter 'states'.")
@@ -103,10 +104,10 @@ def main():
             else:
                 print("Please input y or n.")
 
-        elif goto == "modify":
+        elif goto == "add":
             addition()
         elif goto == "delete":
-            delete()
+            delete(first_name, last_name)
         elif goto == "gender":
             d = genderC()
             pprint.pprint(d)
@@ -402,25 +403,23 @@ def addition():
     town = input("enter town: ")
     state = input("State in two letter I.E. Connecticut = CT: ")
     zips = input("Zipcode: ")
-    file.write("\n" + first + "," + middle + "," + last + "," + grade + "," + sex + "," + teacher + "," + town + "," + state + "," + zips) 
+    file.write("\n" + first + "," + middle + "," + last + "," + grade + "," + sex + "," + '"' + teacher + '"' +"," + town + "," + state + "," + zips) 
     #writes in the line to the file as a new one
     file.close()
     return "Added!"
 
-def delete():
+def delete(first_name, last_name):
     input_file = open("datatext.txt", "r")
     output_file = open("temp.txt", "w")
     first = input("\nWhat is the first name of the person you are trying to delete?: \n")
     last = input("What is the last name of the person you are trying to delete?: ")
-    first = first.lower()
-    last = last.lower()
     #This fixes the problem of miscapitalization.
     count = 0
     for line in input_file:
         line = line.lower()
         data = line.split(",")
         #this splits the line at the comma, making a list
-        if data[0] == first and data[2] == last:
+        if data[0] == first_name and data[2] == last_name:
         #if the first item in the line matches with the first name and the 3rd item in the line matches with the last name,
             count = count + 1
             continue
@@ -428,7 +427,6 @@ def delete():
             output_file.write(line)
             #writes the lines not containing the deleted party
     if count > 0:
-               
         input_file.close()
         output_file.close()
         os.remove("datatext.txt")
@@ -558,8 +556,7 @@ def graphing(d):
             print("Sorry! Thats not an option.")
     except:
         print("Error, missing data.")
- 
- 
+
 #Uncecesarry splitting fuctions
 # def first_name(line):
 #     if line == "" or line == " ":
