@@ -1,4 +1,3 @@
-emily,lucy,smith,4,m,"morton, monica",riverside,ny,06978
 Benjamin,Davie,Acciavatti,9,M,"Lehn, Austin",Rye,NY,10580
 Samuel, ,Acciavatti,6,M,"Dandola, Matthew",Rye,NY,10580
 Bryce,Griffith,Agroskin,PK,M,"Merritt, Merritt",Greenwich,CT,06830
@@ -32,6 +31,7 @@ Cate,Margaret,Auerswald,6,F,"Milostan, Mark",Cos Cob,CT,06807
 Cooper,James,Auerswald,4,M,"Cauldwell, Sarah",Cos Cob,CT,06807
 Hunter, ,Austrie,11,M,"Reynolds, Jason",Stamford,CT,06902
 Luke,James,Bagshaw,PK,M,"Belden, Sheila",Riverside,CT,06878
+Joe,Patrick,Swanson,K,m,"Bayless, Laurie",Quahog,RI,00093
 Olivia,Rose,Bagshaw,PK,F,"Walker, Leslea",Riverside,CT,06878
 William,Freeman,Bagshaw,PK,M,"Merritt, Merritt",Riverside,CT,06878
 Noah,Boyd,Bailey,3,M,"Puntereri, Maria",Greenwich,CT,06830
@@ -1195,3 +1195,4 @@ Annabelle,Rose,Zuckerman,1,F,"Hanley, Caroline",Greenwich,CT,06831
 Emma,Grace,Zuckerman,6,F,"Dandola, Matthew",Greenwich,CT,06831
 Lucas,James,Zuckerman,PK,M,"Whittlesey, Sara",Greenwich,CT,06831
 Carmelia, ,Zuniga,9,F,"Ruoss, Andrew",Stamford,CT,06903
+Peter,Löwenbräu,Griffin,N,M,"Biard, Chrissy",Quahog,RI,00083
