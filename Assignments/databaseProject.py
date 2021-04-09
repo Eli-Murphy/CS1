@@ -42,7 +42,6 @@ results = ""
 
 def main():
     print("Welcome to the GCDS Directory")
-    webbrowser.open_new_tab('http://10.51.20.70/database.html')
     first_name = input("\nWhats the first name of the person you are looking for?: ")
     last_name = input("\nWhats the last name of the person you are looking for?: ")
     webdude = open(r"C:\inetpub\wwwroot\temp.txt", "w")
@@ -50,6 +49,7 @@ def main():
     today = today.strftime("%B %d, %Y")
     today = today.upper()
     webdude.write("<header><h3><b>ELI MURPHY HTML DATABASE OUTPUT   ///    ALL DATA IS ERASED AFTER CODE IS RUN AGAIN   ///   DATE: " + str(today) + "</b></h3></header><br>")
+    webbrowser.open_new_tab('http://10.51.20.70/database.html')
     webdude.close()
     
     
