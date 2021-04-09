@@ -21,7 +21,7 @@ Bug:
 
 Initiative: The purpose of this project is to allow a user to modify, search, and record information about GCDS's school directory.
 
-Bonus:
+Bonus: HTML Output
 
 @author: EMurphy24
 '''
@@ -41,17 +41,17 @@ results = ""
 
 
 def main():
-    print("Welcome to the GCDS Directory")
+    print("Welcome to the GCDS Directory ||| Created by Eli Murphy")
     first_name = input("\nWhats the first name of the person you are looking for?: ")
     last_name = input("\nWhats the last name of the person you are looking for?: ")
     webdude = open(r"C:\inetpub\wwwroot\temp.txt", "w")
     today = date.today()
     today = today.strftime("%B %d, %Y")
+    #Formats the date
     today = today.upper()
     webdude.write("<header><h3><b>ELI MURPHY HTML DATABASE OUTPUT   ///    ALL DATA IS ERASED AFTER CODE IS RUN AGAIN   ///   DATE: " + str(today) + "</b></h3></header><br>")
     webbrowser.open_new_tab('http://10.51.20.70/database.html')
     webdude.close()
-    
     
     
     #adds header and date to the HTML output
@@ -670,7 +670,6 @@ def webRecord(incoming, hold):
         os.rename(r"C:\inetpub\wwwroot\temp.txt", "C:\inetpub\wwwroot\database.html")
         #deletes the database file in there, and renames the text file to HTML
     
-    
     elif incoming == "freq":
         global fcount
         #Makes sure the number of results dosent change when the function is rerun
@@ -689,85 +688,5 @@ def webRecord(incoming, hold):
         os.rename(r"C:\inetpub\wwwroot/temp.txt", "C:\inetpub\wwwroot\database.html")
         #deletes the database file in there, and renames the text file to HTML
         
-        
-    
-#Uncecesarry splitting fuctions
-# def first_name(line):
-#     if line == "" or line == " ":
-#         return "VOID"
-#     else:
-#         linelist = line.split
-#         return str(linelist[0])
-# 
-# def middle_name(line):
-#     if line == "" or line == " ":
-#         return "VOID"
-#     else:
-#         linelist = line.split
-#         return str(linelist[1])
-# 
-# 
-# def last_name(line):
-#     if line == "" or line == " ":
-#         return "VOID"
-#     else:
-#         linelist = line.split
-#         return str(linelist[2])
-# 
-# 
-# def grade(line):
-#     if line == "" or line == " ":
-#         return "VOID"
-#     else:
-#         linelist = line.split
-#         return str(linelist[3])
-# 
-# 
-# def sex(line):
-#     if line == "" or line == " ":
-#         return "VOID"
-#     else:
-#         linelist = line.split
-#         return str(linelist[4])
-# 
-# 
-# def advisor(line):
-#     if line == "" or line == " ":
-#         return "VOID"
-#     else:
-#         linelist = line.split
-#         return str(linelist[5])
-# 
-# 
-# def city(line):
-#     if line == "" or line == " ":
-#         return "VOID"
-#     else:
-#         linelist = line.split
-#         return str(linelist[6])
-# 
-# 
-# def state(line):
-#     if line == "" or line == " ":
-#         return "VOID"
-#     else:
-#         linelist = line.split
-#         return str(linelist[7])
-# 
-# 
-# def zipcode(line):
-#     if line == "" or line == " ":
-#         return "VOID"
-#     else:
-#         linelist = line.split
-#         return str(linelist[8])
-#                 
-#                 
-
 if __name__ == '__main__':
-    webdude = open(r"C:\inetpub\wwwroot\temp.txt", "w+")
-    today = date.today()
-    today = today.strftime("%B %d, %Y")
-    webdude.write("ELI HTML DATABASE, DATE: " + str(today) + "<br><br>")
-    webdude.close()
-    main()
+        main()
