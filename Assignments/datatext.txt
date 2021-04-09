@@ -285,7 +285,7 @@ Madison, ,Duckett,8,F,"Salazar, Jos‹¨«",Greenwich,CT,06831
 Quinn,Marie,Duffy,K,F,"Weintraub, Jennifer",Cos Cob,CT,06807
 Robert,Park,Duncan,9,M,"Allen, Tara",Greenwich,CT,06830
 William,Hopkins,Duncan,9,M,"Katona, Peter",Greenwich,CT,06830
-Nicolas,Arthur,duPont,5,M,"Abraham, Jennifer",Greenwich,Ct,06830
+Nicolas,Arthur,duPont,5,M,"Abraham, Jennifer",Greenwich,CT,06830
 MiKayla,Azrille,DuPree,8,F,"Corson, Flynn",Stamford,CT,06902
 Tabitha,Helen,Dyal,N,F,"Sepot, Sarah",Greenwich,CT,06831
 Athena,Elyse,Dyer,5,F,"Lowe, Elizabeth",Cos Cob,CT,06807
