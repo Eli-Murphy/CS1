@@ -711,6 +711,7 @@ def webRecord(incoming, hold):
         acount = acount + 1
         os.remove(r"C:\inetpub\wwwroot\database.html")
         os.rename(r"C:\inetpub\wwwroot\temp.txt", "C:\inetpub\wwwroot\database.html")
+        
     elif incoming == "tight":
         hold_re = repr(hold)
         #turns the string into a RE, making the "\n" in the string and able
