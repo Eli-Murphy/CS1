@@ -30,12 +30,31 @@ Bonus:
 import os
 import pprint
 import matplotlib.pyplot as plt
+import re
+from datetime import date
+import webbrowser
+
+#Global Variables
+scount = 1
+fcount = 1
+results = ""
 
 
 def main():
     print("Welcome to the GCDS Directory")
+    webbrowser.open_new_tab('http://10.51.20.70/database.html')
     first_name = input("\nWhats the first name of the person you are looking for?: ")
     last_name = input("\nWhats the last name of the person you are looking for?: ")
+    webdude = open(r"C:\inetpub\wwwroot\temp.txt", "w")
+    today = date.today()
+    today = today.strftime("%B %d, %Y")
+    today = today.upper()
+    webdude.write("<header><h3><b>ELI MURPHY HTML DATABASE OUTPUT   ///    ALL DATA IS ERASED AFTER CODE IS RUN AGAIN   ///   DATE: " + str(today) + "</b></h3></header><br>")
+    webdude.close()
+    
+    
+    
+    #adds header and date to the HTML output
     while True:
         print("If you would like to search for info on somebody by their first name, enter 'search first'.")
         print("If you would like to search for info on somebody by their last name, enter 'search last'.")
@@ -50,33 +69,54 @@ def main():
         goto == goto.lower()
         first_name = first_name.lower()                     #This isolates the first and last name for functions
         last_name = last_name.lower()
+        
+        
         if goto == "search first":
             hold = searchF(first_name)
             print(hold)
+            record = input("Record? (y/n): ")
+            if record == "y":
+                print("60")
+                incoming = "search"
+                webRecord(incoming, hold)
             tighten = input("Would you like to tighten your parameters? (y/n): ")
             if tighten == "y":
                 print(tightenParameters(hold, first_name, last_name))
             else:
                 print("Please input y or n.")
+                
+                
         elif goto == "search last":
             hold = searchL(last_name)
             print(hold)
+            record = input("Record? (y/n): ")
+            if record == "y":
+                print("60")
+                incoming = "search"
+                webRecord(incoming, hold)
             tighten = input("Would you like to tighten your parameters? (y/n): ")
             if tighten == "y":
                 print(tightenParameters(hold, first_name, last_name))
             else:
                 print("Please input y or n.")
 
+
         elif goto == "search city":
             city = input("What city are you looking for?: ")
             city = city.lower()
             hold = searchCity(city)
             print(hold)
+            record = input("Record? (y/n): ")
+            if record == "y":
+                print("60")
+                incoming = "search"
+                webRecord(incoming, hold)
             tighten = input("Would you like to tighten your parameters? (y/n): ")
             if tighten == "y":
                 tightenParameters(hold, first_name, last_name)
             else:
                 print("Please input y or n.")
+
 
         elif goto == "search advisor":
             advisor = input("What is the advisor's last name?: ")
@@ -88,29 +128,51 @@ def main():
             advisor = advisor.lower()
             hold = searchAdvisor(advisor)
             print(hold)
+            record = input("Record? (y/n): ")
+            if record == "y":
+                print("60")
+                incoming = "search"
+                webRecord(incoming, hold)
             tighten = input("Would you like to tighten your parameters? (y/n): ")
             if tighten == "y":
                 tightenParameters(hold, first_name, last_name)
             else:
                 print("Please input y or n.")
+
 
         elif goto == "search grade":
             grade = input("What grade are you looking for? (N, PK, K, 1-12): ") 
             hold = searchGrade(grade)
             print(hold)
+            record = input("Record? (y/n): ")
+            if record == "y":
+                print("60")
+                incoming = "search"
+                webRecord(incoming, hold)
             tighten = input("Would you like to tighten your parameters? (y/n): ")
             if tighten == "y":
                 tightenParameters(hold, first_name, last_name)
             else:
                 print("Please input y or n.")
 
+
         elif goto == "add":
             addition()
+            
+            
         elif goto == "delete":
             delete(first_name, last_name)
+            
+            
         elif goto == "gender":
             d = genderC()
             pprint.pprint(d)
+            record = input("Record? (y/n): ")
+            if record == "y":
+                print("60")
+                incoming = "freq"
+                hold = d
+                webRecord(incoming, hold)
             graph = input("Would you liked this graphed?")
             if graph == "y":
                 plt = graphing(d)
@@ -118,19 +180,35 @@ def main():
                 #this sends the directory to a function I wrote
                 #that turns a directory to a graph
             else: continue
+            
+            
         elif goto == "city":
             d = cityFreq()
             pprint.pprint(d)
             #pprint is a imported print function to make a dictionary
             #look more pleasing to the user
+            record = input("Record? (y/n): ")
+            if record == "y":
+                print("60")
+                incoming = "freq"
+                hold = d
+                webRecord(incoming, hold)
             graph = input("Would you liked this graphed? (y/n): ")
             if graph == "y":
                 plt = graphing(d)
                 plt.show()
             else: continue
+            
+            
         elif goto == "grade":
             d = gradeFreq()
             pprint.pprint(d)
+            record = input("Record? (y/n): ")
+            if record == "y":
+                print("60")
+                incoming = "freq"
+                hold = d
+                webRecord(incoming, hold)
             #pprint is a imported print function to make a dictionary
             #look more pleasing to the user
             graph = input("Would you liked this graphed? (y/n): ")
@@ -138,17 +216,33 @@ def main():
                 plt = graphing(d)
                 plt.show()
             else: continue
+            
+            
         elif goto == "advisors":
             d = advisorFreq()
             pprint.pprint(d)
+            record = input("Record? (y/n): ")
+            if record == "y":
+                print("60")
+                incoming = "freq"
+                hold = d
+                webRecord(incoming, hold)
             graph = input("Would you liked this graphed? (y/n): ")
             if graph == "y":
                 plt = graphing(d)
                 plt.show()
             else: continue
+            
+            
         elif goto == "states":
             d = stateFreq()
             pprint.pprint(d)
+            record = input("Record? (y/n): ")
+            if record == "y":
+                print("60")
+                incoming = "freq"
+                hold = d
+                webRecord(incoming, hold)
             #pprint is a imported print function to make a dictionary
             #look more pleasing to the user
             graph = input("Would you liked this graphed? (y/n): ")
@@ -156,9 +250,10 @@ def main():
                 plt = graphing(d)
                 plt.show()
             else: continue
+            
+            
         else:
             print("Sorry! Thats not an option. Please try again.")
-            main()
 
 def searchF(first_name):
     file_in = open("datatext.txt")
@@ -557,6 +652,45 @@ def graphing(d):
     except:
         print("Error, missing data.")
 
+def webRecord(incoming, hold):
+    global results
+    #This makes sure the results dont get overwritten by the new texta
+    if incoming == "search":
+        hold_re = repr(hold)
+        #turns the string into a RE, making the "\n" in the string and able
+        #to be removed and replaced by the HTML equivelant
+        hold_re = hold.replace("\n", "<br>")
+        webdude = open(r"C:\inetpub\wwwroot\temp.txt", "a")
+        global scount
+        #Makes sure the number of results dosent change when the function is rerun
+        results = results + "<b>Search Results #" + str(scount) + "</b><br><br>" + hold_re + "<br>"
+        webdude.write(results)
+        webdude.close()
+        os.remove(r"C:\inetpub\wwwroot\database.html")
+        os.rename(r"C:\inetpub\wwwroot\temp.txt", "C:\inetpub\wwwroot\database.html")
+        #deletes the database file in there, and renames the text file to HTML
+    
+    
+    elif incoming == "freq":
+        global fcount
+        #Makes sure the number of results dosent change when the function is rerun
+        hold = str(hold)
+        
+        hold = hold.replace(",", "<br>")
+        hold = hold.replace("{", "")
+        hold = hold.replace("}","")
+        #makes the dictionary better to read
+        webdude = open(r"C:\inetpub\wwwroot\temp.txt", "a")
+        results = results + "<b>Frequency Results #" + str(fcount) + "</b><br><br>" + hold + "<br><br>"
+        webdude.write(results)
+        fcount = fcount + 1
+        webdude.close()
+        os.remove(r"C:\inetpub\wwwroot\database.html")
+        os.rename(r"C:\inetpub\wwwroot/temp.txt", "C:\inetpub\wwwroot\database.html")
+        #deletes the database file in there, and renames the text file to HTML
+        
+        
+    
 #Uncecesarry splitting fuctions
 # def first_name(line):
 #     if line == "" or line == " ":
@@ -631,4 +765,9 @@ def graphing(d):
 #                 
 
 if __name__ == '__main__':
+    webdude = open(r"C:\inetpub\wwwroot\temp.txt", "w+")
+    today = date.today()
+    today = today.strftime("%B %d, %Y")
+    webdude.write("ELI HTML DATABASE, DATE: " + str(today) + "<br><br>")
+    webdude.close()
     main()
