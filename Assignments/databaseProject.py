@@ -14,10 +14,15 @@ Created on March 3, 2021
                         Still working on that tighten parameters, need to figure out a way to compare list items...
         April 1: Finished tightenParameters() function
         April 6: Removed unnecesarry inputs
+        April 7: Added HTML website to hold responses
+        April 8-9: Polished up HTML code
 
 Bug: 
     March 30: There is a problem with the remove function where due to python holding the datatext.txt in RAM, it cannot fully run without manually clearing processes in procexp.exe
     April 1: Had to hardcode a fix, in tightenParameters() fuction, for some reason there is a blank string in a hold list which results in a second unwanted match.
+                Update: Hardcode approved by Campbell
+    April 9: Sometimes some of the HTML is overwritten, despite everything being written in append mode
+                 Update: FIXED
 
 Initiative: The purpose of this project is to allow a user to modify, search, and record information about GCDS's school directory.
 
@@ -31,7 +36,7 @@ import os
 import pprint
 import matplotlib.pyplot as plt
 import re
-from datetime import date
+from datetime import datetime
 import webbrowser
 
 #Global Variables
@@ -39,6 +44,7 @@ scount = 1
 fcount = 1
 dcount = 1
 acount = 1
+tcount = 1
 results = ""
 
 
@@ -47,14 +53,15 @@ def main():
     first_name = input("\nWhats the first name of the person you are looking for?: ")
     last_name = input("\nWhats the last name of the person you are looking for?: ")
     webdude = open(r"C:\inetpub\wwwroot\temp.txt", "w")
-    today = date.today()
-    today = today.strftime("%B %d, %Y")
+    now = datetime.now()
+    global results
+    today = now.strftime("%B %d, %Y  ||| %H:%M:%S")
     #Formats the date
     today = today.upper()
-    webdude.write("<header><h3><b>ELI MURPHY HTML DATABASE OUTPUT   ///    ALL DATA IS ERASED AFTER CODE IS RUN AGAIN   ///   DATE: " + str(today) + "</b></h3></header><br>")
+    header = "<header><h4><b>ELI MURPHY HTML DATABASE OUTPUT   ///    ALL DATA IS ERASED AFTER CODE IS RUN AGAIN   ///   DATE AND TIME OF RECORD: " + str(today) + "</b></h4></header><br>"
+    results = header + results
     webbrowser.open_new_tab('http://10.51.20.70/database.html')
     webdude.close()
-    
     
     #adds header and date to the HTML output
     while True:
@@ -80,7 +87,10 @@ def main():
             webRecord(incoming, hold)
             tighten = input("Would you like to tighten your parameters? (y/n): ")
             if tighten == "y":
-                print(tightenParameters(hold, first_name, last_name))
+                hold = tightenParameters(hold, first_name, last_name)
+                print(hold)
+                incoming = "tight"
+                webRecord(incoming, hold)
             else:
                 print("Please input y or n.")
                 
@@ -92,7 +102,10 @@ def main():
             webRecord(incoming, hold)
             tighten = input("Would you like to tighten your parameters? (y/n): ")
             if tighten == "y":
-                print(tightenParameters(hold, first_name, last_name))
+                hold = tightenParameters(hold, first_name, last_name)
+                print(hold)
+                incoming = "tight"
+                webRecord(incoming, hold)
             else:
                 print("Please input y or n.")
 
@@ -106,7 +119,10 @@ def main():
             webRecord(incoming, hold)
             tighten = input("Would you like to tighten your parameters? (y/n): ")
             if tighten == "y":
-                tightenParameters(hold, first_name, last_name)
+                hold = tightenParameters(hold, first_name, last_name)
+                print(hold)
+                incoming = "tight"
+                webRecord(incoming, hold)
             else:
                 print("Please input y or n.")
 
@@ -125,7 +141,10 @@ def main():
             webRecord(incoming, hold)
             tighten = input("Would you like to tighten your parameters? (y/n): ")
             if tighten == "y":
-                tightenParameters(hold, first_name, last_name)
+                hold = tightenParameters(hold, first_name, last_name)
+                print(hold)
+                incoming = "tight"
+                webRecord(incoming, hold)
             else:
                 print("Please input y or n.")
 
@@ -138,7 +157,10 @@ def main():
             webRecord(incoming, hold)
             tighten = input("Would you like to tighten your parameters? (y/n): ")
             if tighten == "y":
-                tightenParameters(hold, first_name, last_name)
+                hold = tightenParameters(hold, first_name, last_name)
+                print(hold)
+                incoming = "tight"
+                webRecord(incoming, hold)
             else:
                 print("Please input y or n.")
 
@@ -486,8 +508,7 @@ def addition():
 def delete(first_name, last_name):
     input_file = open("datatext.txt", "r")
     output_file = open("temp.txt", "w")
-    first = input("\nWhat is the first name of the person you are trying to delete?: \n")
-    last = input("What is the last name of the person you are trying to delete?: ")
+    hold = ""
     #This fixes the problem of miscapitalization.
     count = 0
     for line in input_file:
@@ -497,7 +518,7 @@ def delete(first_name, last_name):
         if data[0] == first_name and data[2] == last_name:
         #if the first item in the line matches with the first name and the 3rd item in the line matches with the last name,
             count = count + 1
-            hold = hold + data
+            hold = hold + line + "<br>"
             continue
         else:
             output_file.write(line)
@@ -648,6 +669,7 @@ def webRecord(incoming, hold):
         results = results + "<b>Search Results #" + str(scount) + "</b><br><br>" + hold_re + "<br>"
         webdude.write(results)
         webdude.close()
+        scount = scount + 1
         os.remove(r"C:\inetpub\wwwroot\database.html")
         os.rename(r"C:\inetpub\wwwroot\temp.txt", "C:\inetpub\wwwroot\database.html")
         #deletes the database file in there, and renames the text file to HTML
@@ -669,22 +691,41 @@ def webRecord(incoming, hold):
         os.remove(r"C:\inetpub\wwwroot\database.html")
         os.rename(r"C:\inetpub\wwwroot/temp.txt", "C:\inetpub\wwwroot\database.html")
         #deletes the database file in there, and renames the text file to HTML
+        
     elif incoming == "del":
         global dcount
         webdude = open(r"C:\inetpub\wwwroot\temp.txt", "a")
-        results = results + "<b>Deleted Entry #" + str(dcount) + "</b><br><br>" + hold + "<br><br>"
+        results = results + "<b>Deleted Entry/ies #" + str(dcount) + "</b><br><br>" + str(hold) + "<br><br>"
         webdude.write(results)
         webdude.close()
+        dcount = dcount + 1
         os.remove(r"C:\inetpub\wwwroot\database.html")
         os.rename(r"C:\inetpub\wwwroot\temp.txt", "C:\inetpub\wwwroot\database.html")
+        
     elif incoming == "add":
         global acount
         webdude = open(r"C:\inetpub\wwwroot\temp.txt", "a")
         results = results + "<b>Added Entry #" + str(acount) + "</b><br><br>" + hold + "<br><br>"
         webdude.write(results)
         webdude.close()
+        acount = acount + 1
         os.remove(r"C:\inetpub\wwwroot\database.html")
         os.rename(r"C:\inetpub\wwwroot\temp.txt", "C:\inetpub\wwwroot\database.html")
+    elif incoming == "tight":
+        hold_re = repr(hold)
+        #turns the string into a RE, making the "\n" in the string and able
+        #to be removed and replaced by the HTML equivelant
+        hold_re = hold.replace("\n", "<br>")
+        webdude = open(r"C:\inetpub\wwwroot\temp.txt", "a")
+        global tcount
+        #Makes sure the number of results dosent change when the function is rerun
+        results = results + "<b>Search Results #" + str(tcount) + "</b><br><br>" + hold_re + "<br>"
+        webdude.write(results)
+        webdude.close()
+        tcount = tcount + 1
+        os.remove(r"C:\inetpub\wwwroot\database.html")
+        os.rename(r"C:\inetpub\wwwroot\temp.txt", "C:\inetpub\wwwroot\database.html")
+        #deletes the database file in there, and renames the text file to HTML
         
 if __name__ == '__main__':
         main()
