@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.python.pydev.pythonNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Assignments/database.html</name>
+			<type>1</type>
+			<location>C:/inetpub/wwwroot/database.html</location>
+		</link>
+	</linkedResources>
 </projectDescription>
