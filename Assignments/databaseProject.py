@@ -165,9 +165,6 @@ def main():
                 print("Please input y or n.")
 
 
-        elif goto == "sus":
-            sussy()
-
         elif goto == "add":
             hold = addition()
             print("Added!")
