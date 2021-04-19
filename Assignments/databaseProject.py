@@ -33,7 +33,6 @@ Bonus: HTML Output
 
 #Required Libraries 
 import os
-import pprint
 import matplotlib.pyplot as plt
 import re
 from datetime import datetime
@@ -67,8 +66,11 @@ def main():
     while True:
         print("If you would like to search for info on somebody by their first name, enter 'search first'.")
         print("If you would like to search for info on somebody by their last name, enter 'search last'.")
+        print("If you would like to search for info on somebody by their advisor, enter 'search advisor'.")
         print("If you would like to search for info on somebody by their city, enter 'search city'.")
+        print("If you would like to search for info on somebody by their grade, enter 'search grade'.")
         print("If you would like to add to the directory, enter 'add'.")
+        print("If you would like to update a already created entry, enter 'update'.")
         print("If you would like to delete an entry, enter 'delete'.")
         print("If you would like to count the frequencies of the cities enter 'city'.")
         print("If you would like to count the frequencies of the states enter 'states'.")
@@ -178,9 +180,14 @@ def main():
             incoming = "del"
             webRecord(incoming, hold)
             
+        elif goto == "update":
+            hold = update(first_name, last_name)
+            incoming = "update"
+            webRecord(incoming, hold)
+            
         elif goto == "gender":
             d = genderC()
-            pprint.pprint(d)
+            print(d)
             incoming = "freq"
             hold = d
             webRecord(incoming, hold)
@@ -195,9 +202,7 @@ def main():
             
         elif goto == "city":
             d = cityFreq()
-            pprint.pprint(d)
-            #pprint is a imported print function to make a dictionary
-            #look more pleasing to the user
+            print(d)
             incoming = "freq"
             hold = d
             webRecord(incoming, hold)
@@ -210,9 +215,7 @@ def main():
             
         elif goto == "grade":
             d = gradeFreq()
-            pprint.pprint(d)
-            #pprint is a imported print function to make a dictionary
-            #look more pleasing to the user
+            print(d)
             incoming = "freq"
             hold = d
             webRecord(incoming, hold)
@@ -225,9 +228,7 @@ def main():
             
         elif goto == "advisors":
             d = advisorFreq()
-            pprint.pprint(d)
-             #pprint is a imported print function to make a dictionary
-            #look more pleasing to the user
+            print(d)
             incoming = "freq"
             hold = d
             webRecord(incoming, hold)
@@ -240,9 +241,7 @@ def main():
             
         elif goto == "states":
             d = stateFreq()
-            pprint.pprint(d)
-             #pprint is a imported print function to make a dictionary
-            #look more pleasing to the user
+            print(d)
             incoming = "freq"
             hold = d
             webRecord(incoming, hold)
@@ -251,7 +250,15 @@ def main():
                 plt = graphing(d)
                 plt.show()
             else: continue
-            
+        
+        elif goto == "rename":
+            yn = input("Doing this will wipe the HTML log. Continue? (y/n): ")
+            while True:
+                if yn == "y":
+                    main()
+                elif yn == "n": break
+                else: 
+                    print("Please input either y or n.")
             
         else:
             print("Sorry! Thats not an option. Please try again.")
@@ -534,6 +541,15 @@ def delete(first_name, last_name):
     else:
         print("Sorry, no results found.")
 
+def update(first_name, last_name):
+    dhold = delete(first_name, last_name)
+    print("\nNow, rewrite the user's info.\n")
+    ahold = addition()
+    returning = []
+    returning.append(dhold)
+    returning.append(ahold)
+    return returning
+
 def genderC():
     file_input = open("datatext.txt")
     d = dict() 
@@ -604,6 +620,8 @@ def gradeFreq():
              d[linelist[3]] = 1
         else:
              d[linelist[3]] = d[linelist[3]] + 1       
+    d = dict(sorted(d.items(), key=lambda d: d[1], reverse=True))
+    print(str(d))
     return d
 
 def stateFreq():
@@ -620,7 +638,8 @@ def stateFreq():
          #isnt in the directory   
              d[linelist[8]] = 1
         else:
-             d[linelist[8]] = d[linelist[8]] + 1       
+             d[linelist[8]] = d[linelist[8]] + 1        
+    d = dict(sorted(d.items(), key=lambda d: d[1], reverse=True))
     return d
 
 def graphing(d):
@@ -727,6 +746,16 @@ def webRecord(incoming, hold):
         os.remove(r"C:\inetpub\wwwroot\database.html")
         os.rename(r"C:\inetpub\wwwroot\temp.txt", "C:\inetpub\wwwroot\database.html")
         #deletes the database file in there, and renames the text file to HTML
-        
+    elif incoming == "update":
+        dhold = hold[0]
+        ahold = hold[1]
+        webdude = open(r"C:\inetpub\wwwroot\temp.txt", "a")
+        results = results + "<b>Updated Entry #" + str(acount) + "</b><<br>" + str(dhold) + "<br><br> " + "Was replaced with: " + "<br><br>" + str(ahold) + "<br>"
+        webdude.write(results)
+        webdude.close()
+        acount = acount + 1
+        os.remove(r"C:\inetpub\wwwroot\database.html")
+        os.rename(r"C:\inetpub\wwwroot\temp.txt", "C:\inetpub\wwwroot\database.html")
+
 if __name__ == '__main__':
         main()
