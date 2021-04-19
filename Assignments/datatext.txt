@@ -1196,4 +1196,4 @@ emma,grace,zuckerman,6,f,"dandola, matthew",greenwich,ct,06831
 lucas,james,zuckerman,pk,m,"whittlesey, sara",greenwich,ct,06831
 carmelia, ,zuniga,9,f,"ruoss, andrew",stamford,ct,06903
 peter,löwenbräu,griffin,n,m,"biard, chrissy",quahog,ri,00083
-zee,s,sdass,N,M,"sajdf,asdasd",ballocks,CT,03421
+SAD,ASD,ASD,ASD,ASD,"ASD",ASD,ASD,ASD
