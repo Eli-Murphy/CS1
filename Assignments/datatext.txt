@@ -1001,7 +1001,6 @@ ethan,pierce,singsen,9,m,"dutcher, andrew",greenwich,ct,06831
 william, ,slater,9,m,"mezzo, michael",greenwich,ct,06830
 avery,chase,sleeper,8,f,"bixler, claire",greenwich,ct,06831
 jack,l,slovin,4,m,"hall, jane",greenwich,ct,06831
-emily,susan,smith,1,f,"morton, monica",riverside,ct,06878
 holden,guy,smith,pk,m,"walker, leslea",cos cob,ct,06807
 nathaniel,peter,smith,5,m,"gilch, jennifer",riverside,ct,06878
 chloe,marie,sneddon,6,f,"paul, adrienne",greenwich,ct,06830
@@ -1196,4 +1195,5 @@ emma,grace,zuckerman,6,f,"dandola, matthew",greenwich,ct,06831
 lucas,james,zuckerman,pk,m,"whittlesey, sara",greenwich,ct,06831
 carmelia, ,zuniga,9,f,"ruoss, andrew",stamford,ct,06903
 peter,löwenbräu,griffin,n,m,"biard, chrissy",quahog,ri,00083
-SAD,ASD,ASD,ASD,ASD,"ASD",ASD,ASD,ASD
+as,,a,sf,asd,"as",da,sd,asd
+test,test,test,test,test,"test",test,ttest,test
