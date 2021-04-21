@@ -16,6 +16,9 @@ Created on March 3, 2021
         April 6: Removed unnecesarry inputs
         April 7: Added HTML website to hold responses
         April 8-9: Polished up HTML code
+        April 20: Happy 4/20, Added Local log recording, added true or false for auto opening
+                       Added password protection for delete(), addition(), update()
+        April 21: Added Username and Password adder
 
 Bug: 
     March 30: There is a problem with the remove function where due to python holding the datatext.txt in RAM, it cannot fully run without manually clearing processes in procexp.exe
@@ -37,6 +40,8 @@ import matplotlib.pyplot as plt
 import re
 from datetime import datetime
 import webbrowser
+from pathlib import Path
+
 
 #Global Variables
 scount = 1
@@ -44,7 +49,12 @@ fcount = 1
 dcount = 1
 acount = 1
 tcount = 1
+ucount = 1
 results = ""
+access = False
+
+
+autohtml = False
 
 
 def main():
@@ -59,7 +69,8 @@ def main():
     today = today.upper()
     header = "<header><h4><b>ELI MURPHY HTML DATABASE OUTPUT   ///    ALL DATA IS ERASED AFTER CODE IS RUN AGAIN   ///   DATE AND TIME OF RECORD: " + str(today) + "</b></h4></header><br>"
     results = header + results
-    webbrowser.open_new_tab('http://10.51.20.70/database.html')
+    if autohtml:
+        webbrowser.open_new_tab('http://10.51.20.70/database.html')
     webdude.close()
     
     #adds header and date to the HTML output
@@ -75,9 +86,10 @@ def main():
         print("If you would like to count the frequencies of the cities enter 'city'.")
         print("If you would like to count the frequencies of the states enter 'states'.")
         print("If you would like to count the amount of people assigned to each advisor, enter 'advisors'.")
-        print("If you would like to count genders on the list, enter 'gender'.\n")
+        print("If you would like to count genders on the list, enter 'gender'.")
+        print("If you would like to create an admin account, enter 'new user'.\n")
         goto = input("Enter Here: ")
-        goto == goto.lower()
+        goto = goto.lower()
         first_name = first_name.lower()                     #This isolates the first and last name for functions
         last_name = last_name.lower()
         
@@ -168,22 +180,48 @@ def main():
 
 
         elif goto == "add":
-            hold = addition()
-            print("Added!")
-            incoming = "add"
-            webRecord(incoming, hold)
+            print("THIS AREA IS PASSWORD PROTECTED. PLEASE INPUT USERNAME AND PASSWORD")
+            username = input("Username: ")
+            password = input("Password: ")
+            grant = accounts(username, password)
+            if grant:
+                hold = addition()
+                print("Added!")
+                incoming = "add"
+                webRecord(incoming, hold)
+            else:
+                print("Sorry! Incorrect password!")
             
             
             
         elif goto == "delete":
-            hold = delete(first_name, last_name)
-            incoming = "del"
-            webRecord(incoming, hold)
+            if access == False:
+                print("THIS AREA IS PASSWORD PROTECTED. PLEASE INPUT USERNAME AND PASSWORD")
+                username = input("Username: ")
+                password = input("Password: ")
+                grant = accounts(username, password)
+                if grant:
+                    hold = delete(first_name, last_name)
+                    incoming = "del"
+                    webRecord(incoming, hold)
+                else:
+                    print("Sorry! Incorrect password!")
+            else:
+                hold = delete(first_name, last_name)
+                incoming = "del"
+                webRecord(incoming, hold)
             
         elif goto == "update":
-            hold = update(first_name, last_name)
-            incoming = "update"
-            webRecord(incoming, hold)
+            print("THIS AREA IS PASSWORD PROTECTED. PLEASE INPUT USERNAME AND PASSWORD")
+            username = input("Username: ")
+            password = input("Password: ")
+            grant = accounts(username, password)
+            if grant:
+                hold = update(first_name, last_name)
+                incoming = "update"
+                webRecord(incoming, hold)
+            else:
+                print("Sorry! Incorrect password!")
             
         elif goto == "gender":
             d = genderC()
@@ -194,7 +232,10 @@ def main():
             graph = input("Would you liked this graphed?")
             if graph == "y":
                 plt = graphing(d)
-                plt.show()
+                try:
+                    plt.show()
+                except:
+                    print("Graphing Error")
                 #this sends the directory to a function I wrote
                 #that turns a directory to a graph
             else: continue
@@ -209,7 +250,10 @@ def main():
             graph = input("Would you liked this graphed? (y/n): ")
             if graph == "y":
                 plt = graphing(d)
-                plt.show()
+                try:
+                    plt.show()
+                except:
+                    print("Graphing Error")
             else: continue
             
             
@@ -222,7 +266,10 @@ def main():
             graph = input("Would you liked this graphed? (y/n): ")
             if graph == "y":
                 plt = graphing(d)
-                plt.show()
+                try:
+                    plt.show()
+                except:
+                    print("Graphing Error")
             else: continue
             
             
@@ -235,7 +282,10 @@ def main():
             graph = input("Would you liked this graphed? (y/n): ")
             if graph == "y":
                 plt = graphing(d)
-                plt.show()
+                try:
+                    plt.show()
+                except:
+                    print("Graphing Error")
             else: continue
             
             
@@ -248,7 +298,10 @@ def main():
             graph = input("Would you liked this graphed? (y/n): ")
             if graph == "y":
                 plt = graphing(d)
-                plt.show()
+                try:
+                    plt.show()
+                except:
+                    print("Graphing Error")
             else: continue
         
         elif goto == "rename":
@@ -259,7 +312,8 @@ def main():
                 elif yn == "n": break
                 else: 
                     print("Please input either y or n.")
-            
+        elif goto == "new user":
+            createAccount()
         else:
             print("Sorry! Thats not an option. Please try again.")
 
@@ -676,8 +730,10 @@ def graphing(d):
 
 def webRecord(incoming, hold):
     global results
+    #global localresults
     #This makes sure the results dont get overwritten by the new texta
     if incoming == "search":
+        
         hold_re = repr(hold)
         #turns the string into a RE, making the "\n" in the string and able
         #to be removed and replaced by the HTML equivelant
@@ -686,14 +742,36 @@ def webRecord(incoming, hold):
         global scount
         #Makes sure the number of results dosent change when the function is rerun
         results = results + "<b>Search Results #" + str(scount) + "</b><br><br>" + hold_re + "<br>"
+        #this is for HTML logs
         webdude.write(results)
         webdude.close()
         scount = scount + 1
         os.remove(r"C:\inetpub\wwwroot\database.html")
         os.rename(r"C:\inetpub\wwwroot\temp.txt", "C:\inetpub\wwwroot\database.html")
         #deletes the database file in there, and renames the text file to HTML
+        
+        
+        #Below logs all acts locally in text files
+        now = datetime.now()
+        time = now.strftime("%H:%M:%S")
+        localresults = "["+ time +"] Search Results\n\n\n" + hold + "\n\n"
+        today = now.strftime("%b, %d, %y")
+        logdate = r"C:\\database logs\\DayLog " + str(today) + r".txt"
+        #path to files
+        my_file = Path(logdate)
+         #this turns the path to be read by .is_file()
+        if my_file.is_file():
+            log = open(logdate, "a")
+        else:
+            log = open(logdate, "w+")
+            #creates a file
+            log.close
+            log = open(logdate, "a")
+        log.write(localresults)
+
     
     elif incoming == "freq":
+        
         global fcount
         #Makes sure the number of results dosent change when the function is rerun
         hold = str(hold)
@@ -711,6 +789,25 @@ def webRecord(incoming, hold):
         os.rename(r"C:\inetpub\wwwroot/temp.txt", "C:\inetpub\wwwroot\database.html")
         #deletes the database file in there, and renames the text file to HTML
         
+        
+        #Below logs all acts locally in text files
+        now = datetime.now()
+        time = now.strftime("%H:%M:%S")
+        localresults = "["+ time +"] Frequency Results\n\n\n" + hold + "\n\n"
+        today = now.strftime("%b, %d, %y")
+        logdate = r"C:\\database logs\\DayLog " + str(today) + r".txt"
+        #path to files
+        my_file = Path(logdate)
+         #this turns the path to be read by .is_file()
+        if my_file.is_file():
+            log = open(logdate, "a")
+        else:
+            log = open(logdate, "w+")
+            #creates a file
+            log.close
+            log = open(logdate, "a")
+        log.write(localresults)
+        
     elif incoming == "del":
         global dcount
         webdude = open(r"C:\inetpub\wwwroot\temp.txt", "a")
@@ -721,6 +818,24 @@ def webRecord(incoming, hold):
         os.remove(r"C:\inetpub\wwwroot\database.html")
         os.rename(r"C:\inetpub\wwwroot\temp.txt", "C:\inetpub\wwwroot\database.html")
         
+        #Below logs all acts locally in text files
+        now = datetime.now()
+        time = now.strftime("%H:%M:%S")
+        localresults = "["+ time +"] Delete Entry/ies\n\n\n" + str(hold) + "\n\n"
+        today = now.strftime("%b, %d, %y")
+        logdate = r"C:\\database logs\\DayLog " + str(today) + r".txt"
+        #path to files
+        my_file = Path(logdate)
+         #this turns the path to be read by .is_file()
+        if my_file.is_file():
+            log = open(logdate, "a")
+        else:
+            log = open(logdate, "w+")
+            #creates a file
+            log.close
+            log = open(logdate, "a")
+        log.write(localresults)
+        
     elif incoming == "add":
         global acount
         webdude = open(r"C:\inetpub\wwwroot\temp.txt", "a")
@@ -730,6 +845,24 @@ def webRecord(incoming, hold):
         acount = acount + 1
         os.remove(r"C:\inetpub\wwwroot\database.html")
         os.rename(r"C:\inetpub\wwwroot\temp.txt", "C:\inetpub\wwwroot\database.html")
+        
+        #Below logs all acts locally in text files
+        now = datetime.now()
+        time = now.strftime("%H:%M:%S")
+        localresults = "["+ time +"] Added Entry\n\n\n" + hold + "\n\n"
+        today = now.strftime("%b, %d, %y")
+        logdate = r"C:\\database logs\\DayLog " + str(today) + r".txt"
+        #path to files
+        my_file = Path(logdate)
+         #this turns the path to be read by .is_file()
+        if my_file.is_file():
+            log = open(logdate, "a")
+        else:
+            log = open(logdate, "w+")
+            #creates a file
+            log.close
+            log = open(logdate, "a")
+        log.write(localresults)
         
     elif incoming == "tight":
         hold_re = repr(hold)
@@ -746,16 +879,120 @@ def webRecord(incoming, hold):
         os.remove(r"C:\inetpub\wwwroot\database.html")
         os.rename(r"C:\inetpub\wwwroot\temp.txt", "C:\inetpub\wwwroot\database.html")
         #deletes the database file in there, and renames the text file to HTML
+        
+        #Below logs all acts locally in text files
+        now = datetime.now()
+        time = now.strftime("%H:%M:%S")
+        localresults = "["+ time +"] Tightened Results\n\n\n" + hold + "\n\n"
+        today = now.strftime("%b, %d, %y")
+        logdate = r"C:\\database logs\\DayLog " + str(today) + r".txt"
+        #path to files
+        my_file = Path(logdate)
+         #this turns the path to be read by .is_file()
+        if my_file.is_file():
+            log = open(logdate, "a")
+        else:
+            log = open(logdate, "w+")
+            #creates a file
+            log.close
+            log = open(logdate, "a")
+        log.write(localresults)
     elif incoming == "update":
         dhold = hold[0]
         ahold = hold[1]
+        global ucount
         webdude = open(r"C:\inetpub\wwwroot\temp.txt", "a")
-        results = results + "<b>Updated Entry #" + str(acount) + "</b><<br>" + str(dhold) + "<br><br> " + "Was replaced with: " + "<br><br>" + str(ahold) + "<br>"
+        results = results + "<b>Updated Entry #" + str(ucount) + "</b><<br>" + str(dhold) + "<br><br> " + "Was replaced with: " + "<br><br>" + str(ahold) + "<br><br>"
+        webdude.write(results)
+        webdude.close()
+        ucount = ucount + 1
+        os.remove(r"C:\inetpub\wwwroot\database.html")
+        os.rename(r"C:\inetpub\wwwroot\temp.txt", "C:\inetpub\wwwroot\database.html")
+        
+        #Below logs all acts locally in text files
+        now = datetime.now()
+        time = now.strftime("%H:%M:%S")
+        localresults = "["+ time +"] Updated Entry\n\n\n" + str(dhold) + "\n\nWas replaced with: \n\n" + str(ahold) + "\n\n"
+        today = now.strftime("%b, %d, %y")
+        logdate = r"C:\\database logs\\log " + str(today) + r".txt"
+        #path to files
+        my_file = Path(logdate)
+         #this turns the path to be read by .is_file()
+        if my_file.is_file():
+            log = open(logdate, "a")
+        else:
+            log = open(logdate, "w+")
+            #creates a file
+            log.close
+            log = open(logdate, "a")
+        log.write(localresults)
+    elif incoming == "newuser":
+        webdude = open(r"C:\inetpub\wwwroot\temp.txt", "a")
+        results = results + "<b>Added Account</b><br>" + hold + "<br><br>"
         webdude.write(results)
         webdude.close()
         acount = acount + 1
         os.remove(r"C:\inetpub\wwwroot\database.html")
         os.rename(r"C:\inetpub\wwwroot\temp.txt", "C:\inetpub\wwwroot\database.html")
+        
+        #Below logs all acts locally in text files
+        now = datetime.now()
+        time = now.strftime("%H:%M:%S")
+        localresults = "["+ time +"] Added Account\n\n" + hold + "\n\n"
+        today = now.strftime("%b, %d, %y")
+        logdate = r"C:\\database logs\\DayLog " + str(today) + r".txt"
+        #path to files
+        my_file = Path(logdate)
+         #this turns the path to be read by .is_file()
+        if my_file.is_file():
+            log = open(logdate, "a")
+        else:
+            log = open(logdate, "w+")
+            #creates a file
+            log.close
+            log = open(logdate, "a")
+        log.write(localresults)
+
+def accounts(username, password):
+    #true = 0
+    status = False
+    accounts = open(r"C:\database logs\accounts.txt")
+    for line in accounts:
+        line = line.strip()
+        list_of_words = line.split(",")                                                              #splits the line into a list at every ","
+        print(list_of_words)
+        if list_of_words[0] == username and list_of_words[1] == password:
+            global access
+            access = True
+            return True
+            
+
+def createAccount():
+    #accounts.write("eli's comin")
+    #accounts = open("junk.txt","a")
+    #accounts.write("junktst")
+    newuser = input("\nNew Username: ")
+    newpass = input("\nNew Password: ")
+    conpassword = input("\nConfirm New Password: ")
+    username = input("\n\nInput Current Admin Username: ")
+    password = input("\nInput Current Admin Password: ")
+    grant = accounts(username, password)
+    account = open(r"C:\database logs\accounts.txt", "a")
+
+
+    
+    if newpass == conpassword and grant:
+        tbs = "\n" + newuser + "," + newpass
+        account.write(str(tbs))
+        incoming = "newuser"
+        hold = tbs
+        webRecord(incoming, hold)
+        print("\nDone!")
+    else:
+        print("\nIncorrect admin login or not matching passwords.\n")
+
+    
+        
 
 if __name__ == '__main__':
         main()
