@@ -959,29 +959,27 @@ def accounts(username, password):
     accounts = open(r"C:\database logs\accounts.txt")
     for line in accounts:
         line = line.strip()
-        list_of_words = line.split(",")                                                              #splits the line into a list at every ","
+        list_of_words = line.split(",")                                                              
+        #splits the line into a list at every ","
         print(list_of_words)
         if list_of_words[0] == username and list_of_words[1] == password:
             global access
+            #this allows the user to only have to log in once
             access = True
             return True
             
 
 def createAccount():
-    #accounts.write("eli's comin")
-    #accounts = open("junk.txt","a")
-    #accounts.write("junktst")
     newuser = input("\nNew Username: ")
     newpass = input("\nNew Password: ")
     conpassword = input("\nConfirm New Password: ")
     username = input("\n\nInput Current Admin Username: ")
     password = input("\nInput Current Admin Password: ")
     grant = accounts(username, password)
+    #This makes sure the admins username and password matches with the already made code
     account = open(r"C:\database logs\accounts.txt", "a")
-
-
-    
     if newpass == conpassword and grant:
+    #This makes sure the passwords match and the admin is approved the account
         tbs = "\n" + newuser + "," + newpass
         account.write(str(tbs))
         incoming = "newuser"
