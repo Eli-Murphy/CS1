@@ -19,6 +19,7 @@ Created on March 3, 2021
         April 20: Happy 4/20, Added Local log recording, added true or false for auto opening
                        Added password protection for delete(), addition(), update()
         April 21: Added Username and Password adder
+        April 22: Cleaned up code and added documentation
 
 Bug: 
     March 30: There is a problem with the remove function where due to python holding the datatext.txt in RAM, it cannot fully run without manually clearing processes in procexp.exe
@@ -95,16 +96,21 @@ def main():
         
         
         if goto == "search first":
+            #All other search elifs are built almost exactly like this
+            #take this documentation for all of these search elifs
             hold = searchF(first_name)
             print(hold)
             incoming = "search"
             webRecord(incoming, hold)
+            #This records the output to the local logs and HTML logs
             tighten = input("Would you like to tighten your parameters? (y/n): ")
             if tighten == "y":
                 hold = tightenParameters(hold, first_name, last_name)
+                #This combines two search functions
                 print(hold)
                 incoming = "tight"
                 webRecord(incoming, hold)
+                #This records the output to the local logs and HTML logs
             else:
                 print("Please input y or n.")
                 
@@ -180,18 +186,28 @@ def main():
 
 
         elif goto == "add":
-            print("THIS AREA IS PASSWORD PROTECTED. PLEASE INPUT USERNAME AND PASSWORD")
-            username = input("Username: ")
-            password = input("Password: ")
-            grant = accounts(username, password)
-            if grant:
-                hold = addition()
-                print("Added!")
-                incoming = "add"
-                webRecord(incoming, hold)
+            if access == False:
+                print("THIS AREA IS PASSWORD PROTECTED. PLEASE INPUT USERNAME AND PASSWORD")
+                username = input("Username: ")
+                password = input("Password: ")
+                grant = accounts(username, password)
+                #this allows makes sure no accounts are added accidentally
+                if grant:
+                    hold = addition()
+                    #adds person to database
+                    print("Added!")
+                    incoming = "add"
+                    webRecord(incoming, hold)
+                    #This records the output to the local logs and HTML logs
+                else:
+                    print("Sorry! Incorrect password!")
             else:
-                print("Sorry! Incorrect password!")
-            
+                 hold = addition()
+                 #adds person to database
+                 print("Added!")
+                 incoming = "add"
+                 webRecord(incoming, hold)
+                #This records the output to the local logs and HTML logs
             
             
         elif goto == "delete":
@@ -200,109 +216,163 @@ def main():
                 username = input("Username: ")
                 password = input("Password: ")
                 grant = accounts(username, password)
+                #this allows makes sure no accounts are added accidentally
                 if grant:
                     hold = delete(first_name, last_name)
+                    #deletes person from database
                     incoming = "del"
                     webRecord(incoming, hold)
+                    #This records the output to the local logs and HTML logs
                 else:
                     print("Sorry! Incorrect password!")
             else:
                 hold = delete(first_name, last_name)
+                #deletes person from database
                 incoming = "del"
                 webRecord(incoming, hold)
-            
+                #This records the output to the local logs and HTML logs
+
         elif goto == "update":
-            print("THIS AREA IS PASSWORD PROTECTED. PLEASE INPUT USERNAME AND PASSWORD")
-            username = input("Username: ")
-            password = input("Password: ")
-            grant = accounts(username, password)
-            if grant:
+            if access == False:
+                print("THIS AREA IS PASSWORD PROTECTED. PLEASE INPUT USERNAME AND PASSWORD")
+                username = input("Username: ")
+                password = input("Password: ")
+                grant = accounts(username, password)
+                #this allows makes sure no accounts are updated accidentally
+                if grant:
+                    hold = update(first_name, last_name)
+                    #updates person in database
+                    incoming = "update"
+                    webRecord(incoming, hold)
+                    #This records the output to the local logs and HTML logs
+                else:
+                    print("Sorry! Incorrect password!")
+            else:
                 hold = update(first_name, last_name)
+                #updates person in database
                 incoming = "update"
                 webRecord(incoming, hold)
-            else:
-                print("Sorry! Incorrect password!")
-            
+                #This records the output to the local logs and HTML logs
+                
+                
+
         elif goto == "gender":
             d = genderC()
+            #this gets the frequency of each gender
             print(d)
+            #This prints the frequency
             incoming = "freq"
             hold = d
             webRecord(incoming, hold)
+            #This records the output to the local logs and HTML logs
             graph = input("Would you liked this graphed?")
-            if graph == "y":
-                plt = graphing(d)
-                try:
-                    plt.show()
-                except:
-                    print("Graphing Error")
-                #this sends the directory to a function I wrote
-                #that turns a directory to a graph
-            else: continue
+            while True:
+                if graph == "y":
+                    plt = graphing(d)
+                    #This sends the directory to a function to be graphed
+                    try:
+                        plt.show()
+                        break
+                    except:
+                        print("Graphing Error")
+                elif graph == "n":
+                    print("Please input either y or n. ")
+                else: break
             
             
         elif goto == "city":
             d = cityFreq()
+            #this gets the frequency of each city
             print(d)
+            #This prints the frequency
             incoming = "freq"
             hold = d
             webRecord(incoming, hold)
+            #This records the output to the local logs and HTML logs
             graph = input("Would you liked this graphed? (y/n): ")
-            if graph == "y":
-                plt = graphing(d)
-                try:
-                    plt.show()
-                except:
-                    print("Graphing Error")
-            else: continue
+            while True:
+                if graph == "y":
+                    plt = graphing(d)
+                    #This sends the directory to a function to be graphed
+                    try:
+                        plt.show()
+                        break
+                    except:
+                        print("Graphing Error")
+                elif graph == "n":
+                    print("Please input either y or n. ")
+                else: break
             
             
         elif goto == "grade":
             d = gradeFreq()
+            #this gets the frequency of each grade
             print(d)
+            #This prints the frequency
             incoming = "freq"
             hold = d
             webRecord(incoming, hold)
+            #This records the output to the local logs and HTML logs
             graph = input("Would you liked this graphed? (y/n): ")
-            if graph == "y":
-                plt = graphing(d)
-                try:
-                    plt.show()
-                except:
-                    print("Graphing Error")
-            else: continue
+            while True:
+                if graph == "y":
+                    plt = graphing(d)
+                    #This sends the directory to a function to be graphed
+                    try:
+                        plt.show()
+                        break
+                    except:
+                        print("Graphing Error")
+                elif graph == "n":
+                    print("Please input either y or n. ")
+                else: break
             
             
         elif goto == "advisors":
             d = advisorFreq()
+            #this gets the frequency of each advisor
             print(d)
+            #This prints the frequency
             incoming = "freq"
             hold = d
             webRecord(incoming, hold)
+            #This records the output to the local logs and HTML logs
             graph = input("Would you liked this graphed? (y/n): ")
-            if graph == "y":
-                plt = graphing(d)
-                try:
-                    plt.show()
-                except:
-                    print("Graphing Error")
-            else: continue
+            while True:
+                if graph == "y":
+                    plt = graphing(d)
+                    #This sends the directory to a function to be graphed
+                    try:
+                        plt.show()
+                        break
+                    except:
+                        print("Graphing Error")
+                elif graph == "n":
+                    print("Please input either y or n. ")
+                else: break
             
             
         elif goto == "states":
             d = stateFreq()
+            #this gets the frequency of each state
             print(d)
+            #This prints the frequency
             incoming = "freq"
             hold = d
             webRecord(incoming, hold)
+            #This records the output to the local logs and HTML logs
             graph = input("Would you liked this graphed? (y/n): ")
-            if graph == "y":
-                plt = graphing(d)
-                try:
-                    plt.show()
-                except:
-                    print("Graphing Error")
-            else: continue
+            while True:
+                if graph == "y":
+                    plt = graphing(d)
+                    #This sends the directory to a function to be graphed
+                    try:
+                        plt.show()
+                    except:
+                        print("Graphing Error")
+                elif graph == "n":
+                    print("Please input either y or n. ")
+                else: break                
         
         elif goto == "rename":
             yn = input("Doing this will wipe the HTML log. Continue? (y/n): ")
@@ -322,16 +392,16 @@ def searchF(first_name):
     count = 0
     hold =""
     almost = ""
-    for line in file_in: #read a line or record of info  ROW!!!
-        
+    for line in file_in: 
+    #read a line or record of info  ROW!!!
         line = line.lower()
-        
-        list_of_words = line.split(",")  #split into unique element using the delimeter ","
-        #print(list_of_words)
+        list_of_words = line.split(",")  
+        #split into unique element using the delimeter ","
         if list_of_words[0] == first_name:
             hold = hold + line
             count = count + 1
-    if count == 0:                          #if there are no results
+    if count == 0:
+    #if there are no results
         return "No Found Person"
     else:
         return hold
@@ -343,17 +413,21 @@ def searchL(last_name):
     count = 0
     hold = ""
     names = []
-    for line in file_in:                                                                                    #a loop for every line in the text file
+    for line in file_in:
+    #a loop for every line in the text file
         
         line = line.lower()
         
-        list_of_words = line.split(",")                                                              #splits the line into a list at every ","
-        if list_of_words[2] == last_name:                                                      #checks to see if words match with input
+        list_of_words = line.split(",")
+        #splits the line into a list at every ","
+        if list_of_words[2] == last_name:                                                      
+        #checks to see if words match with input
             hold = hold + line
             count = count + 1
     
         
-    if count == 0:                          #if there are no results
+    if count == 0:                         
+    #if there are no results
         return "No Found Person"
     else:
         return hold
@@ -366,18 +440,22 @@ def searchGrade(grade):
     hold = ""
     names = []
     
-    for line in file_in:                                                                                    #a loop for every line in the text file
+    for line in file_in:
+    #a loop for every line in the text file
         
         line = line.lower()
         
-        list_of_words = line.split(",")                                                              #splits the line into a list at every ","
-        if list_of_words[2] == grade:                                                      #checks to see if words match with input
+        list_of_words = line.split(",") 
+        #splits the line into a list at every ","
+        if list_of_words[2] == grade:
+        #checks to see if words match with input
             hold = hold + line
             count = count + 1
     
         
             
-    if count == 0:                          #if there are no results
+    if count == 0:
+    #if there are no results
         return "No Found Person"
     else:
         return hold
@@ -389,18 +467,22 @@ def searchCity(city):
     count = 0
     hold = ""
     names = []
-    for line in file_in:                                                                                    #a loop for every line in the text file
+    for line in file_in:                                                                                    
+    #a loop for every line in the text file
         
         line = line.lower()
         
-        list_of_words = line.split(",")                                                              #splits the line into a list at every ","
-        if list_of_words[7] == city:                                                      #checks to see if words match with input
+        list_of_words = line.split(",")                                                              
+        #splits the line into a list at every ","
+        if list_of_words[7] == city:                                                      
+        #checks to see if words match with input
             hold = hold + line
             count = count + 1
     
         
             
-    if count == 0:                          #if there are no results
+    if count == 0:                          
+    #if there are no results
         return "No Found Person"
     else:
         return hold
@@ -413,18 +495,22 @@ def searchAdvisor(advisor):
     count = 0
     hold = ""
     names = []
-    for line in file_in:                                                                                    #a loop for every line in the text file
+    for line in file_in:                                                                                    
+    #a loop for every line in the text file
         
         line = line.lower()
         
-        list_of_words = line.split(",")                                                              #splits the line into a list at every ","
-        if list_of_words[5] == advisor:                                                      #checks to see if words match with input
+        list_of_words = line.split(",")                                                            
+        #splits the line into a list at every ","
+        if list_of_words[5] == advisor:                                                     
+        #checks to see if words match with input
             hold = hold + line
             count = count + 1
     
         
            
-    if count == 0:                          #if there are no results
+    if count == 0:                         
+    #if there are no results
         return "No Found Person"
     else:
         return hold
@@ -442,11 +528,14 @@ def tightenParameters(hold, first_name, last_name):
         hold2 = searchF(first_name)
         hold1list = hold1.split("\n")
         hold2list = hold2.split("\n")
-        hold1list.remove("")
-        hold2list.remove("")
-        #this is a temporary hardcode problem 
-        #to remove the empty piece of data made 
-        #in the lists above
+        try:
+            hold1list.remove("")
+            hold2list.remove("")
+            #this is a temporary hardcode problem 
+            #to remove the empty piece of data made 
+            #in the lists above
+        except:
+            print("No results")
         
         for i in hold1list:
             for j in hold2list:
@@ -464,11 +553,14 @@ def tightenParameters(hold, first_name, last_name):
         hold2 = searchL(last_name)
         hold1list = hold1.split("\n")
         hold2list = hold2.split("\n")
-        hold1list.remove("")
-        hold2list.remove("")
-        #this is a temporary hardcode problem 
-        #to remove the empty piece of data made 
-        #in the lists above
+        try:
+            hold1list.remove("")
+            hold2list.remove("")
+            #this is a temporary hardcode problem 
+            #to remove the empty piece of data made 
+            #in the lists above
+        except:
+            print("No results")
         
         for i in hold1list:
             for j in hold2list:
@@ -486,11 +578,14 @@ def tightenParameters(hold, first_name, last_name):
         hold2 = searchGrade(grade)
         hold1list = hold1.split("\n")
         hold2list = hold2.split("\n")
-        hold1list.remove("")
-        hold2list.remove("")
-        #this is a temporary hardcode problem 
-        #to remove the empty piece of data made 
-        #in the lists above
+        try:
+            hold1list.remove("")
+            hold2list.remove("")
+            #this is a temporary hardcode problem 
+            #to remove the empty piece of data made 
+            #in the lists above
+        except:
+            print("No results")
         
         for i in hold1list:
             for j in hold2list:
@@ -508,11 +603,14 @@ def tightenParameters(hold, first_name, last_name):
         hold2 = searchCity(city)
         hold1list = hold1.split("\n")
         hold2list = hold2.split("\n")
-        hold1list.remove("")
-        hold2list.remove("")
-        #this is a temporary hardcode problem 
-        #to remove the empty piece of data made 
-        #in the lists above
+        try:
+            hold1list.remove("")
+            hold2list.remove("")
+            #this is a temporary hardcode problem 
+            #to remove the empty piece of data made 
+            #in the lists above
+        except:
+            print("No results")
         
         for i in hold1list:
             for j in hold2list:
@@ -530,12 +628,15 @@ def tightenParameters(hold, first_name, last_name):
         hold2 = searchAdvisor(advisor)
         hold1list = hold1.split("\n")
         hold2list = hold2.split("\n")
-        hold1list.remove("")
-        hold2list.remove("")
-        #this is a temporary hardcode problem 
-        #to remove the empty piece of data made 
-        #in the lists above
-        
+        try:
+            hold1list.remove("")
+            hold2list.remove("")
+            #this is a temporary hardcode problem 
+            #to remove the empty piece of data made 
+            #in the lists above
+        except:
+            print("No results")
+
         for i in hold1list:
             for j in hold2list:
                 if i == j:
