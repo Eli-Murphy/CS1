@@ -59,7 +59,7 @@ autohtml = False
 
 
 def main():
-    print("Welcome to the GCDS Directory ||| Created by Eli Murphy")
+    print("Welcome to the GCDS Directory ||| Created by Eli Murphy ||| All actions are logged on local machine ")
     first_name = input("\nWhats the first name of the person you are looking for?: ")
     last_name = input("\nWhats the last name of the person you are looking for?: ")
     webdude = open(r"C:\inetpub\wwwroot\temp.txt", "w")
@@ -76,26 +76,29 @@ def main():
     
     #adds header and date to the HTML output
     while True:
-        print("If you would like to search for info on somebody by their first name, enter 'search first'.")
-        print("If you would like to search for info on somebody by their last name, enter 'search last'.")
-        print("If you would like to search for info on somebody by their advisor, enter 'search advisor'.")
-        print("If you would like to search for info on somebody by their city, enter 'search city'.")
-        print("If you would like to search for info on somebody by their grade, enter 'search grade'.")
-        print("If you would like to add to the directory, enter 'add'.")
-        print("If you would like to update a already created entry, enter 'update'.")
-        print("If you would like to delete an entry, enter 'delete'.")
-        print("If you would like to count the frequencies of the cities enter 'city'.")
-        print("If you would like to count the frequencies of the states enter 'states'.")
-        print("If you would like to count the amount of people assigned to each advisor, enter 'advisors'.")
-        print("If you would like to count genders on the list, enter 'gender'.")
-        print("If you would like to create an admin account, enter 'new user'.\n")
+        print("  Please enter one of the cooresponding numbers. (1-15) ")
+        print("  (1)  Search for info on somebody by their first name.")
+        print("  (2)  Search for info on somebody by their last name.")
+        print("  (3)  Search for info on somebody by their advisor.")
+        print("  (4)  Search for info on somebody by their city.")
+        print("  (5)  Search for info on somebody by their grade.")
+        print("  (6)  Add to the directory.")
+        print("  (7)  Update a already created entry.")
+        print("  (8)  Delete an entry.")
+        print("  (9)  Count the frequencies of the cities.")
+        print("  (10)  Count the frequencies of the states.")
+        print("  (11)  Count the amount of people assigned to each advisor.")
+        print("  (12)  Count genders on the directory.")
+        print("  (13)  Count grades on the directory")
+        print("  (14)  Create an admin account.")
+        print("  (15)  Rename searched person.\n")
         goto = input("Enter Here: ")
         goto = goto.lower()
         first_name = first_name.lower()                     #This isolates the first and last name for functions
         last_name = last_name.lower()
         
         
-        if goto == "search first":
+        if goto == "1":
             #All other search elifs are built almost exactly like this
             #take this documentation for all of these search elifs
             hold = searchF(first_name)
@@ -115,7 +118,7 @@ def main():
                 print("Please input y or n.")
                 
                 
-        elif goto == "search last":
+        elif goto == "2":
             hold = searchL(last_name)
             print(hold)
             incoming = "search"
@@ -130,7 +133,7 @@ def main():
                 print("Please input y or n.")
 
 
-        elif goto == "search city":
+        elif goto == "4":
             city = input("What city are you looking for?: ")
             city = city.lower()
             hold = searchCity(city)
@@ -147,7 +150,7 @@ def main():
                 print("Please input y or n.")
 
 
-        elif goto == "search advisor":
+        elif goto == "3":
             advisor = input("What is the advisor's last name?: ")
             
             advisor =  '"' + advisor 
@@ -169,7 +172,7 @@ def main():
                 print("Please input y or n.")
 
 
-        elif goto == "search grade":
+        elif goto == "5":
             grade = input("What grade are you looking for? (N, PK, K, 1-12): ") 
             hold = searchGrade(grade)
             print(hold)
@@ -185,7 +188,7 @@ def main():
                 print("Please input y or n.")
 
 
-        elif goto == "add":
+        elif goto == "6":
             if access == False:
                 print("THIS AREA IS PASSWORD PROTECTED. PLEASE INPUT USERNAME AND PASSWORD")
                 username = input("Username: ")
@@ -210,7 +213,7 @@ def main():
                 #This records the output to the local logs and HTML logs
             
             
-        elif goto == "delete":
+        elif goto == "8":
             if access == False:
                 print("THIS AREA IS PASSWORD PROTECTED. PLEASE INPUT USERNAME AND PASSWORD")
                 username = input("Username: ")
@@ -232,7 +235,7 @@ def main():
                 webRecord(incoming, hold)
                 #This records the output to the local logs and HTML logs
 
-        elif goto == "update":
+        elif goto == "7":
             if access == False:
                 print("THIS AREA IS PASSWORD PROTECTED. PLEASE INPUT USERNAME AND PASSWORD")
                 username = input("Username: ")
@@ -256,7 +259,7 @@ def main():
                 
                 
 
-        elif goto == "gender":
+        elif goto == "12":
             d = genderC()
             #this gets the frequency of each gender
             print(d)
@@ -280,7 +283,7 @@ def main():
                 else: break
             
             
-        elif goto == "city":
+        elif goto == "9":
             d = cityFreq()
             #this gets the frequency of each city
             print(d)
@@ -304,7 +307,7 @@ def main():
                 else: break
             
             
-        elif goto == "grade":
+        elif goto == "13":
             d = gradeFreq()
             #this gets the frequency of each grade
             print(d)
@@ -328,7 +331,7 @@ def main():
                 else: break
             
             
-        elif goto == "advisors":
+        elif goto == "11":
             d = advisorFreq()
             #this gets the frequency of each advisor
             print(d)
@@ -352,7 +355,7 @@ def main():
                 else: break
             
             
-        elif goto == "states":
+        elif goto == "10":
             d = stateFreq()
             #this gets the frequency of each state
             print(d)
@@ -374,7 +377,7 @@ def main():
                     print("Please input either y or n. ")
                 else: break                
         
-        elif goto == "rename":
+        elif goto == "15":
             yn = input("Doing this will wipe the HTML log. Continue? (y/n): ")
             while True:
                 if yn == "y":
@@ -382,8 +385,12 @@ def main():
                 elif yn == "n": break
                 else: 
                     print("Please input either y or n.")
-        elif goto == "new user":
+                    
+        
+        elif goto == "14":
             createAccount()
+            
+            
         else:
             print("Sorry! Thats not an option. Please try again.")
 
