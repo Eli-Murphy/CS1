@@ -1076,7 +1076,6 @@ def accounts(username, password):
             access = True
             return True
             
-
 def createAccount():
     newuser = input("\nNew Username: ")
     newpass = input("\nNew Password: ")
@@ -1096,9 +1095,6 @@ def createAccount():
         print("\nDone!")
     else:
         print("\nIncorrect admin login or not matching passwords.\n")
-
-    
-        
 
 if __name__ == '__main__':
         main()
